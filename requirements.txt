@@ -1,3 +1,4 @@
+music21==6.7.1
 chant21==0.4.6
 jupyter==1.0.0
 jupyterlab==3.0.12
@@ -5,6 +6,6 @@ music21==6.7.1
 numpy==1.20.2
 pandas==1.2.3
 scikit-learn==0.24.1
-scipy==1.6.2
+scipy==1.7
 seaborn==0.11.1
 tables==3.6.1

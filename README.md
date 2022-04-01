@@ -36,7 +36,10 @@ Online, 2021
 Repository structure 
 --------------------
 
-- **`data/`** The data analyzed in the paper: melodic material from various datasets. The melodies are all represented as fixed-length pitch sequences (see paper for details), and stored as csv files. The original datasets (which we put in a `datasets/` directory) are not included in this repository, but are available online (or just contact us and we can share those).
+- **`data/`** The data analyzed in the paper: melodic material from various datasets. The melodies are all represented as fixed-length pitch sequences (see paper for details), and stored as csv files.
+- **`datasets/`** Contains the original datasets, which are not included in this repository, 
+but are available online (or just contact us and we can share those). See the
+[Readme](datasets/README.md) for details.
 - **`notebooks/`** Contains the notebooks used in the experiments and to generate all figures. 
 - **`figures/`** Contains all figures presented in the paper and supplements. 
 

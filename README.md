@@ -5,7 +5,7 @@ This repository contains the data and code for the paper
 'Cosine Contours: A  Multipurpose Representation for Melodies' to be presented at [International Society for Music Information Retrieval conference 
 (ISMIR2021)](https://ismir2021.ismir.net/). 
 
-[📖 &nbsp;Paper](documents/paper.pdf) ([supplements](documents/supplements.pdf)) &nbsp; • &nbsp; 🎬 &nbsp;Video &nbsp; • &nbsp; 📜 &nbsp;Poster
+[📖 &nbsp;Paper](documents/paper.pdf) ([supplements](documents/supplements.pdf)) &nbsp; • &nbsp; 🎬 &nbsp;[Video](https://youtu.be/VZODY463mPg) &nbsp; • &nbsp; 📜 &nbsp;[Poster/slides](documents/poster.pdf)
 
 ----
 

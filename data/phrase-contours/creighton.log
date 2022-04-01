@@ -1,312 +1,312 @@
-INFO 27-04-21 16:42:18 Generating contour dataset: creighton
-INFO 27-04-21 16:42:18 Extracting phrase contours...
-INFO 27-04-21 16:42:18 Extracted 08 contours from nova001.krn
-INFO 27-04-21 16:42:18 Extracted 04 contours from nova002.krn
-INFO 27-04-21 16:42:18 Extracted 08 contours from nova003.krn
-INFO 27-04-21 16:42:18 Extracted 04 contours from nova004.krn
-INFO 27-04-21 16:42:18 Extracted 05 contours from nova005.krn
-INFO 27-04-21 16:42:18 Extracted 04 contours from nova006.krn
-INFO 27-04-21 16:42:18 Extracted 04 contours from nova007.krn
-INFO 27-04-21 16:42:18 Extracted 04 contours from nova008.krn
-INFO 27-04-21 16:42:18 Extracted 05 contours from nova009.krn
-INFO 27-04-21 16:42:18 Extracted 05 contours from nova010.krn
-INFO 27-04-21 16:42:18 Extracted 05 contours from nova011.krn
-INFO 27-04-21 16:42:18 Extracted 04 contours from nova012.krn
-INFO 27-04-21 16:42:18 Extracted 04 contours from nova013.krn
-INFO 27-04-21 16:42:18 Extracted 06 contours from nova014.krn
-INFO 27-04-21 16:42:18 Extracted 04 contours from nova015.krn
-INFO 27-04-21 16:42:18 Extracted 04 contours from nova016.krn
-INFO 27-04-21 16:42:18 Extracted 04 contours from nova017.krn
-INFO 27-04-21 16:42:18 Extracted 06 contours from nova018.krn
-INFO 27-04-21 16:42:19 Extracted 04 contours from nova019.krn
-INFO 27-04-21 16:42:19 Extracted 08 contours from nova020.krn
-INFO 27-04-21 16:42:19 Extracted 08 contours from nova021.krn
-INFO 27-04-21 16:42:19 Extracted 03 contours from nova022.krn
-INFO 27-04-21 16:42:19 Extracted 06 contours from nova023.krn
-INFO 27-04-21 16:42:19 Extracted 08 contours from nova024.krn
-INFO 27-04-21 16:42:19 Extracted 04 contours from nova025.krn
-INFO 27-04-21 16:42:19 Extracted 05 contours from nova026.krn
-INFO 27-04-21 16:42:19 Extracted 04 contours from nova027.krn
-INFO 27-04-21 16:42:19 Extracted 04 contours from nova028.krn
-INFO 27-04-21 16:42:19 Extracted 05 contours from nova029.krn
-INFO 27-04-21 16:42:19 Extracted 04 contours from nova030.krn
-INFO 27-04-21 16:42:19 Extracted 04 contours from nova031.krn
-INFO 27-04-21 16:42:19 Extracted 06 contours from nova032.krn
-INFO 27-04-21 16:42:19 Extracted 07 contours from nova033.krn
-INFO 27-04-21 16:42:19 Extracted 04 contours from nova034.krn
-INFO 27-04-21 16:42:19 Extracted 04 contours from nova035.krn
-INFO 27-04-21 16:42:19 Extracted 04 contours from nova036.krn
-INFO 27-04-21 16:42:19 Extracted 04 contours from nova037.krn
-INFO 27-04-21 16:42:19 Extracted 04 contours from nova038.krn
-INFO 27-04-21 16:42:19 Extracted 06 contours from nova039.krn
-INFO 27-04-21 16:42:20 Extracted 04 contours from nova040.krn
-INFO 27-04-21 16:42:20 Extracted 04 contours from nova041.krn
-INFO 27-04-21 16:42:20 Extracted 08 contours from nova042.krn
-INFO 27-04-21 16:42:20 Extracted 08 contours from nova043.krn
-INFO 27-04-21 16:42:20 Extracted 04 contours from nova044a.krn
-INFO 27-04-21 16:42:20 Extracted 04 contours from nova044b.krn
-INFO 27-04-21 16:42:20 Extracted 04 contours from nova045.krn
-INFO 27-04-21 16:42:20 Extracted 04 contours from nova046.krn
-INFO 27-04-21 16:42:20 Extracted 04 contours from nova047.krn
-INFO 27-04-21 16:42:20 Extracted 08 contours from nova048.krn
-INFO 27-04-21 16:42:20 Extracted 08 contours from nova049.krn
-INFO 27-04-21 16:42:20 Extracted 09 contours from nova050.krn
-INFO 27-04-21 16:42:20 Extracted 08 contours from nova051.krn
-INFO 27-04-21 16:42:20 Extracted 04 contours from nova052.krn
-INFO 27-04-21 16:42:20 Extracted 08 contours from nova053.krn
-INFO 27-04-21 16:42:20 Extracted 04 contours from nova054.krn
-INFO 27-04-21 16:42:20 Extracted 04 contours from nova055.krn
-INFO 27-04-21 16:42:20 Extracted 08 contours from nova056.krn
-INFO 27-04-21 16:42:20 Extracted 12 contours from nova057.krn
-INFO 27-04-21 16:42:20 Extracted 08 contours from nova058.krn
-INFO 27-04-21 16:42:20 Extracted 08 contours from nova059.krn
-INFO 27-04-21 16:42:20 Extracted 03 contours from nova060.krn
-INFO 27-04-21 16:42:21 Extracted 04 contours from nova061.krn
-INFO 27-04-21 16:42:21 Extracted 08 contours from nova062.krn
-INFO 27-04-21 16:42:21 Extracted 04 contours from nova063.krn
-INFO 27-04-21 16:42:21 Extracted 04 contours from nova064.krn
-INFO 27-04-21 16:42:21 Extracted 04 contours from nova065.krn
-INFO 27-04-21 16:42:21 Extracted 06 contours from nova066.krn
-INFO 27-04-21 16:42:21 Extracted 08 contours from nova067.krn
-INFO 27-04-21 16:42:21 Extracted 08 contours from nova068.krn
-INFO 27-04-21 16:42:21 Extracted 06 contours from nova069.krn
-INFO 27-04-21 16:42:21 Extracted 04 contours from nova070.krn
-INFO 27-04-21 16:42:21 Extracted 04 contours from nova071.krn
-INFO 27-04-21 16:42:21 Extracted 04 contours from nova072.krn
-INFO 27-04-21 16:42:21 Extracted 08 contours from nova073.krn
-INFO 27-04-21 16:42:21 Extracted 08 contours from nova074.krn
-INFO 27-04-21 16:42:21 Extracted 06 contours from nova075.krn
-INFO 27-04-21 16:42:21 Extracted 08 contours from nova076.krn
-INFO 27-04-21 16:42:21 Extracted 08 contours from nova077.krn
-INFO 27-04-21 16:42:21 Extracted 06 contours from nova078.krn
-INFO 27-04-21 16:42:22 Extracted 07 contours from nova079.krn
-INFO 27-04-21 16:42:22 Extracted 04 contours from nova080.krn
-INFO 27-04-21 16:42:22 Extracted 12 contours from nova081.krn
-INFO 27-04-21 16:42:22 Extracted 06 contours from nova082.krn
-INFO 27-04-21 16:42:22 Extracted 04 contours from nova083.krn
-INFO 27-04-21 16:42:22 Extracted 04 contours from nova084.krn
-INFO 27-04-21 16:42:22 Extracted 04 contours from nova085.krn
-INFO 27-04-21 16:42:22 Extracted 12 contours from nova086.krn
-INFO 27-04-21 16:42:22 Extracted 08 contours from nova087.krn
-INFO 27-04-21 16:42:22 Extracted 06 contours from nova088.krn
-INFO 27-04-21 16:42:22 Extracted 05 contours from nova089.krn
-INFO 27-04-21 16:42:22 Extracted 08 contours from nova090.krn
-INFO 27-04-21 16:42:22 Extracted 06 contours from nova091.krn
-INFO 27-04-21 16:42:22 Extracted 04 contours from nova092.krn
-INFO 27-04-21 16:42:22 Extracted 09 contours from nova093.krn
-INFO 27-04-21 16:42:22 Extracted 06 contours from nova094.krn
-INFO 27-04-21 16:42:22 Extracted 07 contours from nova095.krn
-INFO 27-04-21 16:42:22 Extracted 04 contours from nova096.krn
-INFO 27-04-21 16:42:22 Extracted 04 contours from nova097.krn
-INFO 27-04-21 16:42:23 Extracted 08 contours from nova098.krn
-INFO 27-04-21 16:42:23 Extracted 04 contours from nova099.krn
-INFO 27-04-21 16:42:23 Extracted 05 contours from nova100.krn
-INFO 27-04-21 16:42:23 Extracted 08 contours from nova101.krn
-INFO 27-04-21 16:42:23 Extracted 04 contours from nova102.krn
-INFO 27-04-21 16:42:23 Extracted 08 contours from nova103.krn
-INFO 27-04-21 16:42:23 Extracted 08 contours from nova104.krn
-INFO 27-04-21 16:42:23 Extracted 04 contours from nova105.krn
-INFO 27-04-21 16:42:23 Extracted 16 contours from nova106.krn
-INFO 27-04-21 16:42:23 Extracted 04 contours from nova107.krn
-INFO 27-04-21 16:42:23 Extracted 05 contours from nova108.krn
-INFO 27-04-21 16:42:23 Extracted 04 contours from nova109.krn
-INFO 27-04-21 16:42:23 Extracted 04 contours from nova110.krn
-INFO 27-04-21 16:42:23 Extracted 04 contours from nova111.krn
-INFO 27-04-21 16:42:23 Extracted 08 contours from nova112.krn
-INFO 27-04-21 16:42:23 Extracted 04 contours from nova113.krn
-INFO 27-04-21 16:42:23 Extracted 08 contours from nova114.krn
-INFO 27-04-21 16:42:23 Extracted 08 contours from nova115.krn
-INFO 27-04-21 16:42:23 Extracted 04 contours from nova116.krn
-INFO 27-04-21 16:42:23 Extracted 07 contours from nova117.krn
-INFO 27-04-21 16:42:23 Extracted 04 contours from nova118.krn
-INFO 27-04-21 16:42:24 Extracted 04 contours from nova119.krn
-INFO 27-04-21 16:42:24 Extracted 02 contours from nova120.krn
-INFO 27-04-21 16:42:24 Extracted 04 contours from nova121a.krn
-INFO 27-04-21 16:42:24 Extracted 04 contours from nova121b.krn
-INFO 27-04-21 16:42:24 Extracted 05 contours from nova122.krn
-INFO 27-04-21 16:42:24 Extracted 04 contours from nova123.krn
-INFO 27-04-21 16:42:24 Extracted 05 contours from nova124.krn
-INFO 27-04-21 16:42:24 Extracted 08 contours from nova125.krn
-INFO 27-04-21 16:42:24 Extracted 06 contours from nova126.krn
-INFO 27-04-21 16:42:24 Extracted 04 contours from nova127.krn
-INFO 27-04-21 16:42:24 Extracted 08 contours from nova128.krn
-INFO 27-04-21 16:42:24 Extracted 08 contours from nova129.krn
-INFO 27-04-21 16:42:24 Extracted 08 contours from nova130.krn
-INFO 27-04-21 16:42:24 Extracted 08 contours from nova131.krn
-INFO 27-04-21 16:42:24 Extracted 08 contours from nova132.krn
-INFO 27-04-21 16:42:24 Extracted 04 contours from nova133.krn
-INFO 27-04-21 16:42:24 Extracted 08 contours from nova134.krn
-INFO 27-04-21 16:42:24 Extracted 08 contours from nova135.krn
-INFO 27-04-21 16:42:24 Extracted 04 contours from nova136.krn
-INFO 27-04-21 16:42:25 Extracted 08 contours from nova137.krn
-INFO 27-04-21 16:42:25 Extracted 08 contours from nova138.krn
-INFO 27-04-21 16:42:25 Extracted 06 contours from nova139.krn
-INFO 27-04-21 16:42:25 Extracted 04 contours from nova140.krn
-INFO 27-04-21 16:42:25 Extracted 08 contours from nova141.krn
-INFO 27-04-21 16:42:25 Extracted 04 contours from nova142.krn
-INFO 27-04-21 16:42:25 Extracted 08 contours from nova143.krn
-INFO 27-04-21 16:42:25 Extracted 04 contours from nova144.krn
-INFO 27-04-21 16:42:25 Extracted 08 contours from nova145.krn
-INFO 27-04-21 16:42:25 Extracted 04 contours from nova146.krn
-INFO 27-04-21 16:42:25 Extracted 04 contours from nova147.krn
-INFO 27-04-21 16:42:25 Extracted 04 contours from nova148.krn
-INFO 27-04-21 16:42:25 Extracted 08 contours from nova149.krn
-INFO 27-04-21 16:42:25 Extracted 08 contours from nova150.krn
-INFO 27-04-21 16:42:25 Stored phrase contours to contours/creighton-phrase-contours.csv
-INFO 27-04-21 16:42:25 md5 checksum: 1ed86198619c7aa79184ab8372d22b81
-INFO 27-04-21 16:42:25 Extracting random contours with mean length lamb=9.78...
-INFO 27-04-21 16:42:25 Extracted 10 contours from nova001.krn
-INFO 27-04-21 16:42:25 Extracted 01 contours from nova002.krn
-INFO 27-04-21 16:42:25 Extracted 06 contours from nova003.krn
-INFO 27-04-21 16:42:26 Extracted 02 contours from nova004.krn
-INFO 27-04-21 16:42:26 Extracted 03 contours from nova005.krn
-INFO 27-04-21 16:42:26 Extracted 04 contours from nova006.krn
-INFO 27-04-21 16:42:26 Extracted 02 contours from nova007.krn
-INFO 27-04-21 16:42:26 Extracted 03 contours from nova008.krn
-INFO 27-04-21 16:42:26 Extracted 04 contours from nova009.krn
-INFO 27-04-21 16:42:26 Extracted 05 contours from nova010.krn
-INFO 27-04-21 16:42:26 Extracted 05 contours from nova011.krn
-INFO 27-04-21 16:42:26 Extracted 03 contours from nova012.krn
-INFO 27-04-21 16:42:26 Extracted 03 contours from nova013.krn
-INFO 27-04-21 16:42:26 Extracted 06 contours from nova014.krn
-INFO 27-04-21 16:42:26 Extracted 05 contours from nova015.krn
-INFO 27-04-21 16:42:26 Extracted 02 contours from nova016.krn
-INFO 27-04-21 16:42:26 Extracted 04 contours from nova017.krn
-INFO 27-04-21 16:42:26 Extracted 06 contours from nova018.krn
-INFO 27-04-21 16:42:26 Extracted 05 contours from nova019.krn
-INFO 27-04-21 16:42:26 Extracted 08 contours from nova020.krn
-INFO 27-04-21 16:42:26 Extracted 05 contours from nova021.krn
-INFO 27-04-21 16:42:27 Extracted 02 contours from nova022.krn
-INFO 27-04-21 16:42:27 Extracted 04 contours from nova023.krn
-INFO 27-04-21 16:42:27 Extracted 05 contours from nova024.krn
-INFO 27-04-21 16:42:27 Extracted 02 contours from nova025.krn
-INFO 27-04-21 16:42:27 Extracted 02 contours from nova026.krn
-INFO 27-04-21 16:42:27 Extracted 02 contours from nova027.krn
-INFO 27-04-21 16:42:27 Extracted 02 contours from nova028.krn
-INFO 27-04-21 16:42:27 Extracted 05 contours from nova029.krn
-INFO 27-04-21 16:42:27 Extracted 05 contours from nova030.krn
-INFO 27-04-21 16:42:27 Extracted 01 contours from nova031.krn
-INFO 27-04-21 16:42:27 Extracted 03 contours from nova032.krn
-INFO 27-04-21 16:42:27 Extracted 05 contours from nova033.krn
-INFO 27-04-21 16:42:27 Extracted 06 contours from nova034.krn
-INFO 27-04-21 16:42:27 Extracted 03 contours from nova035.krn
-INFO 27-04-21 16:42:27 Extracted 06 contours from nova036.krn
-INFO 27-04-21 16:42:27 Extracted 02 contours from nova037.krn
-INFO 27-04-21 16:42:27 Extracted 04 contours from nova038.krn
-INFO 27-04-21 16:42:27 Extracted 06 contours from nova039.krn
-INFO 27-04-21 16:42:27 Extracted 02 contours from nova040.krn
-INFO 27-04-21 16:42:28 Extracted 04 contours from nova041.krn
-INFO 27-04-21 16:42:28 Extracted 06 contours from nova042.krn
-INFO 27-04-21 16:42:28 Extracted 06 contours from nova043.krn
-INFO 27-04-21 16:42:28 Extracted 02 contours from nova044a.krn
-INFO 27-04-21 16:42:28 Extracted 01 contours from nova044b.krn
-INFO 27-04-21 16:42:28 Extracted 04 contours from nova045.krn
-INFO 27-04-21 16:42:28 Extracted 04 contours from nova046.krn
-INFO 27-04-21 16:42:28 Extracted 03 contours from nova047.krn
-INFO 27-04-21 16:42:28 Extracted 05 contours from nova048.krn
-INFO 27-04-21 16:42:28 Extracted 07 contours from nova049.krn
-INFO 27-04-21 16:42:28 Extracted 05 contours from nova050.krn
-INFO 27-04-21 16:42:28 Extracted 04 contours from nova051.krn
-INFO 27-04-21 16:42:28 Extracted 04 contours from nova052.krn
-INFO 27-04-21 16:42:28 Extracted 03 contours from nova053.krn
-INFO 27-04-21 16:42:28 Extracted 03 contours from nova054.krn
-INFO 27-04-21 16:42:28 Extracted 02 contours from nova055.krn
-INFO 27-04-21 16:42:28 Extracted 05 contours from nova056.krn
-INFO 27-04-21 16:42:28 Extracted 08 contours from nova057.krn
-INFO 27-04-21 16:42:29 Extracted 05 contours from nova058.krn
-INFO 27-04-21 16:42:29 Extracted 04 contours from nova059.krn
-WARNING 27-04-21 16:42:29 Skipping nova060: ufunc 'nextafter' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
-INFO 27-04-21 16:42:29 Extracted 04 contours from nova061.krn
-INFO 27-04-21 16:42:29 Extracted 05 contours from nova062.krn
-INFO 27-04-21 16:42:29 Extracted 04 contours from nova063.krn
-INFO 27-04-21 16:42:29 Extracted 04 contours from nova064.krn
-WARNING 27-04-21 16:42:29 Skipping nova065: A contour should have at least three pitches
-INFO 27-04-21 16:42:29 Extracted 04 contours from nova066.krn
-INFO 27-04-21 16:42:29 Extracted 06 contours from nova067.krn
-INFO 27-04-21 16:42:29 Extracted 07 contours from nova068.krn
-INFO 27-04-21 16:42:29 Extracted 06 contours from nova069.krn
-INFO 27-04-21 16:42:29 Extracted 02 contours from nova070.krn
-INFO 27-04-21 16:42:29 Extracted 05 contours from nova071.krn
-INFO 27-04-21 16:42:29 Extracted 05 contours from nova072.krn
-INFO 27-04-21 16:42:29 Extracted 12 contours from nova073.krn
-INFO 27-04-21 16:42:29 Extracted 05 contours from nova074.krn
-INFO 27-04-21 16:42:30 Extracted 04 contours from nova075.krn
-INFO 27-04-21 16:42:30 Extracted 06 contours from nova076.krn
-INFO 27-04-21 16:42:30 Extracted 08 contours from nova077.krn
-INFO 27-04-21 16:42:30 Extracted 07 contours from nova078.krn
-INFO 27-04-21 16:42:30 Extracted 06 contours from nova079.krn
-INFO 27-04-21 16:42:30 Extracted 06 contours from nova080.krn
-INFO 27-04-21 16:42:30 Extracted 08 contours from nova081.krn
-INFO 27-04-21 16:42:30 Extracted 08 contours from nova082.krn
-INFO 27-04-21 16:42:30 Extracted 04 contours from nova083.krn
-INFO 27-04-21 16:42:30 Extracted 01 contours from nova084.krn
-INFO 27-04-21 16:42:30 Extracted 03 contours from nova085.krn
-INFO 27-04-21 16:42:30 Extracted 10 contours from nova086.krn
-INFO 27-04-21 16:42:30 Extracted 05 contours from nova087.krn
-INFO 27-04-21 16:42:30 Extracted 06 contours from nova088.krn
-INFO 27-04-21 16:42:30 Extracted 02 contours from nova089.krn
-INFO 27-04-21 16:42:31 Extracted 07 contours from nova090.krn
-INFO 27-04-21 16:42:31 Extracted 04 contours from nova091.krn
-INFO 27-04-21 16:42:31 Extracted 02 contours from nova092.krn
-INFO 27-04-21 16:42:31 Extracted 11 contours from nova093.krn
-INFO 27-04-21 16:42:31 Extracted 03 contours from nova094.krn
-INFO 27-04-21 16:42:31 Extracted 04 contours from nova095.krn
-INFO 27-04-21 16:42:31 Extracted 06 contours from nova096.krn
-INFO 27-04-21 16:42:31 Extracted 06 contours from nova097.krn
-INFO 27-04-21 16:42:31 Extracted 07 contours from nova098.krn
-INFO 27-04-21 16:42:31 Extracted 04 contours from nova099.krn
-INFO 27-04-21 16:42:31 Extracted 05 contours from nova100.krn
-INFO 27-04-21 16:42:31 Extracted 05 contours from nova101.krn
-INFO 27-04-21 16:42:31 Extracted 03 contours from nova102.krn
-INFO 27-04-21 16:42:31 Extracted 06 contours from nova103.krn
-INFO 27-04-21 16:42:31 Extracted 07 contours from nova104.krn
-INFO 27-04-21 16:42:31 Extracted 06 contours from nova105.krn
-INFO 27-04-21 16:42:32 Extracted 10 contours from nova106.krn
-INFO 27-04-21 16:42:32 Extracted 01 contours from nova107.krn
-INFO 27-04-21 16:42:32 Extracted 05 contours from nova108.krn
-INFO 27-04-21 16:42:32 Extracted 07 contours from nova109.krn
-INFO 27-04-21 16:42:32 Extracted 06 contours from nova110.krn
-INFO 27-04-21 16:42:32 Extracted 04 contours from nova111.krn
-INFO 27-04-21 16:42:32 Extracted 04 contours from nova112.krn
-INFO 27-04-21 16:42:32 Extracted 03 contours from nova113.krn
-INFO 27-04-21 16:42:32 Extracted 04 contours from nova114.krn
-INFO 27-04-21 16:42:32 Extracted 06 contours from nova115.krn
-INFO 27-04-21 16:42:32 Extracted 05 contours from nova116.krn
-INFO 27-04-21 16:42:32 Extracted 06 contours from nova117.krn
-INFO 27-04-21 16:42:32 Extracted 01 contours from nova118.krn
-WARNING 27-04-21 16:42:32 Skipping nova119: ufunc 'nextafter' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
-INFO 27-04-21 16:42:32 Extracted 02 contours from nova120.krn
-INFO 27-04-21 16:42:32 Extracted 05 contours from nova121a.krn
-INFO 27-04-21 16:42:32 Extracted 03 contours from nova121b.krn
-INFO 27-04-21 16:42:32 Extracted 08 contours from nova122.krn
-INFO 27-04-21 16:42:33 Extracted 07 contours from nova123.krn
-INFO 27-04-21 16:42:33 Extracted 04 contours from nova124.krn
-INFO 27-04-21 16:42:33 Extracted 05 contours from nova125.krn
-INFO 27-04-21 16:42:33 Extracted 06 contours from nova126.krn
-INFO 27-04-21 16:42:33 Extracted 03 contours from nova127.krn
-INFO 27-04-21 16:42:33 Extracted 06 contours from nova128.krn
-INFO 27-04-21 16:42:33 Extracted 09 contours from nova129.krn
-INFO 27-04-21 16:42:33 Extracted 05 contours from nova130.krn
-INFO 27-04-21 16:42:33 Extracted 10 contours from nova131.krn
-INFO 27-04-21 16:42:33 Extracted 05 contours from nova132.krn
-INFO 27-04-21 16:42:33 Extracted 04 contours from nova133.krn
-INFO 27-04-21 16:42:33 Extracted 06 contours from nova134.krn
-INFO 27-04-21 16:42:33 Extracted 06 contours from nova135.krn
-INFO 27-04-21 16:42:33 Extracted 05 contours from nova136.krn
-INFO 27-04-21 16:42:33 Extracted 04 contours from nova137.krn
-INFO 27-04-21 16:42:33 Extracted 05 contours from nova138.krn
-INFO 27-04-21 16:42:34 Extracted 06 contours from nova139.krn
-INFO 27-04-21 16:42:34 Extracted 05 contours from nova140.krn
-INFO 27-04-21 16:42:34 Extracted 07 contours from nova141.krn
-INFO 27-04-21 16:42:34 Extracted 01 contours from nova142.krn
-INFO 27-04-21 16:42:34 Extracted 05 contours from nova143.krn
-INFO 27-04-21 16:42:34 Extracted 06 contours from nova144.krn
-INFO 27-04-21 16:42:34 Extracted 05 contours from nova145.krn
-INFO 27-04-21 16:42:34 Extracted 01 contours from nova146.krn
-INFO 27-04-21 16:42:34 Extracted 03 contours from nova147.krn
-INFO 27-04-21 16:42:34 Extracted 05 contours from nova148.krn
-INFO 27-04-21 16:42:34 Extracted 05 contours from nova149.krn
-INFO 27-04-21 16:42:34 Extracted 06 contours from nova150.krn
-INFO 27-04-21 16:42:34 Mean length of random phrases: 8.88...
-INFO 27-04-21 16:42:34 Stored random contours to contours/creighton-random-contours.csv
-INFO 27-04-21 16:42:34 md5 checksum: f9f1a3ae8fa4d530ce9d72928b43d61c
+Generating contour dataset: creighton
+Extracting phrase contours...
+Extracted 08 contours from nova001.krn
+Extracted 04 contours from nova002.krn
+Extracted 08 contours from nova003.krn
+Extracted 04 contours from nova004.krn
+Extracted 05 contours from nova005.krn
+Extracted 04 contours from nova006.krn
+Extracted 04 contours from nova007.krn
+Extracted 04 contours from nova008.krn
+Extracted 05 contours from nova009.krn
+Extracted 05 contours from nova010.krn
+Extracted 05 contours from nova011.krn
+Extracted 04 contours from nova012.krn
+Extracted 04 contours from nova013.krn
+Extracted 06 contours from nova014.krn
+Extracted 04 contours from nova015.krn
+Extracted 04 contours from nova016.krn
+Extracted 04 contours from nova017.krn
+Extracted 06 contours from nova018.krn
+Extracted 04 contours from nova019.krn
+Extracted 08 contours from nova020.krn
+Extracted 08 contours from nova021.krn
+Extracted 03 contours from nova022.krn
+Extracted 06 contours from nova023.krn
+Extracted 08 contours from nova024.krn
+Extracted 04 contours from nova025.krn
+Extracted 05 contours from nova026.krn
+Extracted 04 contours from nova027.krn
+Extracted 04 contours from nova028.krn
+Extracted 05 contours from nova029.krn
+Extracted 04 contours from nova030.krn
+Extracted 04 contours from nova031.krn
+Extracted 06 contours from nova032.krn
+Extracted 07 contours from nova033.krn
+Extracted 04 contours from nova034.krn
+Extracted 04 contours from nova035.krn
+Extracted 04 contours from nova036.krn
+Extracted 04 contours from nova037.krn
+Extracted 04 contours from nova038.krn
+Extracted 06 contours from nova039.krn
+Extracted 04 contours from nova040.krn
+Extracted 04 contours from nova041.krn
+Extracted 08 contours from nova042.krn
+Extracted 08 contours from nova043.krn
+Extracted 04 contours from nova044a.krn
+Extracted 04 contours from nova044b.krn
+Extracted 04 contours from nova045.krn
+Extracted 04 contours from nova046.krn
+Extracted 04 contours from nova047.krn
+Extracted 08 contours from nova048.krn
+Extracted 08 contours from nova049.krn
+Extracted 09 contours from nova050.krn
+Extracted 08 contours from nova051.krn
+Extracted 04 contours from nova052.krn
+Extracted 08 contours from nova053.krn
+Extracted 04 contours from nova054.krn
+Extracted 04 contours from nova055.krn
+Extracted 08 contours from nova056.krn
+Extracted 12 contours from nova057.krn
+Extracted 08 contours from nova058.krn
+Extracted 08 contours from nova059.krn
+Extracted 03 contours from nova060.krn
+Extracted 04 contours from nova061.krn
+Extracted 08 contours from nova062.krn
+Extracted 04 contours from nova063.krn
+Extracted 04 contours from nova064.krn
+Extracted 04 contours from nova065.krn
+Extracted 06 contours from nova066.krn
+Extracted 08 contours from nova067.krn
+Extracted 08 contours from nova068.krn
+Extracted 06 contours from nova069.krn
+Extracted 04 contours from nova070.krn
+Extracted 04 contours from nova071.krn
+Extracted 04 contours from nova072.krn
+Extracted 08 contours from nova073.krn
+Extracted 08 contours from nova074.krn
+Extracted 06 contours from nova075.krn
+Extracted 08 contours from nova076.krn
+Extracted 08 contours from nova077.krn
+Extracted 06 contours from nova078.krn
+Extracted 07 contours from nova079.krn
+Extracted 04 contours from nova080.krn
+Extracted 12 contours from nova081.krn
+Extracted 06 contours from nova082.krn
+Extracted 04 contours from nova083.krn
+Extracted 04 contours from nova084.krn
+Extracted 04 contours from nova085.krn
+Extracted 12 contours from nova086.krn
+Extracted 08 contours from nova087.krn
+Extracted 06 contours from nova088.krn
+Extracted 05 contours from nova089.krn
+Extracted 08 contours from nova090.krn
+Extracted 06 contours from nova091.krn
+Extracted 04 contours from nova092.krn
+Extracted 09 contours from nova093.krn
+Extracted 06 contours from nova094.krn
+Extracted 07 contours from nova095.krn
+Extracted 04 contours from nova096.krn
+Extracted 04 contours from nova097.krn
+Extracted 08 contours from nova098.krn
+Extracted 04 contours from nova099.krn
+Extracted 05 contours from nova100.krn
+Extracted 08 contours from nova101.krn
+Extracted 04 contours from nova102.krn
+Extracted 08 contours from nova103.krn
+Extracted 08 contours from nova104.krn
+Extracted 04 contours from nova105.krn
+Extracted 16 contours from nova106.krn
+Extracted 04 contours from nova107.krn
+Extracted 05 contours from nova108.krn
+Extracted 04 contours from nova109.krn
+Extracted 04 contours from nova110.krn
+Extracted 04 contours from nova111.krn
+Extracted 08 contours from nova112.krn
+Extracted 04 contours from nova113.krn
+Extracted 08 contours from nova114.krn
+Extracted 08 contours from nova115.krn
+Extracted 04 contours from nova116.krn
+Extracted 07 contours from nova117.krn
+Extracted 04 contours from nova118.krn
+Extracted 04 contours from nova119.krn
+Extracted 02 contours from nova120.krn
+Extracted 04 contours from nova121a.krn
+Extracted 04 contours from nova121b.krn
+Extracted 05 contours from nova122.krn
+Extracted 04 contours from nova123.krn
+Extracted 05 contours from nova124.krn
+Extracted 08 contours from nova125.krn
+Extracted 06 contours from nova126.krn
+Extracted 04 contours from nova127.krn
+Extracted 08 contours from nova128.krn
+Extracted 08 contours from nova129.krn
+Extracted 08 contours from nova130.krn
+Extracted 08 contours from nova131.krn
+Extracted 08 contours from nova132.krn
+Extracted 04 contours from nova133.krn
+Extracted 08 contours from nova134.krn
+Extracted 08 contours from nova135.krn
+Extracted 04 contours from nova136.krn
+Extracted 08 contours from nova137.krn
+Extracted 08 contours from nova138.krn
+Extracted 06 contours from nova139.krn
+Extracted 04 contours from nova140.krn
+Extracted 08 contours from nova141.krn
+Extracted 04 contours from nova142.krn
+Extracted 08 contours from nova143.krn
+Extracted 04 contours from nova144.krn
+Extracted 08 contours from nova145.krn
+Extracted 04 contours from nova146.krn
+Extracted 04 contours from nova147.krn
+Extracted 04 contours from nova148.krn
+Extracted 08 contours from nova149.krn
+Extracted 08 contours from nova150.krn
+Stored phrase contours to data/phrase-contours/creighton-phrase-contours.csv
+md5 checksum: 1ed86198619c7aa79184ab8372d22b81
+Extracting random contours with mean length lamb=9.78...
+Extracted 10 contours from nova001.krn
+Extracted 01 contours from nova002.krn
+Extracted 06 contours from nova003.krn
+Extracted 02 contours from nova004.krn
+Extracted 03 contours from nova005.krn
+Extracted 04 contours from nova006.krn
+Extracted 02 contours from nova007.krn
+Extracted 03 contours from nova008.krn
+Extracted 04 contours from nova009.krn
+Extracted 05 contours from nova010.krn
+Extracted 05 contours from nova011.krn
+Extracted 03 contours from nova012.krn
+Extracted 03 contours from nova013.krn
+Extracted 06 contours from nova014.krn
+Extracted 05 contours from nova015.krn
+Extracted 02 contours from nova016.krn
+Extracted 04 contours from nova017.krn
+Extracted 06 contours from nova018.krn
+Extracted 05 contours from nova019.krn
+Extracted 08 contours from nova020.krn
+Extracted 05 contours from nova021.krn
+Extracted 02 contours from nova022.krn
+Extracted 04 contours from nova023.krn
+Extracted 05 contours from nova024.krn
+Extracted 02 contours from nova025.krn
+Extracted 02 contours from nova026.krn
+Extracted 02 contours from nova027.krn
+Extracted 02 contours from nova028.krn
+Extracted 05 contours from nova029.krn
+Extracted 05 contours from nova030.krn
+Extracted 01 contours from nova031.krn
+Extracted 03 contours from nova032.krn
+Extracted 05 contours from nova033.krn
+Extracted 06 contours from nova034.krn
+Extracted 03 contours from nova035.krn
+Extracted 06 contours from nova036.krn
+Extracted 02 contours from nova037.krn
+Extracted 04 contours from nova038.krn
+Extracted 06 contours from nova039.krn
+Extracted 02 contours from nova040.krn
+Extracted 04 contours from nova041.krn
+Extracted 06 contours from nova042.krn
+Extracted 06 contours from nova043.krn
+Extracted 02 contours from nova044a.krn
+Extracted 01 contours from nova044b.krn
+Extracted 04 contours from nova045.krn
+Extracted 04 contours from nova046.krn
+Extracted 03 contours from nova047.krn
+Extracted 05 contours from nova048.krn
+Extracted 07 contours from nova049.krn
+Extracted 05 contours from nova050.krn
+Extracted 04 contours from nova051.krn
+Extracted 04 contours from nova052.krn
+Extracted 03 contours from nova053.krn
+Extracted 03 contours from nova054.krn
+Extracted 02 contours from nova055.krn
+Extracted 05 contours from nova056.krn
+Extracted 08 contours from nova057.krn
+Extracted 05 contours from nova058.krn
+Extracted 04 contours from nova059.krn
+Skipping nova060: ufunc 'nextafter' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
+Extracted 04 contours from nova061.krn
+Extracted 05 contours from nova062.krn
+Extracted 04 contours from nova063.krn
+Extracted 04 contours from nova064.krn
+Skipping nova065: A contour should have at least three pitches
+Extracted 04 contours from nova066.krn
+Extracted 06 contours from nova067.krn
+Extracted 07 contours from nova068.krn
+Extracted 06 contours from nova069.krn
+Extracted 02 contours from nova070.krn
+Extracted 05 contours from nova071.krn
+Extracted 05 contours from nova072.krn
+Extracted 12 contours from nova073.krn
+Extracted 05 contours from nova074.krn
+Extracted 04 contours from nova075.krn
+Extracted 06 contours from nova076.krn
+Extracted 08 contours from nova077.krn
+Extracted 07 contours from nova078.krn
+Extracted 06 contours from nova079.krn
+Extracted 06 contours from nova080.krn
+Extracted 08 contours from nova081.krn
+Extracted 08 contours from nova082.krn
+Extracted 04 contours from nova083.krn
+Extracted 01 contours from nova084.krn
+Extracted 03 contours from nova085.krn
+Extracted 10 contours from nova086.krn
+Extracted 05 contours from nova087.krn
+Extracted 06 contours from nova088.krn
+Extracted 02 contours from nova089.krn
+Extracted 07 contours from nova090.krn
+Extracted 04 contours from nova091.krn
+Extracted 02 contours from nova092.krn
+Extracted 11 contours from nova093.krn
+Extracted 03 contours from nova094.krn
+Extracted 04 contours from nova095.krn
+Extracted 06 contours from nova096.krn
+Extracted 06 contours from nova097.krn
+Extracted 07 contours from nova098.krn
+Extracted 04 contours from nova099.krn
+Extracted 05 contours from nova100.krn
+Extracted 05 contours from nova101.krn
+Extracted 03 contours from nova102.krn
+Extracted 06 contours from nova103.krn
+Extracted 07 contours from nova104.krn
+Extracted 06 contours from nova105.krn
+Extracted 10 contours from nova106.krn
+Extracted 01 contours from nova107.krn
+Extracted 05 contours from nova108.krn
+Extracted 07 contours from nova109.krn
+Extracted 06 contours from nova110.krn
+Extracted 04 contours from nova111.krn
+Extracted 04 contours from nova112.krn
+Extracted 03 contours from nova113.krn
+Extracted 04 contours from nova114.krn
+Extracted 06 contours from nova115.krn
+Extracted 05 contours from nova116.krn
+Extracted 06 contours from nova117.krn
+Extracted 01 contours from nova118.krn
+Skipping nova119: ufunc 'nextafter' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
+Extracted 02 contours from nova120.krn
+Extracted 05 contours from nova121a.krn
+Extracted 03 contours from nova121b.krn
+Extracted 08 contours from nova122.krn
+Extracted 07 contours from nova123.krn
+Extracted 04 contours from nova124.krn
+Extracted 05 contours from nova125.krn
+Extracted 06 contours from nova126.krn
+Extracted 03 contours from nova127.krn
+Extracted 06 contours from nova128.krn
+Extracted 09 contours from nova129.krn
+Extracted 05 contours from nova130.krn
+Extracted 10 contours from nova131.krn
+Extracted 05 contours from nova132.krn
+Extracted 04 contours from nova133.krn
+Extracted 06 contours from nova134.krn
+Extracted 06 contours from nova135.krn
+Extracted 05 contours from nova136.krn
+Extracted 04 contours from nova137.krn
+Extracted 05 contours from nova138.krn
+Extracted 06 contours from nova139.krn
+Extracted 05 contours from nova140.krn
+Extracted 07 contours from nova141.krn
+Extracted 01 contours from nova142.krn
+Extracted 05 contours from nova143.krn
+Extracted 06 contours from nova144.krn
+Extracted 05 contours from nova145.krn
+Extracted 01 contours from nova146.krn
+Extracted 03 contours from nova147.krn
+Extracted 05 contours from nova148.krn
+Extracted 05 contours from nova149.krn
+Extracted 06 contours from nova150.krn
+Mean length of random phrases: 8.88...
+Stored random contours to data/phrase-contours/creighton-random-contours.csv
+md5 checksum: f9f1a3ae8fa4d530ce9d72928b43d61c

@@ -1,1416 +1,1416 @@
-INFO 27-04-21 16:41:00 Generating contour dataset: boehme
-INFO 27-04-21 16:41:00 Extracting phrase contours...
-INFO 27-04-21 16:41:00 Extracted 10 contours from deut2272.krn
-INFO 27-04-21 16:41:00 Extracted 10 contours from deut2273.krn
-INFO 27-04-21 16:41:00 Extracted 08 contours from deut2274.krn
-INFO 27-04-21 16:41:00 Extracted 06 contours from deut2275.krn
-INFO 27-04-21 16:41:00 Extracted 10 contours from deut2276.krn
-INFO 27-04-21 16:41:00 Extracted 06 contours from deut2277.krn
-INFO 27-04-21 16:41:00 Extracted 04 contours from deut2278.krn
-INFO 27-04-21 16:41:00 Extracted 04 contours from deut2279.krn
-INFO 27-04-21 16:41:00 Extracted 08 contours from deut2280.krn
-INFO 27-04-21 16:41:00 Extracted 06 contours from deut2281.krn
-INFO 27-04-21 16:41:00 Extracted 06 contours from deut2282.krn
-INFO 27-04-21 16:41:01 Extracted 04 contours from deut2283.krn
-INFO 27-04-21 16:41:01 Extracted 10 contours from deut2284.krn
-INFO 27-04-21 16:41:01 Extracted 06 contours from deut2285.krn
-INFO 27-04-21 16:41:01 Extracted 07 contours from deut2286.krn
-INFO 27-04-21 16:41:01 Extracted 07 contours from deut2287.krn
-INFO 27-04-21 16:41:01 Extracted 08 contours from deut2288.krn
-INFO 27-04-21 16:41:01 Extracted 10 contours from deut2289.krn
-INFO 27-04-21 16:41:01 Extracted 12 contours from deut2290.krn
-INFO 27-04-21 16:41:01 Extracted 12 contours from deut2291.krn
-INFO 27-04-21 16:41:01 Extracted 10 contours from deut2292.krn
-INFO 27-04-21 16:41:01 Extracted 08 contours from deut2293.krn
-INFO 27-04-21 16:41:01 Extracted 08 contours from deut2294.krn
-INFO 27-04-21 16:41:01 Extracted 12 contours from deut2295.krn
-INFO 27-04-21 16:41:01 Extracted 06 contours from deut2296.krn
-INFO 27-04-21 16:41:01 Extracted 06 contours from deut2297.krn
-INFO 27-04-21 16:41:01 Extracted 06 contours from deut2298.krn
-INFO 27-04-21 16:41:01 Extracted 03 contours from deut2299.krn
-INFO 27-04-21 16:41:02 Extracted 12 contours from deut2300.krn
-INFO 27-04-21 16:41:02 Extracted 10 contours from deut2301.krn
-INFO 27-04-21 16:41:02 Extracted 08 contours from deut2302.krn
-INFO 27-04-21 16:41:02 Extracted 09 contours from deut2303.krn
-INFO 27-04-21 16:41:02 Extracted 06 contours from deut2304.krn
-INFO 27-04-21 16:41:02 Extracted 08 contours from deut2305.krn
-INFO 27-04-21 16:41:02 Extracted 08 contours from deut2306.krn
-INFO 27-04-21 16:41:02 Extracted 12 contours from deut2307.krn
-INFO 27-04-21 16:41:02 Extracted 08 contours from deut2308.krn
-INFO 27-04-21 16:41:02 Extracted 07 contours from deut2309.krn
-INFO 27-04-21 16:41:02 Extracted 09 contours from deut2310.krn
-INFO 27-04-21 16:41:02 Extracted 10 contours from deut2311.krn
-INFO 27-04-21 16:41:02 Extracted 04 contours from deut2312.krn
-INFO 27-04-21 16:41:02 Extracted 10 contours from deut2313.krn
-INFO 27-04-21 16:41:02 Extracted 10 contours from deut2314.krn
-INFO 27-04-21 16:41:02 Extracted 08 contours from deut2315.krn
-INFO 27-04-21 16:41:02 Extracted 04 contours from deut2316.krn
-INFO 27-04-21 16:41:02 Extracted 06 contours from deut2317.krn
-INFO 27-04-21 16:41:02 Extracted 06 contours from deut2318.krn
-INFO 27-04-21 16:41:02 Extracted 04 contours from deut2319.krn
-INFO 27-04-21 16:41:03 Extracted 09 contours from deut2320.krn
-INFO 27-04-21 16:41:03 Extracted 08 contours from deut2321.krn
-INFO 27-04-21 16:41:03 Extracted 16 contours from deut2322.krn
-INFO 27-04-21 16:41:03 Extracted 06 contours from deut2323.krn
-INFO 27-04-21 16:41:03 Extracted 08 contours from deut2324.krn
-INFO 27-04-21 16:41:03 Extracted 06 contours from deut2325.krn
-INFO 27-04-21 16:41:03 Extracted 10 contours from deut2326.krn
-INFO 27-04-21 16:41:03 Extracted 07 contours from deut2327.krn
-INFO 27-04-21 16:41:03 Extracted 04 contours from deut2328.krn
-INFO 27-04-21 16:41:03 Extracted 06 contours from deut2329.krn
-INFO 27-04-21 16:41:03 Extracted 16 contours from deut2330.krn
-INFO 27-04-21 16:41:03 Extracted 05 contours from deut2331.krn
-INFO 27-04-21 16:41:03 Extracted 06 contours from deut2332.krn
-INFO 27-04-21 16:41:03 Extracted 08 contours from deut2333.krn
-INFO 27-04-21 16:41:03 Extracted 08 contours from deut2334.krn
-INFO 27-04-21 16:41:03 Extracted 07 contours from deut2335.krn
-INFO 27-04-21 16:41:03 Extracted 08 contours from deut2336.krn
-INFO 27-04-21 16:41:04 Extracted 08 contours from deut2337.krn
-INFO 27-04-21 16:41:04 Extracted 08 contours from deut2338.krn
-INFO 27-04-21 16:41:04 Extracted 10 contours from deut2339.krn
-INFO 27-04-21 16:41:04 Extracted 10 contours from deut2340.krn
-INFO 27-04-21 16:41:04 Extracted 10 contours from deut2341.krn
-INFO 27-04-21 16:41:04 Extracted 08 contours from deut2342.krn
-INFO 27-04-21 16:41:04 Extracted 07 contours from deut2343.krn
-INFO 27-04-21 16:41:04 Extracted 03 contours from deut2344.krn
-INFO 27-04-21 16:41:04 Extracted 04 contours from deut2345.krn
-INFO 27-04-21 16:41:04 Extracted 04 contours from deut2346.krn
-INFO 27-04-21 16:41:04 Extracted 05 contours from deut2347.krn
-INFO 27-04-21 16:41:04 Extracted 04 contours from deut2348.krn
-INFO 27-04-21 16:41:04 Extracted 04 contours from deut2349.krn
-INFO 27-04-21 16:41:04 Extracted 07 contours from deut2350.krn
-INFO 27-04-21 16:41:04 Extracted 08 contours from deut2351.krn
-INFO 27-04-21 16:41:04 Extracted 04 contours from deut2352.krn
-INFO 27-04-21 16:41:04 Extracted 04 contours from deut2353.krn
-INFO 27-04-21 16:41:04 Extracted 07 contours from deut2354.krn
-INFO 27-04-21 16:41:04 Extracted 07 contours from deut2355.krn
-INFO 27-04-21 16:41:04 Extracted 06 contours from deut2356.krn
-INFO 27-04-21 16:41:04 Extracted 04 contours from deut2357.krn
-INFO 27-04-21 16:41:04 Extracted 06 contours from deut2358.krn
-INFO 27-04-21 16:41:05 Extracted 07 contours from deut2359.krn
-INFO 27-04-21 16:41:05 Extracted 07 contours from deut2360.krn
-INFO 27-04-21 16:41:05 Extracted 08 contours from deut2361.krn
-INFO 27-04-21 16:41:05 Extracted 08 contours from deut2362.krn
-INFO 27-04-21 16:41:05 Extracted 08 contours from deut2363.krn
-INFO 27-04-21 16:41:05 Extracted 05 contours from deut2364.krn
-INFO 27-04-21 16:41:05 Extracted 04 contours from deut2365.krn
-INFO 27-04-21 16:41:05 Extracted 05 contours from deut2366.krn
-INFO 27-04-21 16:41:05 Extracted 03 contours from deut2367.krn
-INFO 27-04-21 16:41:05 Extracted 04 contours from deut2368.krn
-INFO 27-04-21 16:41:05 Extracted 08 contours from deut2369.krn
-INFO 27-04-21 16:41:05 Extracted 04 contours from deut2370.krn
-INFO 27-04-21 16:41:05 Extracted 06 contours from deut2371.krn
-INFO 27-04-21 16:41:05 Extracted 04 contours from deut2372.krn
-INFO 27-04-21 16:41:05 Extracted 07 contours from deut2373.krn
-INFO 27-04-21 16:41:05 Extracted 08 contours from deut2374.krn
-INFO 27-04-21 16:41:05 Extracted 05 contours from deut2375.krn
-INFO 27-04-21 16:41:05 Extracted 04 contours from deut2376.krn
-INFO 27-04-21 16:41:05 Extracted 04 contours from deut2377.krn
-INFO 27-04-21 16:41:05 Extracted 04 contours from deut2378.krn
-INFO 27-04-21 16:41:05 Extracted 07 contours from deut2379.krn
-INFO 27-04-21 16:41:05 Extracted 05 contours from deut2380.krn
-INFO 27-04-21 16:41:05 Extracted 07 contours from deut2381.krn
-INFO 27-04-21 16:41:06 Extracted 08 contours from deut2382.krn
-INFO 27-04-21 16:41:06 Extracted 08 contours from deut2383.krn
-INFO 27-04-21 16:41:06 Extracted 04 contours from deut2384.krn
-INFO 27-04-21 16:41:06 Extracted 03 contours from deut2385.krn
-INFO 27-04-21 16:41:06 Extracted 06 contours from deut2386.krn
-INFO 27-04-21 16:41:06 Extracted 08 contours from deut2387.krn
-INFO 27-04-21 16:41:06 Extracted 06 contours from deut2388.krn
-INFO 27-04-21 16:41:06 Extracted 04 contours from deut2389.krn
-INFO 27-04-21 16:41:06 Extracted 07 contours from deut2390.krn
-INFO 27-04-21 16:41:06 Extracted 07 contours from deut2391.krn
-INFO 27-04-21 16:41:06 Extracted 04 contours from deut2392.krn
-INFO 27-04-21 16:41:06 Extracted 04 contours from deut2393.krn
-INFO 27-04-21 16:41:06 Extracted 03 contours from deut2394.krn
-INFO 27-04-21 16:41:06 Extracted 08 contours from deut2395.krn
-INFO 27-04-21 16:41:06 Extracted 07 contours from deut2396.krn
-INFO 27-04-21 16:41:06 Extracted 06 contours from deut2397.krn
-INFO 27-04-21 16:41:06 Extracted 09 contours from deut2398.krn
-INFO 27-04-21 16:41:06 Extracted 06 contours from deut2399.krn
-INFO 27-04-21 16:41:06 Extracted 06 contours from deut2400.krn
-INFO 27-04-21 16:41:06 Extracted 08 contours from deut2401.krn
-INFO 27-04-21 16:41:06 Extracted 08 contours from deut2402.krn
-INFO 27-04-21 16:41:07 Extracted 07 contours from deut2403.krn
-INFO 27-04-21 16:41:07 Extracted 08 contours from deut2404.krn
-INFO 27-04-21 16:41:07 Extracted 07 contours from deut2405.krn
-INFO 27-04-21 16:41:07 Extracted 08 contours from deut2406.krn
-INFO 27-04-21 16:41:07 Extracted 08 contours from deut2407.krn
-INFO 27-04-21 16:41:07 Extracted 10 contours from deut2408.krn
-INFO 27-04-21 16:41:07 Extracted 04 contours from deut2409.krn
-INFO 27-04-21 16:41:07 Extracted 04 contours from deut2410.krn
-INFO 27-04-21 16:41:07 Extracted 04 contours from deut2411.krn
-INFO 27-04-21 16:41:07 Extracted 04 contours from deut2412.krn
-INFO 27-04-21 16:41:07 Extracted 05 contours from deut2413.krn
-INFO 27-04-21 16:41:07 Extracted 04 contours from deut2414.krn
-INFO 27-04-21 16:41:07 Extracted 05 contours from deut2415.krn
-INFO 27-04-21 16:41:07 Extracted 06 contours from deut2416.krn
-INFO 27-04-21 16:41:07 Extracted 10 contours from deut2417.krn
-INFO 27-04-21 16:41:07 Extracted 08 contours from deut2418.krn
-INFO 27-04-21 16:41:07 Extracted 12 contours from deut2419.krn
-INFO 27-04-21 16:41:07 Extracted 08 contours from deut2420.krn
-INFO 27-04-21 16:41:07 Extracted 10 contours from deut2421.krn
-INFO 27-04-21 16:41:07 Extracted 07 contours from deut2422.krn
-INFO 27-04-21 16:41:07 Extracted 05 contours from deut2423.krn
-INFO 27-04-21 16:41:08 Extracted 06 contours from deut2424.krn
-INFO 27-04-21 16:41:08 Extracted 12 contours from deut2425.krn
-INFO 27-04-21 16:41:08 Extracted 05 contours from deut2426.krn
-INFO 27-04-21 16:41:08 Extracted 08 contours from deut2427.krn
-INFO 27-04-21 16:41:08 Extracted 05 contours from deut2428.krn
-INFO 27-04-21 16:41:08 Extracted 08 contours from deut2429.krn
-INFO 27-04-21 16:41:08 Extracted 08 contours from deut2430.krn
-INFO 27-04-21 16:41:08 Extracted 05 contours from deut2431.krn
-INFO 27-04-21 16:41:08 Extracted 09 contours from deut2432.krn
-INFO 27-04-21 16:41:08 Extracted 12 contours from deut2433.krn
-INFO 27-04-21 16:41:08 Extracted 08 contours from deut2434.krn
-INFO 27-04-21 16:41:08 Extracted 06 contours from deut2435.krn
-INFO 27-04-21 16:41:08 Extracted 04 contours from deut2436.krn
-INFO 27-04-21 16:41:08 Extracted 04 contours from deut2437.krn
-INFO 27-04-21 16:41:08 Extracted 07 contours from deut2438.krn
-INFO 27-04-21 16:41:08 Extracted 06 contours from deut2439.krn
-INFO 27-04-21 16:41:08 Extracted 08 contours from deut2440.krn
-INFO 27-04-21 16:41:08 Extracted 04 contours from deut2441.krn
-INFO 27-04-21 16:41:08 Extracted 05 contours from deut2442.krn
-INFO 27-04-21 16:41:08 Extracted 06 contours from deut2443.krn
-INFO 27-04-21 16:41:08 Extracted 04 contours from deut2444.krn
-INFO 27-04-21 16:41:08 Extracted 05 contours from deut2445.krn
-INFO 27-04-21 16:41:09 Extracted 06 contours from deut2446.krn
-INFO 27-04-21 16:41:09 Extracted 06 contours from deut2447.krn
-INFO 27-04-21 16:41:09 Extracted 06 contours from deut2448.krn
-INFO 27-04-21 16:41:09 Extracted 07 contours from deut2449.krn
-INFO 27-04-21 16:41:09 Extracted 06 contours from deut2450.krn
-INFO 27-04-21 16:41:09 Extracted 04 contours from deut2451.krn
-INFO 27-04-21 16:41:09 Extracted 05 contours from deut2452.krn
-INFO 27-04-21 16:41:09 Extracted 04 contours from deut2453.krn
-INFO 27-04-21 16:41:09 Extracted 07 contours from deut2454.krn
-INFO 27-04-21 16:41:09 Extracted 04 contours from deut2455.krn
-INFO 27-04-21 16:41:09 Extracted 04 contours from deut2456.krn
-INFO 27-04-21 16:41:09 Extracted 04 contours from deut2457.krn
-INFO 27-04-21 16:41:09 Extracted 04 contours from deut2458.krn
-INFO 27-04-21 16:41:09 Extracted 04 contours from deut2459.krn
-INFO 27-04-21 16:41:09 Extracted 04 contours from deut2460.krn
-INFO 27-04-21 16:41:09 Extracted 08 contours from deut2461.krn
-INFO 27-04-21 16:41:09 Extracted 04 contours from deut2462.krn
-INFO 27-04-21 16:41:09 Extracted 04 contours from deut2463.krn
-INFO 27-04-21 16:41:09 Extracted 04 contours from deut2464.krn
-INFO 27-04-21 16:41:09 Extracted 06 contours from deut2465.krn
-INFO 27-04-21 16:41:09 Extracted 04 contours from deut2466.krn
-INFO 27-04-21 16:41:09 Extracted 06 contours from deut2467.krn
-INFO 27-04-21 16:41:09 Extracted 04 contours from deut2468.krn
-INFO 27-04-21 16:41:09 Extracted 08 contours from deut2469.krn
-INFO 27-04-21 16:41:09 Extracted 08 contours from deut2470.krn
-INFO 27-04-21 16:41:09 Extracted 04 contours from deut2471.krn
-INFO 27-04-21 16:41:09 Extracted 12 contours from deut2472.krn
-INFO 27-04-21 16:41:10 Extracted 06 contours from deut2473.krn
-INFO 27-04-21 16:41:10 Extracted 06 contours from deut2474.krn
-INFO 27-04-21 16:41:10 Extracted 04 contours from deut2475.krn
-INFO 27-04-21 16:41:10 Extracted 04 contours from deut2476.krn
-INFO 27-04-21 16:41:10 Extracted 04 contours from deut2477.krn
-INFO 27-04-21 16:41:10 Extracted 04 contours from deut2478.krn
-INFO 27-04-21 16:41:10 Extracted 08 contours from deut2479.krn
-INFO 27-04-21 16:41:10 Extracted 12 contours from deut2480.krn
-INFO 27-04-21 16:41:10 Extracted 06 contours from deut2481.krn
-INFO 27-04-21 16:41:10 Extracted 04 contours from deut2482.krn
-INFO 27-04-21 16:41:10 Extracted 08 contours from deut2483.krn
-INFO 27-04-21 16:41:10 Extracted 16 contours from deut2484.krn
-INFO 27-04-21 16:41:10 Extracted 06 contours from deut2485.krn
-INFO 27-04-21 16:41:10 Extracted 05 contours from deut2486.krn
-INFO 27-04-21 16:41:10 Extracted 08 contours from deut2487.krn
-INFO 27-04-21 16:41:10 Extracted 09 contours from deut2488.krn
-INFO 27-04-21 16:41:10 Extracted 04 contours from deut2489.krn
-INFO 27-04-21 16:41:10 Extracted 04 contours from deut2490.krn
-INFO 27-04-21 16:41:10 Extracted 04 contours from deut2491.krn
-INFO 27-04-21 16:41:10 Extracted 08 contours from deut2492.krn
-INFO 27-04-21 16:41:10 Extracted 04 contours from deut2493.krn
-INFO 27-04-21 16:41:10 Extracted 07 contours from deut2494.krn
-INFO 27-04-21 16:41:10 Extracted 06 contours from deut2495.krn
-INFO 27-04-21 16:41:11 Extracted 07 contours from deut2496.krn
-INFO 27-04-21 16:41:11 Extracted 09 contours from deut2497.krn
-INFO 27-04-21 16:41:11 Extracted 05 contours from deut2498.krn
-INFO 27-04-21 16:41:11 Extracted 04 contours from deut2499.krn
-INFO 27-04-21 16:41:11 Extracted 05 contours from deut2500.krn
-INFO 27-04-21 16:41:11 Extracted 07 contours from deut2501.krn
-INFO 27-04-21 16:41:11 Extracted 04 contours from deut2502.krn
-INFO 27-04-21 16:41:11 Extracted 08 contours from deut2503.krn
-INFO 27-04-21 16:41:11 Extracted 14 contours from deut2504.krn
-INFO 27-04-21 16:41:11 Extracted 07 contours from deut2505.krn
-INFO 27-04-21 16:41:11 Extracted 08 contours from deut2506.krn
-INFO 27-04-21 16:41:11 Extracted 06 contours from deut2507.krn
-INFO 27-04-21 16:41:11 Extracted 04 contours from deut2508.krn
-INFO 27-04-21 16:41:11 Extracted 04 contours from deut2509.krn
-INFO 27-04-21 16:41:11 Extracted 06 contours from deut2510.krn
-INFO 27-04-21 16:41:11 Extracted 08 contours from deut2511.krn
-INFO 27-04-21 16:41:11 Extracted 06 contours from deut2512.krn
-INFO 27-04-21 16:41:11 Extracted 06 contours from deut2513.krn
-INFO 27-04-21 16:41:11 Extracted 08 contours from deut2514.krn
-INFO 27-04-21 16:41:11 Extracted 04 contours from deut2515.krn
-INFO 27-04-21 16:41:12 Extracted 11 contours from deut2516.krn
-INFO 27-04-21 16:41:12 Extracted 06 contours from deut2517.krn
-INFO 27-04-21 16:41:12 Extracted 06 contours from deut2518.krn
-INFO 27-04-21 16:41:12 Extracted 12 contours from deut2519.krn
-INFO 27-04-21 16:41:12 Extracted 13 contours from deut2520.krn
-INFO 27-04-21 16:41:12 Extracted 12 contours from deut2521.krn
-INFO 27-04-21 16:41:12 Extracted 08 contours from deut2522.krn
-INFO 27-04-21 16:41:12 Extracted 08 contours from deut2523.krn
-INFO 27-04-21 16:41:12 Extracted 05 contours from deut2524.krn
-INFO 27-04-21 16:41:12 Extracted 04 contours from deut2525.krn
-INFO 27-04-21 16:41:12 Extracted 05 contours from deut2526.krn
-INFO 27-04-21 16:41:12 Extracted 08 contours from deut2527.krn
-INFO 27-04-21 16:41:12 Extracted 08 contours from deut2528.krn
-INFO 27-04-21 16:41:12 Extracted 05 contours from deut2529.krn
-INFO 27-04-21 16:41:12 Extracted 04 contours from deut2530.krn
-INFO 27-04-21 16:41:12 Extracted 04 contours from deut2531.krn
-INFO 27-04-21 16:41:12 Extracted 08 contours from deut2532.krn
-INFO 27-04-21 16:41:12 Extracted 05 contours from deut2533.krn
-INFO 27-04-21 16:41:12 Extracted 08 contours from deut2534.krn
-INFO 27-04-21 16:41:12 Extracted 05 contours from deut2535.krn
-INFO 27-04-21 16:41:13 Extracted 13 contours from deut2536.krn
-INFO 27-04-21 16:41:13 Extracted 08 contours from deut2537.krn
-INFO 27-04-21 16:41:13 Extracted 09 contours from deut2538.krn
-INFO 27-04-21 16:41:13 Extracted 08 contours from deut2539.krn
-INFO 27-04-21 16:41:13 Extracted 06 contours from deut2540.krn
-INFO 27-04-21 16:41:13 Extracted 12 contours from deut2541.krn
-INFO 27-04-21 16:41:13 Extracted 05 contours from deut2542.krn
-INFO 27-04-21 16:41:13 Extracted 10 contours from deut2543.krn
-INFO 27-04-21 16:41:13 Extracted 08 contours from deut2544.krn
-INFO 27-04-21 16:41:13 Extracted 07 contours from deut2545.krn
-INFO 27-04-21 16:41:13 Extracted 08 contours from deut2546.krn
-INFO 27-04-21 16:41:13 Extracted 04 contours from deut2547.krn
-INFO 27-04-21 16:41:13 Extracted 08 contours from deut2548.krn
-INFO 27-04-21 16:41:13 Extracted 08 contours from deut2549.krn
-INFO 27-04-21 16:41:13 Extracted 08 contours from deut2550.krn
-INFO 27-04-21 16:41:13 Extracted 05 contours from deut2551.krn
-INFO 27-04-21 16:41:13 Extracted 06 contours from deut2552.krn
-INFO 27-04-21 16:41:13 Extracted 05 contours from deut2553.krn
-INFO 27-04-21 16:41:14 Extracted 09 contours from deut2554.krn
-INFO 27-04-21 16:41:14 Extracted 09 contours from deut2555.krn
-INFO 27-04-21 16:41:14 Extracted 12 contours from deut2556.krn
-INFO 27-04-21 16:41:14 Extracted 08 contours from deut2557.krn
-INFO 27-04-21 16:41:14 Extracted 04 contours from deut2558.krn
-INFO 27-04-21 16:41:14 Extracted 10 contours from deut2559.krn
-INFO 27-04-21 16:41:14 Extracted 06 contours from deut2560.krn
-INFO 27-04-21 16:41:14 Extracted 12 contours from deut2561.krn
-INFO 27-04-21 16:41:14 Extracted 12 contours from deut2562.krn
-INFO 27-04-21 16:41:14 Extracted 08 contours from deut2563.krn
-INFO 27-04-21 16:41:14 Extracted 05 contours from deut2564.krn
-INFO 27-04-21 16:41:14 Extracted 10 contours from deut2565.krn
-INFO 27-04-21 16:41:14 Extracted 04 contours from deut2566.krn
-INFO 27-04-21 16:41:14 Extracted 06 contours from deut2567.krn
-INFO 27-04-21 16:41:14 Extracted 06 contours from deut2568.krn
-INFO 27-04-21 16:41:14 Extracted 08 contours from deut2569.krn
-INFO 27-04-21 16:41:14 Extracted 08 contours from deut2570.krn
-INFO 27-04-21 16:41:14 Extracted 08 contours from deut2571.krn
-INFO 27-04-21 16:41:15 Extracted 08 contours from deut2572.krn
-INFO 27-04-21 16:41:15 Extracted 07 contours from deut2573.krn
-INFO 27-04-21 16:41:15 Extracted 10 contours from deut2574.krn
-INFO 27-04-21 16:41:15 Extracted 08 contours from deut2575.krn
-INFO 27-04-21 16:41:15 Extracted 08 contours from deut2576.krn
-INFO 27-04-21 16:41:15 Extracted 06 contours from deut2577.krn
-INFO 27-04-21 16:41:15 Extracted 06 contours from deut2578.krn
-INFO 27-04-21 16:41:15 Extracted 08 contours from deut2579.krn
-INFO 27-04-21 16:41:15 Extracted 08 contours from deut2580.krn
-INFO 27-04-21 16:41:15 Extracted 08 contours from deut2581.krn
-INFO 27-04-21 16:41:15 Extracted 05 contours from deut2582.krn
-INFO 27-04-21 16:41:15 Extracted 07 contours from deut2583.krn
-INFO 27-04-21 16:41:15 Extracted 08 contours from deut2584.krn
-INFO 27-04-21 16:41:15 Extracted 08 contours from deut2585.krn
-INFO 27-04-21 16:41:15 Extracted 12 contours from deut2586.krn
-INFO 27-04-21 16:41:15 Extracted 03 contours from deut2587.krn
-INFO 27-04-21 16:41:15 Extracted 08 contours from deut2588.krn
-INFO 27-04-21 16:41:15 Extracted 04 contours from deut2589.krn
-INFO 27-04-21 16:41:15 Extracted 04 contours from deut2590.krn
-INFO 27-04-21 16:41:15 Extracted 07 contours from deut2591.krn
-INFO 27-04-21 16:41:16 Extracted 06 contours from deut2592.krn
-INFO 27-04-21 16:41:16 Extracted 08 contours from deut2593.krn
-INFO 27-04-21 16:41:16 Extracted 04 contours from deut2594.krn
-INFO 27-04-21 16:41:16 Extracted 05 contours from deut2595.krn
-INFO 27-04-21 16:41:16 Extracted 10 contours from deut2596.krn
-INFO 27-04-21 16:41:16 Extracted 07 contours from deut2597.krn
-INFO 27-04-21 16:41:16 Extracted 08 contours from deut2598.krn
-INFO 27-04-21 16:41:16 Extracted 08 contours from deut2599.krn
-INFO 27-04-21 16:41:16 Extracted 06 contours from deut2600.krn
-INFO 27-04-21 16:41:16 Extracted 03 contours from deut2601.krn
-INFO 27-04-21 16:41:16 Extracted 04 contours from deut2602.krn
-INFO 27-04-21 16:41:16 Extracted 08 contours from deut2603.krn
-INFO 27-04-21 16:41:16 Extracted 06 contours from deut2604.krn
-INFO 27-04-21 16:41:16 Extracted 06 contours from deut2605.krn
-INFO 27-04-21 16:41:16 Extracted 06 contours from deut2606.krn
-INFO 27-04-21 16:41:16 Extracted 06 contours from deut2607.krn
-INFO 27-04-21 16:41:16 Extracted 06 contours from deut2608.krn
-INFO 27-04-21 16:41:16 Extracted 06 contours from deut2609.krn
-INFO 27-04-21 16:41:16 Extracted 04 contours from deut2610.krn
-INFO 27-04-21 16:41:16 Extracted 04 contours from deut2611.krn
-INFO 27-04-21 16:41:16 Extracted 04 contours from deut2612.krn
-INFO 27-04-21 16:41:16 Extracted 06 contours from deut2613.krn
-INFO 27-04-21 16:41:17 Extracted 08 contours from deut2614.krn
-INFO 27-04-21 16:41:17 Extracted 08 contours from deut2615.krn
-INFO 27-04-21 16:41:17 Extracted 05 contours from deut2616.krn
-INFO 27-04-21 16:41:17 Extracted 04 contours from deut2617.krn
-INFO 27-04-21 16:41:17 Extracted 04 contours from deut2618.krn
-INFO 27-04-21 16:41:17 Extracted 06 contours from deut2619.krn
-INFO 27-04-21 16:41:17 Extracted 08 contours from deut2620.krn
-INFO 27-04-21 16:41:17 Extracted 07 contours from deut2621.krn
-INFO 27-04-21 16:41:17 Extracted 08 contours from deut2622.krn
-INFO 27-04-21 16:41:17 Extracted 06 contours from deut2623.krn
-INFO 27-04-21 16:41:17 Extracted 06 contours from deut2624.krn
-INFO 27-04-21 16:41:17 Extracted 06 contours from deut2625.krn
-INFO 27-04-21 16:41:17 Extracted 05 contours from deut2626.krn
-INFO 27-04-21 16:41:17 Extracted 07 contours from deut2627.krn
-INFO 27-04-21 16:41:17 Extracted 06 contours from deut2628.krn
-INFO 27-04-21 16:41:17 Extracted 08 contours from deut2629.krn
-INFO 27-04-21 16:41:17 Extracted 08 contours from deut2630.krn
-INFO 27-04-21 16:41:17 Extracted 08 contours from deut2631.krn
-INFO 27-04-21 16:41:17 Extracted 04 contours from deut2632.krn
-INFO 27-04-21 16:41:17 Extracted 06 contours from deut2633.krn
-INFO 27-04-21 16:41:17 Extracted 07 contours from deut2634.krn
-INFO 27-04-21 16:41:17 Extracted 04 contours from deut2635.krn
-INFO 27-04-21 16:41:17 Extracted 05 contours from deut2636.krn
-INFO 27-04-21 16:41:17 Extracted 04 contours from deut2637.krn
-INFO 27-04-21 16:41:18 Extracted 04 contours from deut2638.krn
-INFO 27-04-21 16:41:18 Extracted 09 contours from deut2639.krn
-INFO 27-04-21 16:41:18 Extracted 06 contours from deut2640.krn
-INFO 27-04-21 16:41:18 Extracted 08 contours from deut2641.krn
-INFO 27-04-21 16:41:18 Extracted 10 contours from deut2642.krn
-INFO 27-04-21 16:41:18 Extracted 04 contours from deut2643.krn
-INFO 27-04-21 16:41:18 Extracted 06 contours from deut2644.krn
-INFO 27-04-21 16:41:18 Extracted 06 contours from deut2645.krn
-INFO 27-04-21 16:41:18 Extracted 06 contours from deut2646.krn
-INFO 27-04-21 16:41:18 Extracted 08 contours from deut2647.krn
-INFO 27-04-21 16:41:18 Extracted 06 contours from deut2648.krn
-INFO 27-04-21 16:41:18 Extracted 06 contours from deut2649.krn
-INFO 27-04-21 16:41:18 Extracted 08 contours from deut2650.krn
-INFO 27-04-21 16:41:18 Extracted 07 contours from deut2651.krn
-INFO 27-04-21 16:41:18 Extracted 04 contours from deut2652.krn
-INFO 27-04-21 16:41:18 Extracted 08 contours from deut2653.krn
-INFO 27-04-21 16:41:18 Extracted 08 contours from deut2654.krn
-INFO 27-04-21 16:41:18 Extracted 10 contours from deut2655.krn
-INFO 27-04-21 16:41:18 Extracted 08 contours from deut2656.krn
-INFO 27-04-21 16:41:19 Extracted 08 contours from deut2657.krn
-INFO 27-04-21 16:41:19 Extracted 09 contours from deut2658.krn
-INFO 27-04-21 16:41:19 Extracted 06 contours from deut2659.krn
-INFO 27-04-21 16:41:19 Extracted 08 contours from deut2660.krn
-INFO 27-04-21 16:41:19 Extracted 08 contours from deut2661.krn
-INFO 27-04-21 16:41:19 Extracted 08 contours from deut2662.krn
-INFO 27-04-21 16:41:19 Extracted 08 contours from deut2663.krn
-INFO 27-04-21 16:41:19 Extracted 04 contours from deut2664.krn
-INFO 27-04-21 16:41:19 Extracted 04 contours from deut2665.krn
-INFO 27-04-21 16:41:19 Extracted 10 contours from deut2666.krn
-INFO 27-04-21 16:41:19 Extracted 04 contours from deut2667.krn
-INFO 27-04-21 16:41:19 Extracted 05 contours from deut2668.krn
-INFO 27-04-21 16:41:19 Extracted 04 contours from deut2669.krn
-INFO 27-04-21 16:41:19 Extracted 06 contours from deut2670.krn
-INFO 27-04-21 16:41:19 Extracted 06 contours from deut2671.krn
-INFO 27-04-21 16:41:19 Extracted 05 contours from deut2672.krn
-INFO 27-04-21 16:41:19 Extracted 06 contours from deut2673.krn
-INFO 27-04-21 16:41:19 Extracted 04 contours from deut2674.krn
-INFO 27-04-21 16:41:19 Extracted 10 contours from deut2675.krn
-INFO 27-04-21 16:41:19 Extracted 08 contours from deut2676.krn
-INFO 27-04-21 16:41:20 Extracted 08 contours from deut2677.krn
-INFO 27-04-21 16:41:20 Extracted 08 contours from deut2678.krn
-INFO 27-04-21 16:41:20 Extracted 06 contours from deut2679.krn
-INFO 27-04-21 16:41:20 Extracted 13 contours from deut2680.krn
-INFO 27-04-21 16:41:20 Extracted 04 contours from deut2681.krn
-INFO 27-04-21 16:41:20 Extracted 05 contours from deut2682.krn
-INFO 27-04-21 16:41:20 Extracted 06 contours from deut2683.krn
-INFO 27-04-21 16:41:20 Extracted 04 contours from deut2684.krn
-INFO 27-04-21 16:41:20 Extracted 05 contours from deut2685.krn
-INFO 27-04-21 16:41:20 Extracted 05 contours from deut2686.krn
-INFO 27-04-21 16:41:20 Extracted 08 contours from deut2687.krn
-INFO 27-04-21 16:41:20 Extracted 10 contours from deut2688.krn
-INFO 27-04-21 16:41:20 Extracted 09 contours from deut2689.krn
-INFO 27-04-21 16:41:20 Extracted 06 contours from deut2690.krn
-INFO 27-04-21 16:41:20 Extracted 04 contours from deut2691.krn
-INFO 27-04-21 16:41:20 Extracted 09 contours from deut2692.krn
-INFO 27-04-21 16:41:20 Extracted 09 contours from deut2693.krn
-INFO 27-04-21 16:41:20 Extracted 08 contours from deut2694.krn
-INFO 27-04-21 16:41:20 Extracted 05 contours from deut2695.krn
-INFO 27-04-21 16:41:20 Extracted 05 contours from deut2696.krn
-INFO 27-04-21 16:41:20 Extracted 07 contours from deut2697.krn
-INFO 27-04-21 16:41:21 Extracted 12 contours from deut2698.krn
-INFO 27-04-21 16:41:21 Extracted 09 contours from deut2699.krn
-INFO 27-04-21 16:41:21 Extracted 20 contours from deut2700.krn
-INFO 27-04-21 16:41:21 Extracted 04 contours from deut2701.krn
-INFO 27-04-21 16:41:21 Extracted 04 contours from deut2702.krn
-INFO 27-04-21 16:41:21 Extracted 06 contours from deut2703.krn
-INFO 27-04-21 16:41:21 Extracted 06 contours from deut2704.krn
-INFO 27-04-21 16:41:21 Extracted 08 contours from deut2705.krn
-INFO 27-04-21 16:41:21 Extracted 08 contours from deut2706.krn
-INFO 27-04-21 16:41:21 Extracted 04 contours from deut2707.krn
-INFO 27-04-21 16:41:21 Extracted 06 contours from deut2708.krn
-INFO 27-04-21 16:41:21 Extracted 08 contours from deut2709.krn
-INFO 27-04-21 16:41:21 Extracted 08 contours from deut2710.krn
-INFO 27-04-21 16:41:21 Extracted 09 contours from deut2711.krn
-INFO 27-04-21 16:41:21 Extracted 08 contours from deut2712.krn
-INFO 27-04-21 16:41:21 Extracted 04 contours from deut2713.krn
-INFO 27-04-21 16:41:21 Extracted 08 contours from deut2714.krn
-INFO 27-04-21 16:41:21 Extracted 04 contours from deut2715.krn
-INFO 27-04-21 16:41:21 Extracted 08 contours from deut2716.krn
-INFO 27-04-21 16:41:22 Extracted 08 contours from deut2717.krn
-INFO 27-04-21 16:41:22 Extracted 04 contours from deut2718.krn
-INFO 27-04-21 16:41:22 Extracted 10 contours from deut2719.krn
-INFO 27-04-21 16:41:22 Extracted 05 contours from deut2720.krn
-INFO 27-04-21 16:41:22 Extracted 05 contours from deut2721.krn
-INFO 27-04-21 16:41:22 Extracted 07 contours from deut2722.krn
-INFO 27-04-21 16:41:22 Extracted 07 contours from deut2723.krn
-INFO 27-04-21 16:41:22 Extracted 05 contours from deut2724.krn
-INFO 27-04-21 16:41:22 Extracted 06 contours from deut2725.krn
-INFO 27-04-21 16:41:22 Extracted 12 contours from deut2726.krn
-INFO 27-04-21 16:41:22 Extracted 08 contours from deut2727.krn
-INFO 27-04-21 16:41:22 Extracted 08 contours from deut2728.krn
-INFO 27-04-21 16:41:22 Extracted 07 contours from deut2729.krn
-INFO 27-04-21 16:41:22 Extracted 10 contours from deut2730.krn
-INFO 27-04-21 16:41:22 Extracted 10 contours from deut2731.krn
-INFO 27-04-21 16:41:22 Extracted 08 contours from deut2732.krn
-INFO 27-04-21 16:41:22 Extracted 10 contours from deut2733.krn
-INFO 27-04-21 16:41:22 Extracted 04 contours from deut2734.krn
-INFO 27-04-21 16:41:22 Extracted 06 contours from deut2735.krn
-INFO 27-04-21 16:41:22 Extracted 08 contours from deut2736.krn
-INFO 27-04-21 16:41:23 Extracted 08 contours from deut2737.krn
-INFO 27-04-21 16:41:23 Extracted 10 contours from deut2738.krn
-INFO 27-04-21 16:41:23 Extracted 08 contours from deut2739.krn
-INFO 27-04-21 16:41:23 Extracted 08 contours from deut2740.krn
-INFO 27-04-21 16:41:23 Extracted 08 contours from deut2741.krn
-INFO 27-04-21 16:41:23 Extracted 07 contours from deut2742.krn
-INFO 27-04-21 16:41:23 Extracted 12 contours from deut2743.krn
-INFO 27-04-21 16:41:23 Extracted 10 contours from deut2744.krn
-INFO 27-04-21 16:41:23 Extracted 06 contours from deut2745.krn
-INFO 27-04-21 16:41:23 Extracted 06 contours from deut2746.krn
-INFO 27-04-21 16:41:23 Extracted 04 contours from deut2747.krn
-INFO 27-04-21 16:41:23 Extracted 07 contours from deut2748.krn
-INFO 27-04-21 16:41:23 Extracted 08 contours from deut2749.krn
-INFO 27-04-21 16:41:23 Extracted 08 contours from deut2750.krn
-INFO 27-04-21 16:41:23 Extracted 06 contours from deut2751.krn
-INFO 27-04-21 16:41:23 Extracted 08 contours from deut2752.krn
-INFO 27-04-21 16:41:23 Extracted 08 contours from deut2753.krn
-INFO 27-04-21 16:41:23 Extracted 08 contours from deut2754.krn
-INFO 27-04-21 16:41:24 Extracted 10 contours from deut2755.krn
-INFO 27-04-21 16:41:24 Extracted 10 contours from deut2756.krn
-INFO 27-04-21 16:41:24 Extracted 08 contours from deut2757.krn
-INFO 27-04-21 16:41:24 Extracted 08 contours from deut2758.krn
-INFO 27-04-21 16:41:24 Extracted 09 contours from deut2759.krn
-INFO 27-04-21 16:41:24 Extracted 06 contours from deut2760.krn
-INFO 27-04-21 16:41:24 Extracted 10 contours from deut2761.krn
-INFO 27-04-21 16:41:24 Extracted 10 contours from deut2762.krn
-INFO 27-04-21 16:41:24 Extracted 08 contours from deut2763.krn
-INFO 27-04-21 16:41:24 Extracted 06 contours from deut2764.krn
-INFO 27-04-21 16:41:24 Extracted 09 contours from deut2765.krn
-INFO 27-04-21 16:41:24 Extracted 08 contours from deut2766.krn
-INFO 27-04-21 16:41:24 Extracted 09 contours from deut2767.krn
-INFO 27-04-21 16:41:24 Extracted 08 contours from deut2768.krn
-INFO 27-04-21 16:41:24 Extracted 04 contours from deut2769.krn
-INFO 27-04-21 16:41:24 Extracted 08 contours from deut2770.krn
-INFO 27-04-21 16:41:24 Extracted 08 contours from deut2771.krn
-INFO 27-04-21 16:41:25 Extracted 08 contours from deut2772.krn
-INFO 27-04-21 16:41:25 Extracted 07 contours from deut2773.krn
-INFO 27-04-21 16:41:25 Extracted 04 contours from deut2774.krn
-INFO 27-04-21 16:41:25 Extracted 09 contours from deut2775.krn
-INFO 27-04-21 16:41:25 Extracted 08 contours from deut2776.krn
-INFO 27-04-21 16:41:25 Extracted 05 contours from deut2777.krn
-INFO 27-04-21 16:41:25 Extracted 06 contours from deut2778.krn
-INFO 27-04-21 16:41:25 Extracted 12 contours from deut2779.krn
-INFO 27-04-21 16:41:25 Extracted 06 contours from deut2780.krn
-INFO 27-04-21 16:41:25 Extracted 08 contours from deut2781.krn
-INFO 27-04-21 16:41:25 Extracted 04 contours from deut2782.krn
-INFO 27-04-21 16:41:25 Extracted 09 contours from deut2783.krn
-INFO 27-04-21 16:41:25 Extracted 04 contours from deut2784.krn
-INFO 27-04-21 16:41:25 Extracted 08 contours from deut2785.krn
-INFO 27-04-21 16:41:25 Extracted 08 contours from deut2786.krn
-INFO 27-04-21 16:41:25 Extracted 10 contours from deut2787.krn
-INFO 27-04-21 16:41:25 Extracted 14 contours from deut2788.krn
-INFO 27-04-21 16:41:25 Extracted 06 contours from deut2789.krn
-INFO 27-04-21 16:41:25 Extracted 06 contours from deut2790.krn
-INFO 27-04-21 16:41:26 Extracted 07 contours from deut2791.krn
-INFO 27-04-21 16:41:26 Extracted 04 contours from deut2792.krn
-INFO 27-04-21 16:41:26 Extracted 06 contours from deut2793.krn
-INFO 27-04-21 16:41:26 Extracted 08 contours from deut2794.krn
-INFO 27-04-21 16:41:26 Extracted 10 contours from deut2795.krn
-INFO 27-04-21 16:41:26 Extracted 08 contours from deut2796.krn
-INFO 27-04-21 16:41:26 Extracted 14 contours from deut2797.krn
-INFO 27-04-21 16:41:26 Extracted 08 contours from deut2798.krn
-INFO 27-04-21 16:41:26 Extracted 05 contours from deut2799.krn
-INFO 27-04-21 16:41:26 Extracted 06 contours from deut2800.krn
-INFO 27-04-21 16:41:26 Extracted 05 contours from deut2801.krn
-INFO 27-04-21 16:41:26 Extracted 09 contours from deut2802.krn
-INFO 27-04-21 16:41:26 Extracted 04 contours from deut2803.krn
-INFO 27-04-21 16:41:26 Extracted 10 contours from deut2804.krn
-INFO 27-04-21 16:41:26 Extracted 04 contours from deut2805.krn
-INFO 27-04-21 16:41:26 Extracted 05 contours from deut2806.krn
-INFO 27-04-21 16:41:26 Extracted 04 contours from deut2807.krn
-INFO 27-04-21 16:41:26 Extracted 04 contours from deut2808.krn
-INFO 27-04-21 16:41:26 Extracted 08 contours from deut2809.krn
-INFO 27-04-21 16:41:26 Extracted 08 contours from deut2810.krn
-INFO 27-04-21 16:41:26 Extracted 08 contours from deut2811.krn
-INFO 27-04-21 16:41:26 Extracted 06 contours from deut2812.krn
-INFO 27-04-21 16:41:26 Extracted 06 contours from deut2813.krn
-INFO 27-04-21 16:41:27 Extracted 05 contours from deut2814.krn
-INFO 27-04-21 16:41:27 Extracted 08 contours from deut2815.krn
-INFO 27-04-21 16:41:27 Extracted 08 contours from deut2816.krn
-INFO 27-04-21 16:41:27 Extracted 06 contours from deut2817.krn
-INFO 27-04-21 16:41:27 Extracted 06 contours from deut2818.krn
-INFO 27-04-21 16:41:27 Extracted 04 contours from deut2819.krn
-INFO 27-04-21 16:41:27 Extracted 04 contours from deut2820.krn
-INFO 27-04-21 16:41:27 Extracted 08 contours from deut2821.krn
-INFO 27-04-21 16:41:27 Extracted 06 contours from deut2822.krn
-INFO 27-04-21 16:41:27 Extracted 06 contours from deut2823.krn
-INFO 27-04-21 16:41:27 Extracted 04 contours from deut2824.krn
-INFO 27-04-21 16:41:27 Extracted 06 contours from deut2825.krn
-INFO 27-04-21 16:41:27 Extracted 06 contours from deut2826.krn
-INFO 27-04-21 16:41:27 Extracted 06 contours from deut2827.krn
-INFO 27-04-21 16:41:27 Extracted 04 contours from deut2828.krn
-INFO 27-04-21 16:41:27 Extracted 04 contours from deut2829.krn
-INFO 27-04-21 16:41:27 Extracted 06 contours from deut2830.krn
-INFO 27-04-21 16:41:27 Extracted 06 contours from deut2831.krn
-INFO 27-04-21 16:41:27 Extracted 06 contours from deut2832.krn
-INFO 27-04-21 16:41:27 Extracted 06 contours from deut2833.krn
-INFO 27-04-21 16:41:27 Extracted 04 contours from deut2834.krn
-INFO 27-04-21 16:41:27 Extracted 04 contours from deut2835.krn
-INFO 27-04-21 16:41:27 Extracted 04 contours from deut2836.krn
-INFO 27-04-21 16:41:27 Extracted 04 contours from deut2837.krn
-INFO 27-04-21 16:41:27 Extracted 08 contours from deut2838.krn
-INFO 27-04-21 16:41:27 Extracted 06 contours from deut2839.krn
-INFO 27-04-21 16:41:27 Extracted 07 contours from deut2840.krn
-INFO 27-04-21 16:41:28 Extracted 08 contours from deut2841.krn
-INFO 27-04-21 16:41:28 Extracted 08 contours from deut2842.krn
-INFO 27-04-21 16:41:28 Extracted 04 contours from deut2843.krn
-INFO 27-04-21 16:41:28 Extracted 08 contours from deut2844.krn
-INFO 27-04-21 16:41:28 Extracted 09 contours from deut2845.krn
-INFO 27-04-21 16:41:28 Extracted 04 contours from deut2846.krn
-INFO 27-04-21 16:41:28 Extracted 08 contours from deut2847.krn
-INFO 27-04-21 16:41:28 Extracted 07 contours from deut2848.krn
-INFO 27-04-21 16:41:28 Extracted 06 contours from deut2849.krn
-INFO 27-04-21 16:41:28 Extracted 04 contours from deut2850.krn
-INFO 27-04-21 16:41:28 Extracted 04 contours from deut2851.krn
-INFO 27-04-21 16:41:28 Extracted 04 contours from deut2852.krn
-INFO 27-04-21 16:41:28 Extracted 04 contours from deut2853.krn
-INFO 27-04-21 16:41:28 Extracted 07 contours from deut2854.krn
-INFO 27-04-21 16:41:28 Extracted 04 contours from deut2855.krn
-INFO 27-04-21 16:41:28 Extracted 06 contours from deut2856.krn
-INFO 27-04-21 16:41:28 Extracted 04 contours from deut2857.krn
-INFO 27-04-21 16:41:28 Extracted 04 contours from deut2858.krn
-INFO 27-04-21 16:41:28 Extracted 05 contours from deut2859.krn
-INFO 27-04-21 16:41:29 Extracted 08 contours from deut2860.krn
-INFO 27-04-21 16:41:29 Extracted 04 contours from deut2861.krn
-INFO 27-04-21 16:41:29 Extracted 04 contours from deut2862.krn
-INFO 27-04-21 16:41:29 Extracted 08 contours from deut2863.krn
-INFO 27-04-21 16:41:29 Extracted 08 contours from deut2864.krn
-INFO 27-04-21 16:41:29 Extracted 05 contours from deut2865.krn
-INFO 27-04-21 16:41:29 Extracted 06 contours from deut2866.krn
-INFO 27-04-21 16:41:29 Extracted 09 contours from deut2867.krn
-INFO 27-04-21 16:41:29 Extracted 14 contours from deut2868.krn
-INFO 27-04-21 16:41:29 Extracted 12 contours from deut2869.krn
-INFO 27-04-21 16:41:29 Extracted 08 contours from deut2870.krn
-INFO 27-04-21 16:41:29 Extracted 09 contours from deut2871.krn
-INFO 27-04-21 16:41:29 Extracted 08 contours from deut2872.krn
-INFO 27-04-21 16:41:29 Extracted 09 contours from deut2873.krn
-INFO 27-04-21 16:41:29 Extracted 08 contours from deut2874.krn
-INFO 27-04-21 16:41:29 Extracted 08 contours from deut2875.krn
-INFO 27-04-21 16:41:30 Extracted 10 contours from deut2876.krn
-INFO 27-04-21 16:41:30 Extracted 05 contours from deut2877.krn
-INFO 27-04-21 16:41:30 Extracted 12 contours from deut2878.krn
-INFO 27-04-21 16:41:30 Extracted 04 contours from deut2879.krn
-INFO 27-04-21 16:41:30 Extracted 10 contours from deut2880.krn
-INFO 27-04-21 16:41:30 Extracted 16 contours from deut2881.krn
-INFO 27-04-21 16:41:30 Extracted 10 contours from deut2882.krn
-INFO 27-04-21 16:41:30 Extracted 05 contours from deut2883.krn
-INFO 27-04-21 16:41:30 Extracted 14 contours from deut2884.krn
-INFO 27-04-21 16:41:30 Extracted 04 contours from deut2885.krn
-INFO 27-04-21 16:41:30 Extracted 06 contours from deut2886.krn
-INFO 27-04-21 16:41:30 Extracted 05 contours from deut2887.krn
-INFO 27-04-21 16:41:30 Extracted 05 contours from deut2888.krn
-INFO 27-04-21 16:41:30 Extracted 08 contours from deut2889.krn
-INFO 27-04-21 16:41:30 Extracted 10 contours from deut2890.krn
-INFO 27-04-21 16:41:30 Extracted 08 contours from deut2891.krn
-INFO 27-04-21 16:41:30 Extracted 08 contours from deut2892.krn
-INFO 27-04-21 16:41:30 Extracted 08 contours from deut2893.krn
-INFO 27-04-21 16:41:30 Extracted 10 contours from deut2894.krn
-INFO 27-04-21 16:41:31 Extracted 10 contours from deut2895.krn
-INFO 27-04-21 16:41:31 Extracted 08 contours from deut2896.krn
-INFO 27-04-21 16:41:31 Extracted 05 contours from deut2897.krn
-INFO 27-04-21 16:41:31 Extracted 06 contours from deut2898.krn
-INFO 27-04-21 16:41:31 Extracted 07 contours from deut2899.krn
-INFO 27-04-21 16:41:31 Extracted 08 contours from deut2900.krn
-INFO 27-04-21 16:41:31 Extracted 14 contours from deut2901.krn
-INFO 27-04-21 16:41:31 Extracted 04 contours from deut2902.krn
-INFO 27-04-21 16:41:31 Extracted 08 contours from deut2903.krn
-INFO 27-04-21 16:41:31 Extracted 10 contours from deut2904.krn
-INFO 27-04-21 16:41:31 Extracted 09 contours from deut2905.krn
-INFO 27-04-21 16:41:31 Extracted 06 contours from deut2906.krn
-INFO 27-04-21 16:41:31 Extracted 06 contours from deut2907.krn
-INFO 27-04-21 16:41:31 Extracted 12 contours from deut2908.krn
-INFO 27-04-21 16:41:31 Extracted 08 contours from deut2909.krn
-INFO 27-04-21 16:41:31 Extracted 06 contours from deut2910.krn
-INFO 27-04-21 16:41:31 Extracted 06 contours from deut2911.krn
-INFO 27-04-21 16:41:31 Extracted 08 contours from deut2912.krn
-INFO 27-04-21 16:41:31 Extracted 08 contours from deut2913.krn
-INFO 27-04-21 16:41:32 Extracted 08 contours from deut2914.krn
-INFO 27-04-21 16:41:32 Extracted 08 contours from deut2915.krn
-INFO 27-04-21 16:41:32 Extracted 08 contours from deut2916.krn
-INFO 27-04-21 16:41:32 Extracted 11 contours from deut2917.krn
-INFO 27-04-21 16:41:32 Extracted 08 contours from deut2918.krn
-INFO 27-04-21 16:41:32 Extracted 08 contours from deut2919.krn
-INFO 27-04-21 16:41:32 Extracted 08 contours from deut2920.krn
-INFO 27-04-21 16:41:32 Extracted 06 contours from deut2921.krn
-INFO 27-04-21 16:41:32 Extracted 08 contours from deut2922.krn
-INFO 27-04-21 16:41:32 Extracted 04 contours from deut2923.krn
-INFO 27-04-21 16:41:32 Extracted 08 contours from deut2924.krn
-INFO 27-04-21 16:41:32 Extracted 12 contours from deut2925.krn
-INFO 27-04-21 16:41:32 Extracted 04 contours from deut2926.krn
-INFO 27-04-21 16:41:32 Extracted 07 contours from deut2927.krn
-INFO 27-04-21 16:41:32 Extracted 06 contours from deut2928.krn
-INFO 27-04-21 16:41:32 Extracted 06 contours from deut2929.krn
-INFO 27-04-21 16:41:32 Extracted 06 contours from deut2930.krn
-INFO 27-04-21 16:41:32 Extracted 09 contours from deut2931.krn
-INFO 27-04-21 16:41:32 Extracted 04 contours from deut2932.krn
-INFO 27-04-21 16:41:33 Extracted 06 contours from deut2933.krn
-INFO 27-04-21 16:41:33 Extracted 08 contours from deut2934.krn
-INFO 27-04-21 16:41:33 Extracted 08 contours from deut2935.krn
-INFO 27-04-21 16:41:33 Extracted 07 contours from deut2936.krn
-INFO 27-04-21 16:41:33 Extracted 04 contours from deut2937.krn
-INFO 27-04-21 16:41:33 Extracted 04 contours from deut2938.krn
-INFO 27-04-21 16:41:33 Extracted 06 contours from deut2939.krn
-INFO 27-04-21 16:41:33 Extracted 06 contours from deut2940.krn
-INFO 27-04-21 16:41:33 Extracted 06 contours from deut2941.krn
-INFO 27-04-21 16:41:33 Extracted 06 contours from deut2942.krn
-INFO 27-04-21 16:41:33 Extracted 08 contours from deut2943.krn
-INFO 27-04-21 16:41:33 Extracted 07 contours from deut2944.krn
-INFO 27-04-21 16:41:33 Extracted 06 contours from deut2945.krn
-INFO 27-04-21 16:41:33 Extracted 06 contours from deut2946.krn
-INFO 27-04-21 16:41:33 Extracted 04 contours from deut2947.krn
-INFO 27-04-21 16:41:33 Extracted 08 contours from deut2948.krn
-INFO 27-04-21 16:41:33 Extracted 06 contours from deut2949.krn
-INFO 27-04-21 16:41:33 Extracted 06 contours from deut2950.krn
-INFO 27-04-21 16:41:33 Extracted 04 contours from deut2951.krn
-INFO 27-04-21 16:41:33 Extracted 06 contours from deut2952.krn
-INFO 27-04-21 16:41:33 Extracted 04 contours from deut2953.krn
-INFO 27-04-21 16:41:33 Extracted 04 contours from deut2954.krn
-INFO 27-04-21 16:41:33 Extracted 08 contours from deut2955.krn
-INFO 27-04-21 16:41:34 Extracted 07 contours from deut2956.krn
-INFO 27-04-21 16:41:34 Extracted 07 contours from deut2957.krn
-INFO 27-04-21 16:41:34 Extracted 06 contours from deut2958.krn
-INFO 27-04-21 16:41:34 Extracted 10 contours from deut2959.krn
-INFO 27-04-21 16:41:34 Extracted 09 contours from deut2960.krn
-INFO 27-04-21 16:41:34 Extracted 04 contours from deut2961.krn
-INFO 27-04-21 16:41:34 Extracted 06 contours from deut2962.krn
-INFO 27-04-21 16:41:34 Extracted 06 contours from deut2963.krn
-INFO 27-04-21 16:41:34 Extracted 08 contours from deut2964.krn
-INFO 27-04-21 16:41:34 Extracted 06 contours from deut2965.krn
-INFO 27-04-21 16:41:34 Extracted 04 contours from deut2966.krn
-INFO 27-04-21 16:41:34 Extracted 06 contours from deut2967.krn
-INFO 27-04-21 16:41:34 Extracted 06 contours from deut2968.krn
-INFO 27-04-21 16:41:34 Extracted 07 contours from deut2969.krn
-INFO 27-04-21 16:41:34 Extracted 06 contours from deut2970.krn
-INFO 27-04-21 16:41:34 Extracted 08 contours from deut2971.krn
-INFO 27-04-21 16:41:34 Extracted 04 contours from deut2972.krn
-INFO 27-04-21 16:41:34 Extracted 08 contours from deut2973.krn
-INFO 27-04-21 16:41:34 Extracted 06 contours from deut2974.krn
-INFO 27-04-21 16:41:34 Extracted 06 contours from deut2975.krn
-INFO 27-04-21 16:41:35 Stored phrase contours to contours/boehme-phrase-contours.csv
-INFO 27-04-21 16:41:35 md5 checksum: 65b2331687e05003ee78612403d30808
-INFO 27-04-21 16:41:35 Extracting random contours with mean length lamb=8.34...
-INFO 27-04-21 16:41:35 Extracted 11 contours from deut2272.krn
-INFO 27-04-21 16:41:35 Extracted 09 contours from deut2273.krn
-INFO 27-04-21 16:41:35 Extracted 09 contours from deut2274.krn
-INFO 27-04-21 16:41:35 Extracted 06 contours from deut2275.krn
-INFO 27-04-21 16:41:35 Extracted 08 contours from deut2276.krn
-INFO 27-04-21 16:41:36 Extracted 04 contours from deut2277.krn
-INFO 27-04-21 16:41:36 Extracted 02 contours from deut2278.krn
-INFO 27-04-21 16:41:36 Extracted 03 contours from deut2279.krn
-INFO 27-04-21 16:41:36 Extracted 06 contours from deut2280.krn
-INFO 27-04-21 16:41:36 Extracted 04 contours from deut2281.krn
-INFO 27-04-21 16:41:36 Extracted 05 contours from deut2282.krn
-INFO 27-04-21 16:41:36 Extracted 03 contours from deut2283.krn
-INFO 27-04-21 16:41:36 Extracted 11 contours from deut2284.krn
-INFO 27-04-21 16:41:36 Extracted 04 contours from deut2285.krn
-INFO 27-04-21 16:41:36 Extracted 07 contours from deut2286.krn
-INFO 27-04-21 16:41:36 Extracted 04 contours from deut2287.krn
-INFO 27-04-21 16:41:36 Extracted 09 contours from deut2288.krn
-INFO 27-04-21 16:41:36 Extracted 12 contours from deut2289.krn
-INFO 27-04-21 16:41:36 Extracted 12 contours from deut2290.krn
-INFO 27-04-21 16:41:36 Extracted 08 contours from deut2291.krn
-INFO 27-04-21 16:41:36 Extracted 07 contours from deut2292.krn
-INFO 27-04-21 16:41:37 Extracted 06 contours from deut2293.krn
-INFO 27-04-21 16:41:37 Extracted 07 contours from deut2294.krn
-INFO 27-04-21 16:41:37 Extracted 10 contours from deut2295.krn
-INFO 27-04-21 16:41:37 Extracted 05 contours from deut2296.krn
-INFO 27-04-21 16:41:37 Extracted 05 contours from deut2297.krn
-INFO 27-04-21 16:41:37 Extracted 07 contours from deut2298.krn
-INFO 27-04-21 16:41:37 Extracted 02 contours from deut2299.krn
-INFO 27-04-21 16:41:37 Extracted 13 contours from deut2300.krn
-INFO 27-04-21 16:41:37 Extracted 10 contours from deut2301.krn
-INFO 27-04-21 16:41:37 Extracted 08 contours from deut2302.krn
-INFO 27-04-21 16:41:37 Extracted 09 contours from deut2303.krn
-INFO 27-04-21 16:41:37 Extracted 06 contours from deut2304.krn
-INFO 27-04-21 16:41:37 Extracted 06 contours from deut2305.krn
-INFO 27-04-21 16:41:37 Extracted 05 contours from deut2306.krn
-INFO 27-04-21 16:41:37 Extracted 06 contours from deut2307.krn
-INFO 27-04-21 16:41:37 Extracted 04 contours from deut2308.krn
-INFO 27-04-21 16:41:38 Extracted 07 contours from deut2309.krn
-INFO 27-04-21 16:41:38 Extracted 07 contours from deut2310.krn
-INFO 27-04-21 16:41:38 Extracted 09 contours from deut2311.krn
-INFO 27-04-21 16:41:38 Extracted 02 contours from deut2312.krn
-INFO 27-04-21 16:41:38 Extracted 07 contours from deut2313.krn
-INFO 27-04-21 16:41:38 Extracted 12 contours from deut2314.krn
-INFO 27-04-21 16:41:38 Extracted 07 contours from deut2315.krn
-INFO 27-04-21 16:41:38 Extracted 03 contours from deut2316.krn
-INFO 27-04-21 16:41:38 Extracted 04 contours from deut2317.krn
-INFO 27-04-21 16:41:38 Extracted 08 contours from deut2318.krn
-INFO 27-04-21 16:41:38 Extracted 03 contours from deut2319.krn
-INFO 27-04-21 16:41:38 Extracted 12 contours from deut2320.krn
-INFO 27-04-21 16:41:38 Extracted 11 contours from deut2321.krn
-INFO 27-04-21 16:41:38 Extracted 13 contours from deut2322.krn
-INFO 27-04-21 16:41:39 Extracted 05 contours from deut2323.krn
-INFO 27-04-21 16:41:39 Extracted 07 contours from deut2324.krn
-INFO 27-04-21 16:41:39 Extracted 07 contours from deut2325.krn
-INFO 27-04-21 16:41:39 Extracted 10 contours from deut2326.krn
-INFO 27-04-21 16:41:39 Extracted 07 contours from deut2327.krn
-INFO 27-04-21 16:41:39 Extracted 02 contours from deut2328.krn
-INFO 27-04-21 16:41:39 Extracted 04 contours from deut2329.krn
-INFO 27-04-21 16:41:39 Extracted 16 contours from deut2330.krn
-INFO 27-04-21 16:41:39 Extracted 06 contours from deut2331.krn
-INFO 27-04-21 16:41:39 Extracted 08 contours from deut2332.krn
-INFO 27-04-21 16:41:39 Extracted 05 contours from deut2333.krn
-INFO 27-04-21 16:41:39 Extracted 08 contours from deut2334.krn
-INFO 27-04-21 16:41:39 Extracted 06 contours from deut2335.krn
-INFO 27-04-21 16:41:39 Extracted 10 contours from deut2336.krn
-INFO 27-04-21 16:41:39 Extracted 06 contours from deut2337.krn
-INFO 27-04-21 16:41:39 Extracted 07 contours from deut2338.krn
-INFO 27-04-21 16:41:40 Extracted 08 contours from deut2339.krn
-INFO 27-04-21 16:41:40 Extracted 15 contours from deut2340.krn
-INFO 27-04-21 16:41:40 Extracted 11 contours from deut2341.krn
-INFO 27-04-21 16:41:40 Extracted 10 contours from deut2342.krn
-WARNING 27-04-21 16:41:40 Skipping deut2343: ufunc 'nextafter' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
-INFO 27-04-21 16:41:40 Extracted 03 contours from deut2344.krn
-INFO 27-04-21 16:41:40 Extracted 01 contours from deut2345.krn
-INFO 27-04-21 16:41:40 Extracted 03 contours from deut2346.krn
-INFO 27-04-21 16:41:40 Extracted 04 contours from deut2347.krn
-INFO 27-04-21 16:41:40 Extracted 02 contours from deut2348.krn
-INFO 27-04-21 16:41:40 Extracted 05 contours from deut2349.krn
-INFO 27-04-21 16:41:40 Extracted 07 contours from deut2350.krn
-WARNING 27-04-21 16:41:40 Skipping deut2351: A contour should have at least three pitches
-INFO 27-04-21 16:41:40 Extracted 05 contours from deut2352.krn
-INFO 27-04-21 16:41:40 Extracted 04 contours from deut2353.krn
-INFO 27-04-21 16:41:40 Extracted 05 contours from deut2354.krn
-INFO 27-04-21 16:41:40 Extracted 05 contours from deut2355.krn
-INFO 27-04-21 16:41:40 Extracted 05 contours from deut2356.krn
-INFO 27-04-21 16:41:41 Extracted 04 contours from deut2357.krn
-INFO 27-04-21 16:41:41 Extracted 06 contours from deut2358.krn
-INFO 27-04-21 16:41:41 Extracted 08 contours from deut2359.krn
-INFO 27-04-21 16:41:41 Extracted 09 contours from deut2360.krn
-INFO 27-04-21 16:41:41 Extracted 07 contours from deut2361.krn
-INFO 27-04-21 16:41:41 Extracted 08 contours from deut2362.krn
-INFO 27-04-21 16:41:41 Extracted 10 contours from deut2363.krn
-INFO 27-04-21 16:41:41 Extracted 05 contours from deut2364.krn
-INFO 27-04-21 16:41:41 Extracted 02 contours from deut2365.krn
-INFO 27-04-21 16:41:41 Extracted 03 contours from deut2366.krn
-INFO 27-04-21 16:41:41 Extracted 02 contours from deut2367.krn
-INFO 27-04-21 16:41:41 Extracted 03 contours from deut2368.krn
-INFO 27-04-21 16:41:41 Extracted 08 contours from deut2369.krn
-INFO 27-04-21 16:41:41 Extracted 03 contours from deut2370.krn
-INFO 27-04-21 16:41:41 Extracted 05 contours from deut2371.krn
-INFO 27-04-21 16:41:41 Extracted 04 contours from deut2372.krn
-INFO 27-04-21 16:41:41 Extracted 06 contours from deut2373.krn
-INFO 27-04-21 16:41:41 Extracted 06 contours from deut2374.krn
-INFO 27-04-21 16:41:41 Extracted 03 contours from deut2375.krn
-INFO 27-04-21 16:41:42 Extracted 03 contours from deut2376.krn
-INFO 27-04-21 16:41:42 Extracted 03 contours from deut2377.krn
-INFO 27-04-21 16:41:42 Extracted 04 contours from deut2378.krn
-INFO 27-04-21 16:41:42 Extracted 09 contours from deut2379.krn
-INFO 27-04-21 16:41:42 Extracted 04 contours from deut2380.krn
-INFO 27-04-21 16:41:42 Extracted 07 contours from deut2381.krn
-INFO 27-04-21 16:41:42 Extracted 09 contours from deut2382.krn
-INFO 27-04-21 16:41:42 Extracted 08 contours from deut2383.krn
-INFO 27-04-21 16:41:42 Extracted 03 contours from deut2384.krn
-INFO 27-04-21 16:41:42 Extracted 03 contours from deut2385.krn
-INFO 27-04-21 16:41:42 Extracted 08 contours from deut2386.krn
-INFO 27-04-21 16:41:42 Extracted 07 contours from deut2387.krn
-INFO 27-04-21 16:41:42 Extracted 06 contours from deut2388.krn
-INFO 27-04-21 16:41:42 Extracted 03 contours from deut2389.krn
-INFO 27-04-21 16:41:42 Extracted 05 contours from deut2390.krn
-INFO 27-04-21 16:41:42 Extracted 06 contours from deut2391.krn
-INFO 27-04-21 16:41:42 Extracted 04 contours from deut2392.krn
-INFO 27-04-21 16:41:42 Extracted 02 contours from deut2393.krn
-INFO 27-04-21 16:41:42 Extracted 04 contours from deut2394.krn
-INFO 27-04-21 16:41:42 Extracted 07 contours from deut2395.krn
-INFO 27-04-21 16:41:43 Extracted 07 contours from deut2396.krn
-INFO 27-04-21 16:41:43 Extracted 05 contours from deut2397.krn
-INFO 27-04-21 16:41:43 Extracted 07 contours from deut2398.krn
-INFO 27-04-21 16:41:43 Extracted 07 contours from deut2399.krn
-INFO 27-04-21 16:41:43 Extracted 06 contours from deut2400.krn
-INFO 27-04-21 16:41:43 Extracted 08 contours from deut2401.krn
-INFO 27-04-21 16:41:43 Extracted 06 contours from deut2402.krn
-INFO 27-04-21 16:41:43 Extracted 05 contours from deut2403.krn
-INFO 27-04-21 16:41:43 Extracted 06 contours from deut2404.krn
-INFO 27-04-21 16:41:43 Extracted 09 contours from deut2405.krn
-INFO 27-04-21 16:41:43 Extracted 05 contours from deut2406.krn
-INFO 27-04-21 16:41:43 Extracted 08 contours from deut2407.krn
-INFO 27-04-21 16:41:43 Extracted 08 contours from deut2408.krn
-INFO 27-04-21 16:41:43 Extracted 05 contours from deut2409.krn
-INFO 27-04-21 16:41:43 Extracted 05 contours from deut2410.krn
-INFO 27-04-21 16:41:43 Extracted 05 contours from deut2411.krn
-INFO 27-04-21 16:41:43 Extracted 02 contours from deut2412.krn
-INFO 27-04-21 16:41:43 Extracted 04 contours from deut2413.krn
-INFO 27-04-21 16:41:43 Extracted 03 contours from deut2414.krn
-INFO 27-04-21 16:41:43 Extracted 03 contours from deut2415.krn
-INFO 27-04-21 16:41:44 Extracted 04 contours from deut2416.krn
-INFO 27-04-21 16:41:44 Extracted 05 contours from deut2417.krn
-INFO 27-04-21 16:41:44 Extracted 05 contours from deut2418.krn
-INFO 27-04-21 16:41:44 Extracted 08 contours from deut2419.krn
-INFO 27-04-21 16:41:44 Extracted 05 contours from deut2420.krn
-INFO 27-04-21 16:41:44 Extracted 10 contours from deut2421.krn
-INFO 27-04-21 16:41:44 Extracted 06 contours from deut2422.krn
-INFO 27-04-21 16:41:44 Extracted 04 contours from deut2423.krn
-INFO 27-04-21 16:41:44 Extracted 06 contours from deut2424.krn
-INFO 27-04-21 16:41:44 Extracted 12 contours from deut2425.krn
-INFO 27-04-21 16:41:44 Extracted 04 contours from deut2426.krn
-INFO 27-04-21 16:41:44 Extracted 05 contours from deut2427.krn
-INFO 27-04-21 16:41:44 Extracted 04 contours from deut2428.krn
-INFO 27-04-21 16:41:44 Extracted 05 contours from deut2429.krn
-INFO 27-04-21 16:41:44 Extracted 06 contours from deut2430.krn
-INFO 27-04-21 16:41:44 Extracted 04 contours from deut2431.krn
-INFO 27-04-21 16:41:44 Extracted 08 contours from deut2432.krn
-INFO 27-04-21 16:41:45 Extracted 07 contours from deut2433.krn
-INFO 27-04-21 16:41:45 Extracted 06 contours from deut2434.krn
-INFO 27-04-21 16:41:45 Extracted 04 contours from deut2435.krn
-INFO 27-04-21 16:41:45 Extracted 03 contours from deut2436.krn
-INFO 27-04-21 16:41:45 Extracted 02 contours from deut2437.krn
-INFO 27-04-21 16:41:45 Extracted 05 contours from deut2438.krn
-INFO 27-04-21 16:41:45 Extracted 04 contours from deut2439.krn
-INFO 27-04-21 16:41:45 Extracted 04 contours from deut2440.krn
-INFO 27-04-21 16:41:45 Extracted 03 contours from deut2441.krn
-INFO 27-04-21 16:41:45 Extracted 04 contours from deut2442.krn
-INFO 27-04-21 16:41:45 Extracted 07 contours from deut2443.krn
-INFO 27-04-21 16:41:45 Extracted 04 contours from deut2444.krn
-INFO 27-04-21 16:41:45 Extracted 05 contours from deut2445.krn
-INFO 27-04-21 16:41:45 Extracted 06 contours from deut2446.krn
-INFO 27-04-21 16:41:45 Extracted 04 contours from deut2447.krn
-INFO 27-04-21 16:41:45 Extracted 05 contours from deut2448.krn
-INFO 27-04-21 16:41:45 Extracted 05 contours from deut2449.krn
-INFO 27-04-21 16:41:45 Extracted 04 contours from deut2450.krn
-INFO 27-04-21 16:41:45 Extracted 02 contours from deut2451.krn
-INFO 27-04-21 16:41:45 Extracted 04 contours from deut2452.krn
-INFO 27-04-21 16:41:45 Extracted 03 contours from deut2453.krn
-INFO 27-04-21 16:41:46 Extracted 06 contours from deut2454.krn
-INFO 27-04-21 16:41:46 Extracted 02 contours from deut2455.krn
-INFO 27-04-21 16:41:46 Extracted 03 contours from deut2456.krn
-INFO 27-04-21 16:41:46 Extracted 03 contours from deut2457.krn
-INFO 27-04-21 16:41:46 Extracted 03 contours from deut2458.krn
-INFO 27-04-21 16:41:46 Extracted 02 contours from deut2459.krn
-INFO 27-04-21 16:41:46 Extracted 04 contours from deut2460.krn
-INFO 27-04-21 16:41:46 Extracted 07 contours from deut2461.krn
-INFO 27-04-21 16:41:46 Extracted 03 contours from deut2462.krn
-INFO 27-04-21 16:41:46 Extracted 04 contours from deut2463.krn
-INFO 27-04-21 16:41:46 Extracted 02 contours from deut2464.krn
-INFO 27-04-21 16:41:46 Extracted 04 contours from deut2465.krn
-INFO 27-04-21 16:41:46 Extracted 02 contours from deut2466.krn
-INFO 27-04-21 16:41:46 Extracted 04 contours from deut2467.krn
-INFO 27-04-21 16:41:46 Extracted 01 contours from deut2468.krn
-INFO 27-04-21 16:41:46 Extracted 08 contours from deut2469.krn
-INFO 27-04-21 16:41:46 Extracted 07 contours from deut2470.krn
-INFO 27-04-21 16:41:46 Extracted 02 contours from deut2471.krn
-WARNING 27-04-21 16:41:46 Skipping deut2472: ufunc 'nextafter' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
-INFO 27-04-21 16:41:46 Extracted 03 contours from deut2473.krn
-INFO 27-04-21 16:41:46 Extracted 05 contours from deut2474.krn
-INFO 27-04-21 16:41:46 Extracted 03 contours from deut2475.krn
-INFO 27-04-21 16:41:46 Extracted 04 contours from deut2476.krn
-INFO 27-04-21 16:41:47 Extracted 02 contours from deut2477.krn
-INFO 27-04-21 16:41:47 Extracted 02 contours from deut2478.krn
-INFO 27-04-21 16:41:47 Extracted 10 contours from deut2479.krn
-INFO 27-04-21 16:41:47 Extracted 09 contours from deut2480.krn
-INFO 27-04-21 16:41:47 Extracted 04 contours from deut2481.krn
-INFO 27-04-21 16:41:47 Extracted 04 contours from deut2482.krn
-INFO 27-04-21 16:41:47 Extracted 10 contours from deut2483.krn
-INFO 27-04-21 16:41:47 Extracted 09 contours from deut2484.krn
-INFO 27-04-21 16:41:47 Extracted 06 contours from deut2485.krn
-INFO 27-04-21 16:41:47 Extracted 05 contours from deut2486.krn
-INFO 27-04-21 16:41:47 Extracted 08 contours from deut2487.krn
-INFO 27-04-21 16:41:47 Extracted 12 contours from deut2488.krn
-INFO 27-04-21 16:41:47 Extracted 03 contours from deut2489.krn
-INFO 27-04-21 16:41:47 Extracted 03 contours from deut2490.krn
-INFO 27-04-21 16:41:47 Extracted 02 contours from deut2491.krn
-WARNING 27-04-21 16:41:47 Skipping deut2492: ufunc 'nextafter' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
-INFO 27-04-21 16:41:47 Extracted 03 contours from deut2493.krn
-INFO 27-04-21 16:41:47 Extracted 06 contours from deut2494.krn
-INFO 27-04-21 16:41:48 Extracted 07 contours from deut2495.krn
-INFO 27-04-21 16:41:48 Extracted 05 contours from deut2496.krn
-INFO 27-04-21 16:41:48 Extracted 13 contours from deut2497.krn
-INFO 27-04-21 16:41:48 Extracted 04 contours from deut2498.krn
-INFO 27-04-21 16:41:48 Extracted 04 contours from deut2499.krn
-INFO 27-04-21 16:41:48 Extracted 06 contours from deut2500.krn
-INFO 27-04-21 16:41:48 Extracted 10 contours from deut2501.krn
-INFO 27-04-21 16:41:48 Extracted 04 contours from deut2502.krn
-INFO 27-04-21 16:41:48 Extracted 08 contours from deut2503.krn
-INFO 27-04-21 16:41:48 Extracted 09 contours from deut2504.krn
-INFO 27-04-21 16:41:48 Extracted 09 contours from deut2505.krn
-INFO 27-04-21 16:41:48 Extracted 05 contours from deut2506.krn
-INFO 27-04-21 16:41:48 Extracted 05 contours from deut2507.krn
-INFO 27-04-21 16:41:48 Extracted 03 contours from deut2508.krn
-INFO 27-04-21 16:41:48 Extracted 03 contours from deut2509.krn
-INFO 27-04-21 16:41:48 Extracted 05 contours from deut2510.krn
-INFO 27-04-21 16:41:48 Extracted 04 contours from deut2511.krn
-INFO 27-04-21 16:41:48 Extracted 04 contours from deut2512.krn
-INFO 27-04-21 16:41:48 Extracted 03 contours from deut2513.krn
-INFO 27-04-21 16:41:49 Extracted 06 contours from deut2514.krn
-INFO 27-04-21 16:41:49 Extracted 03 contours from deut2515.krn
-INFO 27-04-21 16:41:49 Extracted 12 contours from deut2516.krn
-INFO 27-04-21 16:41:49 Extracted 04 contours from deut2517.krn
-INFO 27-04-21 16:41:49 Extracted 04 contours from deut2518.krn
-INFO 27-04-21 16:41:49 Extracted 10 contours from deut2519.krn
-INFO 27-04-21 16:41:49 Extracted 16 contours from deut2520.krn
-INFO 27-04-21 16:41:49 Extracted 08 contours from deut2521.krn
-INFO 27-04-21 16:41:49 Extracted 04 contours from deut2522.krn
-INFO 27-04-21 16:41:49 Extracted 06 contours from deut2523.krn
-INFO 27-04-21 16:41:49 Extracted 07 contours from deut2524.krn
-INFO 27-04-21 16:41:49 Extracted 05 contours from deut2525.krn
-INFO 27-04-21 16:41:49 Extracted 05 contours from deut2526.krn
-INFO 27-04-21 16:41:49 Extracted 07 contours from deut2527.krn
-INFO 27-04-21 16:41:49 Extracted 05 contours from deut2528.krn
-INFO 27-04-21 16:41:49 Extracted 04 contours from deut2529.krn
-INFO 27-04-21 16:41:49 Extracted 04 contours from deut2530.krn
-INFO 27-04-21 16:41:50 Extracted 03 contours from deut2531.krn
-INFO 27-04-21 16:41:50 Extracted 09 contours from deut2532.krn
-INFO 27-04-21 16:41:50 Extracted 04 contours from deut2533.krn
-INFO 27-04-21 16:41:50 Extracted 06 contours from deut2534.krn
-INFO 27-04-21 16:41:50 Extracted 06 contours from deut2535.krn
-INFO 27-04-21 16:41:50 Extracted 14 contours from deut2536.krn
-INFO 27-04-21 16:41:50 Extracted 10 contours from deut2537.krn
-INFO 27-04-21 16:41:50 Extracted 08 contours from deut2538.krn
-INFO 27-04-21 16:41:50 Extracted 09 contours from deut2539.krn
-INFO 27-04-21 16:41:50 Extracted 04 contours from deut2540.krn
-INFO 27-04-21 16:41:50 Extracted 09 contours from deut2541.krn
-WARNING 27-04-21 16:41:50 Skipping deut2542: A contour should have at least three pitches
-INFO 27-04-21 16:41:50 Extracted 07 contours from deut2543.krn
-INFO 27-04-21 16:41:50 Extracted 06 contours from deut2544.krn
-INFO 27-04-21 16:41:50 Extracted 05 contours from deut2545.krn
-INFO 27-04-21 16:41:50 Extracted 07 contours from deut2546.krn
-INFO 27-04-21 16:41:50 Extracted 03 contours from deut2547.krn
-INFO 27-04-21 16:41:51 Extracted 06 contours from deut2548.krn
-INFO 27-04-21 16:41:51 Extracted 06 contours from deut2549.krn
-INFO 27-04-21 16:41:51 Extracted 07 contours from deut2550.krn
-INFO 27-04-21 16:41:51 Extracted 04 contours from deut2551.krn
-INFO 27-04-21 16:41:51 Extracted 07 contours from deut2552.krn
-INFO 27-04-21 16:41:51 Extracted 06 contours from deut2553.krn
-INFO 27-04-21 16:41:51 Extracted 06 contours from deut2554.krn
-INFO 27-04-21 16:41:51 Extracted 10 contours from deut2555.krn
-INFO 27-04-21 16:41:51 Extracted 09 contours from deut2556.krn
-INFO 27-04-21 16:41:51 Extracted 08 contours from deut2557.krn
-INFO 27-04-21 16:41:51 Extracted 02 contours from deut2558.krn
-INFO 27-04-21 16:41:51 Extracted 11 contours from deut2559.krn
-INFO 27-04-21 16:41:51 Extracted 05 contours from deut2560.krn
-INFO 27-04-21 16:41:51 Extracted 07 contours from deut2561.krn
-INFO 27-04-21 16:41:51 Extracted 13 contours from deut2562.krn
-INFO 27-04-21 16:41:52 Extracted 09 contours from deut2563.krn
-INFO 27-04-21 16:41:52 Extracted 04 contours from deut2564.krn
-INFO 27-04-21 16:41:52 Extracted 10 contours from deut2565.krn
-INFO 27-04-21 16:41:52 Extracted 02 contours from deut2566.krn
-INFO 27-04-21 16:41:52 Extracted 07 contours from deut2567.krn
-INFO 27-04-21 16:41:52 Extracted 06 contours from deut2568.krn
-INFO 27-04-21 16:41:52 Extracted 04 contours from deut2569.krn
-WARNING 27-04-21 16:41:52 Skipping deut2570: ufunc 'nextafter' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
-INFO 27-04-21 16:41:52 Extracted 08 contours from deut2571.krn
-INFO 27-04-21 16:41:52 Extracted 07 contours from deut2572.krn
-INFO 27-04-21 16:41:52 Extracted 07 contours from deut2573.krn
-INFO 27-04-21 16:41:52 Extracted 05 contours from deut2574.krn
-INFO 27-04-21 16:41:52 Extracted 11 contours from deut2575.krn
-INFO 27-04-21 16:41:52 Extracted 04 contours from deut2576.krn
-INFO 27-04-21 16:41:52 Extracted 04 contours from deut2577.krn
-INFO 27-04-21 16:41:52 Extracted 04 contours from deut2578.krn
-INFO 27-04-21 16:41:52 Extracted 05 contours from deut2579.krn
-INFO 27-04-21 16:41:53 Extracted 03 contours from deut2580.krn
-INFO 27-04-21 16:41:53 Extracted 05 contours from deut2581.krn
-WARNING 27-04-21 16:41:53 Skipping deut2582: ufunc 'nextafter' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
-INFO 27-04-21 16:41:53 Extracted 05 contours from deut2583.krn
-INFO 27-04-21 16:41:53 Extracted 06 contours from deut2584.krn
-INFO 27-04-21 16:41:53 Extracted 06 contours from deut2585.krn
-INFO 27-04-21 16:41:53 Extracted 06 contours from deut2586.krn
-INFO 27-04-21 16:41:53 Extracted 02 contours from deut2587.krn
-INFO 27-04-21 16:41:53 Extracted 07 contours from deut2588.krn
-INFO 27-04-21 16:41:53 Extracted 03 contours from deut2589.krn
-INFO 27-04-21 16:41:53 Extracted 02 contours from deut2590.krn
-INFO 27-04-21 16:41:53 Extracted 09 contours from deut2591.krn
-INFO 27-04-21 16:41:53 Extracted 05 contours from deut2592.krn
-INFO 27-04-21 16:41:53 Extracted 06 contours from deut2593.krn
-INFO 27-04-21 16:41:53 Extracted 03 contours from deut2594.krn
-INFO 27-04-21 16:41:53 Extracted 03 contours from deut2595.krn
-INFO 27-04-21 16:41:53 Extracted 08 contours from deut2596.krn
-INFO 27-04-21 16:41:53 Extracted 03 contours from deut2597.krn
-INFO 27-04-21 16:41:53 Extracted 05 contours from deut2598.krn
-INFO 27-04-21 16:41:54 Extracted 08 contours from deut2599.krn
-INFO 27-04-21 16:41:54 Extracted 02 contours from deut2600.krn
-INFO 27-04-21 16:41:54 Extracted 01 contours from deut2601.krn
-INFO 27-04-21 16:41:54 Extracted 05 contours from deut2602.krn
-INFO 27-04-21 16:41:54 Extracted 08 contours from deut2603.krn
-WARNING 27-04-21 16:41:54 Skipping deut2604: ufunc 'nextafter' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
-INFO 27-04-21 16:41:54 Extracted 03 contours from deut2605.krn
-INFO 27-04-21 16:41:54 Extracted 06 contours from deut2606.krn
-INFO 27-04-21 16:41:54 Extracted 06 contours from deut2607.krn
-INFO 27-04-21 16:41:54 Extracted 07 contours from deut2608.krn
-INFO 27-04-21 16:41:54 Extracted 10 contours from deut2609.krn
-INFO 27-04-21 16:41:54 Extracted 03 contours from deut2610.krn
-INFO 27-04-21 16:41:54 Extracted 03 contours from deut2611.krn
-INFO 27-04-21 16:41:54 Extracted 04 contours from deut2612.krn
-INFO 27-04-21 16:41:54 Extracted 06 contours from deut2613.krn
-INFO 27-04-21 16:41:54 Extracted 05 contours from deut2614.krn
-INFO 27-04-21 16:41:54 Extracted 06 contours from deut2615.krn
-INFO 27-04-21 16:41:54 Extracted 03 contours from deut2616.krn
-INFO 27-04-21 16:41:54 Extracted 03 contours from deut2617.krn
-INFO 27-04-21 16:41:54 Extracted 03 contours from deut2618.krn
-INFO 27-04-21 16:41:55 Extracted 08 contours from deut2619.krn
-INFO 27-04-21 16:41:55 Extracted 07 contours from deut2620.krn
-INFO 27-04-21 16:41:55 Extracted 09 contours from deut2621.krn
-INFO 27-04-21 16:41:55 Extracted 07 contours from deut2622.krn
-INFO 27-04-21 16:41:55 Extracted 06 contours from deut2623.krn
-INFO 27-04-21 16:41:55 Extracted 07 contours from deut2624.krn
-INFO 27-04-21 16:41:55 Extracted 05 contours from deut2625.krn
-INFO 27-04-21 16:41:55 Extracted 04 contours from deut2626.krn
-INFO 27-04-21 16:41:55 Extracted 04 contours from deut2627.krn
-INFO 27-04-21 16:41:55 Extracted 06 contours from deut2628.krn
-INFO 27-04-21 16:41:55 Extracted 09 contours from deut2629.krn
-INFO 27-04-21 16:41:55 Extracted 08 contours from deut2630.krn
-INFO 27-04-21 16:41:55 Extracted 08 contours from deut2631.krn
-INFO 27-04-21 16:41:55 Extracted 03 contours from deut2632.krn
-INFO 27-04-21 16:41:55 Extracted 06 contours from deut2633.krn
-INFO 27-04-21 16:41:55 Extracted 06 contours from deut2634.krn
-INFO 27-04-21 16:41:55 Extracted 02 contours from deut2635.krn
-INFO 27-04-21 16:41:55 Extracted 03 contours from deut2636.krn
-INFO 27-04-21 16:41:55 Extracted 01 contours from deut2637.krn
-INFO 27-04-21 16:41:55 Extracted 02 contours from deut2638.krn
-INFO 27-04-21 16:41:56 Extracted 09 contours from deut2639.krn
-INFO 27-04-21 16:41:56 Extracted 06 contours from deut2640.krn
-INFO 27-04-21 16:41:56 Extracted 13 contours from deut2641.krn
-WARNING 27-04-21 16:41:56 Skipping deut2642: ufunc 'nextafter' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
-INFO 27-04-21 16:41:56 Extracted 04 contours from deut2643.krn
-INFO 27-04-21 16:41:56 Extracted 04 contours from deut2644.krn
-INFO 27-04-21 16:41:56 Extracted 05 contours from deut2645.krn
-INFO 27-04-21 16:41:56 Extracted 08 contours from deut2646.krn
-INFO 27-04-21 16:41:56 Extracted 06 contours from deut2647.krn
-INFO 27-04-21 16:41:56 Extracted 06 contours from deut2648.krn
-INFO 27-04-21 16:41:56 Extracted 06 contours from deut2649.krn
-INFO 27-04-21 16:41:56 Extracted 09 contours from deut2650.krn
-INFO 27-04-21 16:41:56 Extracted 10 contours from deut2651.krn
-INFO 27-04-21 16:41:56 Extracted 01 contours from deut2652.krn
-INFO 27-04-21 16:41:56 Extracted 06 contours from deut2653.krn
-INFO 27-04-21 16:41:56 Extracted 04 contours from deut2654.krn
-INFO 27-04-21 16:41:56 Extracted 07 contours from deut2655.krn
-INFO 27-04-21 16:41:57 Extracted 08 contours from deut2656.krn
-INFO 27-04-21 16:41:57 Extracted 07 contours from deut2657.krn
-INFO 27-04-21 16:41:57 Extracted 05 contours from deut2658.krn
-INFO 27-04-21 16:41:57 Extracted 05 contours from deut2659.krn
-WARNING 27-04-21 16:41:57 Skipping deut2660: A contour should have at least three pitches
-INFO 27-04-21 16:41:57 Extracted 09 contours from deut2661.krn
-INFO 27-04-21 16:41:57 Extracted 09 contours from deut2662.krn
-INFO 27-04-21 16:41:57 Extracted 10 contours from deut2663.krn
-INFO 27-04-21 16:41:57 Extracted 03 contours from deut2664.krn
-INFO 27-04-21 16:41:57 Extracted 03 contours from deut2665.krn
-INFO 27-04-21 16:41:57 Extracted 12 contours from deut2666.krn
-INFO 27-04-21 16:41:57 Extracted 05 contours from deut2667.krn
-INFO 27-04-21 16:41:57 Extracted 02 contours from deut2668.krn
-INFO 27-04-21 16:41:57 Extracted 04 contours from deut2669.krn
-INFO 27-04-21 16:41:57 Extracted 05 contours from deut2670.krn
-INFO 27-04-21 16:41:57 Extracted 07 contours from deut2671.krn
-INFO 27-04-21 16:41:57 Extracted 05 contours from deut2672.krn
-INFO 27-04-21 16:41:57 Extracted 05 contours from deut2673.krn
-INFO 27-04-21 16:41:58 Extracted 01 contours from deut2674.krn
-INFO 27-04-21 16:41:58 Extracted 07 contours from deut2675.krn
-INFO 27-04-21 16:41:58 Extracted 09 contours from deut2676.krn
-INFO 27-04-21 16:41:58 Extracted 08 contours from deut2677.krn
-INFO 27-04-21 16:41:58 Extracted 06 contours from deut2678.krn
-INFO 27-04-21 16:41:58 Extracted 05 contours from deut2679.krn
-INFO 27-04-21 16:41:58 Extracted 08 contours from deut2680.krn
-INFO 27-04-21 16:41:58 Extracted 02 contours from deut2681.krn
-INFO 27-04-21 16:41:58 Extracted 03 contours from deut2682.krn
-INFO 27-04-21 16:41:58 Extracted 05 contours from deut2683.krn
-INFO 27-04-21 16:41:58 Extracted 03 contours from deut2684.krn
-INFO 27-04-21 16:41:58 Extracted 06 contours from deut2685.krn
-INFO 27-04-21 16:41:58 Extracted 04 contours from deut2686.krn
-INFO 27-04-21 16:41:58 Extracted 09 contours from deut2687.krn
-INFO 27-04-21 16:41:58 Extracted 13 contours from deut2688.krn
-INFO 27-04-21 16:41:58 Extracted 08 contours from deut2689.krn
-INFO 27-04-21 16:41:58 Extracted 06 contours from deut2690.krn
-INFO 27-04-21 16:41:59 Extracted 04 contours from deut2691.krn
-INFO 27-04-21 16:41:59 Extracted 08 contours from deut2692.krn
-INFO 27-04-21 16:41:59 Extracted 10 contours from deut2693.krn
-INFO 27-04-21 16:41:59 Extracted 06 contours from deut2694.krn
-INFO 27-04-21 16:41:59 Extracted 04 contours from deut2695.krn
-INFO 27-04-21 16:41:59 Extracted 03 contours from deut2696.krn
-INFO 27-04-21 16:41:59 Extracted 06 contours from deut2697.krn
-INFO 27-04-21 16:41:59 Extracted 12 contours from deut2698.krn
-INFO 27-04-21 16:41:59 Extracted 09 contours from deut2699.krn
-INFO 27-04-21 16:41:59 Extracted 18 contours from deut2700.krn
-INFO 27-04-21 16:41:59 Extracted 03 contours from deut2701.krn
-INFO 27-04-21 16:41:59 Extracted 03 contours from deut2702.krn
-INFO 27-04-21 16:41:59 Extracted 07 contours from deut2703.krn
-INFO 27-04-21 16:41:59 Extracted 05 contours from deut2704.krn
-INFO 27-04-21 16:41:59 Extracted 08 contours from deut2705.krn
-INFO 27-04-21 16:41:59 Extracted 05 contours from deut2706.krn
-INFO 27-04-21 16:42:00 Extracted 01 contours from deut2707.krn
-INFO 27-04-21 16:42:00 Extracted 04 contours from deut2708.krn
-INFO 27-04-21 16:42:00 Extracted 06 contours from deut2709.krn
-INFO 27-04-21 16:42:00 Extracted 06 contours from deut2710.krn
-INFO 27-04-21 16:42:00 Extracted 07 contours from deut2711.krn
-INFO 27-04-21 16:42:00 Extracted 08 contours from deut2712.krn
-INFO 27-04-21 16:42:00 Extracted 03 contours from deut2713.krn
-INFO 27-04-21 16:42:00 Extracted 06 contours from deut2714.krn
-INFO 27-04-21 16:42:00 Extracted 02 contours from deut2715.krn
-INFO 27-04-21 16:42:00 Extracted 05 contours from deut2716.krn
-INFO 27-04-21 16:42:00 Extracted 06 contours from deut2717.krn
-INFO 27-04-21 16:42:00 Extracted 03 contours from deut2718.krn
-INFO 27-04-21 16:42:00 Extracted 07 contours from deut2719.krn
-INFO 27-04-21 16:42:00 Extracted 04 contours from deut2720.krn
-INFO 27-04-21 16:42:00 Extracted 03 contours from deut2721.krn
-WARNING 27-04-21 16:42:00 Skipping deut2722: ufunc 'nextafter' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
-INFO 27-04-21 16:42:00 Extracted 09 contours from deut2723.krn
-INFO 27-04-21 16:42:00 Extracted 03 contours from deut2724.krn
-INFO 27-04-21 16:42:01 Extracted 04 contours from deut2725.krn
-INFO 27-04-21 16:42:01 Extracted 11 contours from deut2726.krn
-INFO 27-04-21 16:42:01 Extracted 05 contours from deut2727.krn
-INFO 27-04-21 16:42:01 Extracted 04 contours from deut2728.krn
-INFO 27-04-21 16:42:01 Extracted 07 contours from deut2729.krn
-INFO 27-04-21 16:42:01 Extracted 07 contours from deut2730.krn
-INFO 27-04-21 16:42:01 Extracted 08 contours from deut2731.krn
-INFO 27-04-21 16:42:01 Extracted 07 contours from deut2732.krn
-WARNING 27-04-21 16:42:01 Skipping deut2733: ufunc 'nextafter' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
-INFO 27-04-21 16:42:01 Extracted 03 contours from deut2734.krn
-INFO 27-04-21 16:42:01 Extracted 07 contours from deut2735.krn
-INFO 27-04-21 16:42:01 Extracted 06 contours from deut2736.krn
-INFO 27-04-21 16:42:01 Extracted 04 contours from deut2737.krn
-INFO 27-04-21 16:42:01 Extracted 11 contours from deut2738.krn
-INFO 27-04-21 16:42:01 Extracted 10 contours from deut2739.krn
-INFO 27-04-21 16:42:02 Extracted 07 contours from deut2740.krn
-INFO 27-04-21 16:42:02 Extracted 11 contours from deut2741.krn
-INFO 27-04-21 16:42:02 Extracted 03 contours from deut2742.krn
-INFO 27-04-21 16:42:02 Extracted 07 contours from deut2743.krn
-INFO 27-04-21 16:42:02 Extracted 11 contours from deut2744.krn
-INFO 27-04-21 16:42:02 Extracted 05 contours from deut2745.krn
-INFO 27-04-21 16:42:02 Extracted 06 contours from deut2746.krn
-INFO 27-04-21 16:42:02 Extracted 02 contours from deut2747.krn
-INFO 27-04-21 16:42:02 Extracted 05 contours from deut2748.krn
-INFO 27-04-21 16:42:02 Extracted 08 contours from deut2749.krn
-INFO 27-04-21 16:42:02 Extracted 07 contours from deut2750.krn
-INFO 27-04-21 16:42:02 Extracted 04 contours from deut2751.krn
-INFO 27-04-21 16:42:02 Extracted 09 contours from deut2752.krn
-INFO 27-04-21 16:42:02 Extracted 06 contours from deut2753.krn
-INFO 27-04-21 16:42:02 Extracted 08 contours from deut2754.krn
-INFO 27-04-21 16:42:02 Extracted 06 contours from deut2755.krn
-INFO 27-04-21 16:42:03 Extracted 07 contours from deut2756.krn
-INFO 27-04-21 16:42:03 Extracted 08 contours from deut2757.krn
-INFO 27-04-21 16:42:03 Extracted 07 contours from deut2758.krn
-INFO 27-04-21 16:42:03 Extracted 08 contours from deut2759.krn
-INFO 27-04-21 16:42:03 Extracted 06 contours from deut2760.krn
-INFO 27-04-21 16:42:03 Extracted 10 contours from deut2761.krn
-INFO 27-04-21 16:42:03 Extracted 08 contours from deut2762.krn
-INFO 27-04-21 16:42:03 Extracted 08 contours from deut2763.krn
-INFO 27-04-21 16:42:03 Extracted 04 contours from deut2764.krn
-INFO 27-04-21 16:42:03 Extracted 09 contours from deut2765.krn
-INFO 27-04-21 16:42:03 Extracted 07 contours from deut2766.krn
-INFO 27-04-21 16:42:03 Extracted 10 contours from deut2767.krn
-INFO 27-04-21 16:42:03 Extracted 07 contours from deut2768.krn
-INFO 27-04-21 16:42:04 Extracted 03 contours from deut2769.krn
-INFO 27-04-21 16:42:04 Extracted 09 contours from deut2770.krn
-WARNING 27-04-21 16:42:04 Skipping deut2771: ufunc 'nextafter' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
-INFO 27-04-21 16:42:04 Extracted 08 contours from deut2772.krn
-INFO 27-04-21 16:42:04 Extracted 06 contours from deut2773.krn
-INFO 27-04-21 16:42:04 Extracted 02 contours from deut2774.krn
-INFO 27-04-21 16:42:04 Extracted 09 contours from deut2775.krn
-INFO 27-04-21 16:42:04 Extracted 08 contours from deut2776.krn
-INFO 27-04-21 16:42:04 Extracted 04 contours from deut2777.krn
-INFO 27-04-21 16:42:04 Extracted 05 contours from deut2778.krn
-INFO 27-04-21 16:42:04 Extracted 13 contours from deut2779.krn
-INFO 27-04-21 16:42:04 Extracted 04 contours from deut2780.krn
-INFO 27-04-21 16:42:04 Extracted 07 contours from deut2781.krn
-INFO 27-04-21 16:42:04 Extracted 04 contours from deut2782.krn
-INFO 27-04-21 16:42:04 Extracted 10 contours from deut2783.krn
-INFO 27-04-21 16:42:04 Extracted 02 contours from deut2784.krn
-INFO 27-04-21 16:42:04 Extracted 05 contours from deut2785.krn
-INFO 27-04-21 16:42:05 Extracted 06 contours from deut2786.krn
-INFO 27-04-21 16:42:05 Extracted 09 contours from deut2787.krn
-INFO 27-04-21 16:42:05 Extracted 16 contours from deut2788.krn
-INFO 27-04-21 16:42:05 Extracted 03 contours from deut2789.krn
-INFO 27-04-21 16:42:05 Extracted 05 contours from deut2790.krn
-INFO 27-04-21 16:42:05 Extracted 07 contours from deut2791.krn
-INFO 27-04-21 16:42:05 Extracted 04 contours from deut2792.krn
-INFO 27-04-21 16:42:05 Extracted 04 contours from deut2793.krn
-INFO 27-04-21 16:42:05 Extracted 11 contours from deut2794.krn
-INFO 27-04-21 16:42:05 Extracted 06 contours from deut2795.krn
-INFO 27-04-21 16:42:05 Extracted 06 contours from deut2796.krn
-INFO 27-04-21 16:42:05 Extracted 09 contours from deut2797.krn
-INFO 27-04-21 16:42:05 Extracted 05 contours from deut2798.krn
-INFO 27-04-21 16:42:05 Extracted 02 contours from deut2799.krn
-INFO 27-04-21 16:42:05 Extracted 04 contours from deut2800.krn
-INFO 27-04-21 16:42:05 Extracted 03 contours from deut2801.krn
-INFO 27-04-21 16:42:06 Extracted 06 contours from deut2802.krn
-INFO 27-04-21 16:42:06 Extracted 02 contours from deut2803.krn
-INFO 27-04-21 16:42:06 Extracted 08 contours from deut2804.krn
-INFO 27-04-21 16:42:06 Extracted 02 contours from deut2805.krn
-INFO 27-04-21 16:42:06 Extracted 01 contours from deut2806.krn
-INFO 27-04-21 16:42:06 Extracted 05 contours from deut2807.krn
-INFO 27-04-21 16:42:06 Extracted 03 contours from deut2808.krn
-INFO 27-04-21 16:42:06 Extracted 06 contours from deut2809.krn
-INFO 27-04-21 16:42:06 Extracted 06 contours from deut2810.krn
-INFO 27-04-21 16:42:06 Extracted 07 contours from deut2811.krn
-INFO 27-04-21 16:42:06 Extracted 04 contours from deut2812.krn
-INFO 27-04-21 16:42:06 Extracted 02 contours from deut2813.krn
-INFO 27-04-21 16:42:06 Extracted 02 contours from deut2814.krn
-INFO 27-04-21 16:42:06 Extracted 05 contours from deut2815.krn
-INFO 27-04-21 16:42:06 Extracted 06 contours from deut2816.krn
-INFO 27-04-21 16:42:06 Extracted 03 contours from deut2817.krn
-INFO 27-04-21 16:42:06 Extracted 04 contours from deut2818.krn
-INFO 27-04-21 16:42:06 Extracted 01 contours from deut2819.krn
-INFO 27-04-21 16:42:06 Extracted 03 contours from deut2820.krn
-INFO 27-04-21 16:42:06 Extracted 10 contours from deut2821.krn
-INFO 27-04-21 16:42:07 Extracted 02 contours from deut2822.krn
-INFO 27-04-21 16:42:07 Extracted 03 contours from deut2823.krn
-INFO 27-04-21 16:42:07 Extracted 01 contours from deut2824.krn
-INFO 27-04-21 16:42:07 Extracted 02 contours from deut2825.krn
-INFO 27-04-21 16:42:07 Extracted 05 contours from deut2826.krn
-INFO 27-04-21 16:42:07 Extracted 04 contours from deut2827.krn
-INFO 27-04-21 16:42:07 Extracted 03 contours from deut2828.krn
-INFO 27-04-21 16:42:07 Extracted 01 contours from deut2829.krn
-INFO 27-04-21 16:42:07 Extracted 04 contours from deut2830.krn
-INFO 27-04-21 16:42:07 Extracted 05 contours from deut2831.krn
-INFO 27-04-21 16:42:07 Extracted 04 contours from deut2832.krn
-INFO 27-04-21 16:42:07 Extracted 06 contours from deut2833.krn
-INFO 27-04-21 16:42:07 Extracted 02 contours from deut2834.krn
-INFO 27-04-21 16:42:07 Extracted 02 contours from deut2835.krn
-INFO 27-04-21 16:42:07 Extracted 03 contours from deut2836.krn
-INFO 27-04-21 16:42:07 Extracted 03 contours from deut2837.krn
-INFO 27-04-21 16:42:07 Extracted 06 contours from deut2838.krn
-INFO 27-04-21 16:42:07 Extracted 08 contours from deut2839.krn
-INFO 27-04-21 16:42:07 Extracted 07 contours from deut2840.krn
-INFO 27-04-21 16:42:07 Extracted 05 contours from deut2841.krn
-INFO 27-04-21 16:42:07 Extracted 09 contours from deut2842.krn
-INFO 27-04-21 16:42:07 Extracted 02 contours from deut2843.krn
-INFO 27-04-21 16:42:08 Extracted 07 contours from deut2844.krn
-INFO 27-04-21 16:42:08 Extracted 11 contours from deut2845.krn
-INFO 27-04-21 16:42:08 Extracted 03 contours from deut2846.krn
-INFO 27-04-21 16:42:08 Extracted 09 contours from deut2847.krn
-INFO 27-04-21 16:42:08 Extracted 08 contours from deut2848.krn
-INFO 27-04-21 16:42:08 Extracted 03 contours from deut2849.krn
-INFO 27-04-21 16:42:08 Extracted 02 contours from deut2850.krn
-INFO 27-04-21 16:42:08 Extracted 02 contours from deut2851.krn
-INFO 27-04-21 16:42:08 Extracted 06 contours from deut2852.krn
-INFO 27-04-21 16:42:08 Extracted 05 contours from deut2853.krn
-INFO 27-04-21 16:42:08 Extracted 07 contours from deut2854.krn
-INFO 27-04-21 16:42:08 Extracted 03 contours from deut2855.krn
-INFO 27-04-21 16:42:08 Extracted 03 contours from deut2856.krn
-INFO 27-04-21 16:42:08 Extracted 05 contours from deut2857.krn
-INFO 27-04-21 16:42:08 Extracted 03 contours from deut2858.krn
-INFO 27-04-21 16:42:08 Extracted 03 contours from deut2859.krn
-INFO 27-04-21 16:42:08 Extracted 07 contours from deut2860.krn
-INFO 27-04-21 16:42:08 Extracted 04 contours from deut2861.krn
-INFO 27-04-21 16:42:08 Extracted 04 contours from deut2862.krn
-INFO 27-04-21 16:42:09 Extracted 07 contours from deut2863.krn
-INFO 27-04-21 16:42:09 Extracted 08 contours from deut2864.krn
-INFO 27-04-21 16:42:09 Extracted 03 contours from deut2865.krn
-INFO 27-04-21 16:42:09 Extracted 07 contours from deut2866.krn
-INFO 27-04-21 16:42:09 Extracted 06 contours from deut2867.krn
-INFO 27-04-21 16:42:09 Extracted 10 contours from deut2868.krn
-INFO 27-04-21 16:42:09 Extracted 09 contours from deut2869.krn
-INFO 27-04-21 16:42:09 Extracted 06 contours from deut2870.krn
-INFO 27-04-21 16:42:09 Extracted 07 contours from deut2871.krn
-INFO 27-04-21 16:42:09 Extracted 06 contours from deut2872.krn
-INFO 27-04-21 16:42:09 Extracted 07 contours from deut2873.krn
-INFO 27-04-21 16:42:09 Extracted 05 contours from deut2874.krn
-INFO 27-04-21 16:42:09 Extracted 07 contours from deut2875.krn
-INFO 27-04-21 16:42:09 Extracted 10 contours from deut2876.krn
-INFO 27-04-21 16:42:09 Extracted 03 contours from deut2877.krn
-INFO 27-04-21 16:42:10 Extracted 07 contours from deut2878.krn
-INFO 27-04-21 16:42:10 Extracted 01 contours from deut2879.krn
-INFO 27-04-21 16:42:10 Extracted 11 contours from deut2880.krn
-INFO 27-04-21 16:42:10 Extracted 12 contours from deut2881.krn
-INFO 27-04-21 16:42:10 Extracted 09 contours from deut2882.krn
-INFO 27-04-21 16:42:10 Extracted 05 contours from deut2883.krn
-INFO 27-04-21 16:42:10 Extracted 09 contours from deut2884.krn
-INFO 27-04-21 16:42:10 Extracted 04 contours from deut2885.krn
-INFO 27-04-21 16:42:10 Extracted 05 contours from deut2886.krn
-INFO 27-04-21 16:42:10 Extracted 06 contours from deut2887.krn
-INFO 27-04-21 16:42:10 Extracted 04 contours from deut2888.krn
-INFO 27-04-21 16:42:10 Extracted 06 contours from deut2889.krn
-INFO 27-04-21 16:42:10 Extracted 04 contours from deut2890.krn
-INFO 27-04-21 16:42:10 Extracted 09 contours from deut2891.krn
-WARNING 27-04-21 16:42:11 Skipping deut2892: A contour should have at least three pitches
-INFO 27-04-21 16:42:11 Extracted 05 contours from deut2893.krn
-INFO 27-04-21 16:42:11 Extracted 05 contours from deut2894.krn
-INFO 27-04-21 16:42:11 Extracted 07 contours from deut2895.krn
-INFO 27-04-21 16:42:11 Extracted 05 contours from deut2896.krn
-INFO 27-04-21 16:42:11 Extracted 02 contours from deut2897.krn
-INFO 27-04-21 16:42:11 Extracted 08 contours from deut2898.krn
-INFO 27-04-21 16:42:11 Extracted 06 contours from deut2899.krn
-INFO 27-04-21 16:42:11 Extracted 09 contours from deut2900.krn
-INFO 27-04-21 16:42:11 Extracted 09 contours from deut2901.krn
-INFO 27-04-21 16:42:11 Extracted 03 contours from deut2902.krn
-INFO 27-04-21 16:42:11 Extracted 06 contours from deut2903.krn
-INFO 27-04-21 16:42:11 Extracted 13 contours from deut2904.krn
-INFO 27-04-21 16:42:11 Extracted 11 contours from deut2905.krn
-INFO 27-04-21 16:42:11 Extracted 06 contours from deut2906.krn
-INFO 27-04-21 16:42:12 Extracted 04 contours from deut2907.krn
-INFO 27-04-21 16:42:12 Extracted 07 contours from deut2908.krn
-INFO 27-04-21 16:42:12 Extracted 06 contours from deut2909.krn
-INFO 27-04-21 16:42:12 Extracted 06 contours from deut2910.krn
-INFO 27-04-21 16:42:12 Extracted 04 contours from deut2911.krn
-INFO 27-04-21 16:42:12 Extracted 05 contours from deut2912.krn
-INFO 27-04-21 16:42:12 Extracted 05 contours from deut2913.krn
-INFO 27-04-21 16:42:12 Extracted 08 contours from deut2914.krn
-INFO 27-04-21 16:42:12 Extracted 08 contours from deut2915.krn
-INFO 27-04-21 16:42:12 Extracted 10 contours from deut2916.krn
-INFO 27-04-21 16:42:12 Extracted 08 contours from deut2917.krn
-INFO 27-04-21 16:42:12 Extracted 09 contours from deut2918.krn
-INFO 27-04-21 16:42:12 Extracted 06 contours from deut2919.krn
-INFO 27-04-21 16:42:12 Extracted 06 contours from deut2920.krn
-INFO 27-04-21 16:42:12 Extracted 05 contours from deut2921.krn
-INFO 27-04-21 16:42:12 Extracted 06 contours from deut2922.krn
-INFO 27-04-21 16:42:13 Extracted 06 contours from deut2923.krn
-INFO 27-04-21 16:42:13 Extracted 05 contours from deut2924.krn
-INFO 27-04-21 16:42:13 Extracted 13 contours from deut2925.krn
-INFO 27-04-21 16:42:13 Extracted 05 contours from deut2926.krn
-INFO 27-04-21 16:42:13 Extracted 07 contours from deut2927.krn
-INFO 27-04-21 16:42:13 Extracted 05 contours from deut2928.krn
-INFO 27-04-21 16:42:13 Extracted 05 contours from deut2929.krn
-INFO 27-04-21 16:42:13 Extracted 05 contours from deut2930.krn
-INFO 27-04-21 16:42:13 Extracted 07 contours from deut2931.krn
-INFO 27-04-21 16:42:13 Extracted 02 contours from deut2932.krn
-INFO 27-04-21 16:42:13 Extracted 06 contours from deut2933.krn
-INFO 27-04-21 16:42:13 Extracted 06 contours from deut2934.krn
-INFO 27-04-21 16:42:13 Extracted 04 contours from deut2935.krn
-INFO 27-04-21 16:42:13 Extracted 07 contours from deut2936.krn
-INFO 27-04-21 16:42:13 Extracted 03 contours from deut2937.krn
-INFO 27-04-21 16:42:13 Extracted 03 contours from deut2938.krn
-INFO 27-04-21 16:42:13 Extracted 05 contours from deut2939.krn
-INFO 27-04-21 16:42:13 Extracted 03 contours from deut2940.krn
-INFO 27-04-21 16:42:13 Extracted 05 contours from deut2941.krn
-INFO 27-04-21 16:42:14 Extracted 04 contours from deut2942.krn
-INFO 27-04-21 16:42:14 Extracted 05 contours from deut2943.krn
-INFO 27-04-21 16:42:14 Extracted 04 contours from deut2944.krn
-INFO 27-04-21 16:42:14 Extracted 05 contours from deut2945.krn
-INFO 27-04-21 16:42:14 Extracted 06 contours from deut2946.krn
-INFO 27-04-21 16:42:14 Extracted 02 contours from deut2947.krn
-INFO 27-04-21 16:42:14 Extracted 06 contours from deut2948.krn
-INFO 27-04-21 16:42:14 Extracted 03 contours from deut2949.krn
-INFO 27-04-21 16:42:14 Extracted 06 contours from deut2950.krn
-INFO 27-04-21 16:42:14 Extracted 02 contours from deut2951.krn
-INFO 27-04-21 16:42:14 Extracted 06 contours from deut2952.krn
-INFO 27-04-21 16:42:14 Extracted 02 contours from deut2953.krn
-INFO 27-04-21 16:42:14 Extracted 03 contours from deut2954.krn
-INFO 27-04-21 16:42:14 Extracted 06 contours from deut2955.krn
-INFO 27-04-21 16:42:14 Extracted 05 contours from deut2956.krn
-INFO 27-04-21 16:42:14 Extracted 05 contours from deut2957.krn
-INFO 27-04-21 16:42:14 Extracted 03 contours from deut2958.krn
-INFO 27-04-21 16:42:14 Extracted 08 contours from deut2959.krn
-INFO 27-04-21 16:42:14 Extracted 08 contours from deut2960.krn
-INFO 27-04-21 16:42:14 Extracted 04 contours from deut2961.krn
-INFO 27-04-21 16:42:15 Extracted 08 contours from deut2962.krn
-INFO 27-04-21 16:42:15 Extracted 04 contours from deut2963.krn
-INFO 27-04-21 16:42:15 Extracted 05 contours from deut2964.krn
-INFO 27-04-21 16:42:15 Extracted 06 contours from deut2965.krn
-INFO 27-04-21 16:42:15 Extracted 03 contours from deut2966.krn
-INFO 27-04-21 16:42:15 Extracted 04 contours from deut2967.krn
-INFO 27-04-21 16:42:15 Extracted 04 contours from deut2968.krn
-INFO 27-04-21 16:42:15 Extracted 06 contours from deut2969.krn
-INFO 27-04-21 16:42:15 Extracted 07 contours from deut2970.krn
-INFO 27-04-21 16:42:15 Extracted 05 contours from deut2971.krn
-INFO 27-04-21 16:42:15 Extracted 02 contours from deut2972.krn
-INFO 27-04-21 16:42:15 Extracted 07 contours from deut2973.krn
-INFO 27-04-21 16:42:15 Extracted 05 contours from deut2974.krn
-INFO 27-04-21 16:42:15 Extracted 05 contours from deut2975.krn
-INFO 27-04-21 16:42:15 Mean length of random phrases: 7.66...
-INFO 27-04-21 16:42:16 Stored random contours to contours/boehme-random-contours.csv
-INFO 27-04-21 16:42:16 md5 checksum: 574dd46385a54f8a3aaaf74502e5afe2
+Generating contour dataset: boehme
+Extracting phrase contours...
+Extracted 10 contours from deut2272.krn
+Extracted 10 contours from deut2273.krn
+Extracted 08 contours from deut2274.krn
+Extracted 06 contours from deut2275.krn
+Extracted 10 contours from deut2276.krn
+Extracted 06 contours from deut2277.krn
+Extracted 04 contours from deut2278.krn
+Extracted 04 contours from deut2279.krn
+Extracted 08 contours from deut2280.krn
+Extracted 06 contours from deut2281.krn
+Extracted 06 contours from deut2282.krn
+Extracted 04 contours from deut2283.krn
+Extracted 10 contours from deut2284.krn
+Extracted 06 contours from deut2285.krn
+Extracted 07 contours from deut2286.krn
+Extracted 07 contours from deut2287.krn
+Extracted 08 contours from deut2288.krn
+Extracted 10 contours from deut2289.krn
+Extracted 12 contours from deut2290.krn
+Extracted 12 contours from deut2291.krn
+Extracted 10 contours from deut2292.krn
+Extracted 08 contours from deut2293.krn
+Extracted 08 contours from deut2294.krn
+Extracted 12 contours from deut2295.krn
+Extracted 06 contours from deut2296.krn
+Extracted 06 contours from deut2297.krn
+Extracted 06 contours from deut2298.krn
+Extracted 03 contours from deut2299.krn
+Extracted 12 contours from deut2300.krn
+Extracted 10 contours from deut2301.krn
+Extracted 08 contours from deut2302.krn
+Extracted 09 contours from deut2303.krn
+Extracted 06 contours from deut2304.krn
+Extracted 08 contours from deut2305.krn
+Extracted 08 contours from deut2306.krn
+Extracted 12 contours from deut2307.krn
+Extracted 08 contours from deut2308.krn
+Extracted 07 contours from deut2309.krn
+Extracted 09 contours from deut2310.krn
+Extracted 10 contours from deut2311.krn
+Extracted 04 contours from deut2312.krn
+Extracted 10 contours from deut2313.krn
+Extracted 10 contours from deut2314.krn
+Extracted 08 contours from deut2315.krn
+Extracted 04 contours from deut2316.krn
+Extracted 06 contours from deut2317.krn
+Extracted 06 contours from deut2318.krn
+Extracted 04 contours from deut2319.krn
+Extracted 09 contours from deut2320.krn
+Extracted 08 contours from deut2321.krn
+Extracted 16 contours from deut2322.krn
+Extracted 06 contours from deut2323.krn
+Extracted 08 contours from deut2324.krn
+Extracted 06 contours from deut2325.krn
+Extracted 10 contours from deut2326.krn
+Extracted 07 contours from deut2327.krn
+Extracted 04 contours from deut2328.krn
+Extracted 06 contours from deut2329.krn
+Extracted 16 contours from deut2330.krn
+Extracted 05 contours from deut2331.krn
+Extracted 06 contours from deut2332.krn
+Extracted 08 contours from deut2333.krn
+Extracted 08 contours from deut2334.krn
+Extracted 07 contours from deut2335.krn
+Extracted 08 contours from deut2336.krn
+Extracted 08 contours from deut2337.krn
+Extracted 08 contours from deut2338.krn
+Extracted 10 contours from deut2339.krn
+Extracted 10 contours from deut2340.krn
+Extracted 10 contours from deut2341.krn
+Extracted 08 contours from deut2342.krn
+Extracted 07 contours from deut2343.krn
+Extracted 03 contours from deut2344.krn
+Extracted 04 contours from deut2345.krn
+Extracted 04 contours from deut2346.krn
+Extracted 05 contours from deut2347.krn
+Extracted 04 contours from deut2348.krn
+Extracted 04 contours from deut2349.krn
+Extracted 07 contours from deut2350.krn
+Extracted 08 contours from deut2351.krn
+Extracted 04 contours from deut2352.krn
+Extracted 04 contours from deut2353.krn
+Extracted 07 contours from deut2354.krn
+Extracted 07 contours from deut2355.krn
+Extracted 06 contours from deut2356.krn
+Extracted 04 contours from deut2357.krn
+Extracted 06 contours from deut2358.krn
+Extracted 07 contours from deut2359.krn
+Extracted 07 contours from deut2360.krn
+Extracted 08 contours from deut2361.krn
+Extracted 08 contours from deut2362.krn
+Extracted 08 contours from deut2363.krn
+Extracted 05 contours from deut2364.krn
+Extracted 04 contours from deut2365.krn
+Extracted 05 contours from deut2366.krn
+Extracted 03 contours from deut2367.krn
+Extracted 04 contours from deut2368.krn
+Extracted 08 contours from deut2369.krn
+Extracted 04 contours from deut2370.krn
+Extracted 06 contours from deut2371.krn
+Extracted 04 contours from deut2372.krn
+Extracted 07 contours from deut2373.krn
+Extracted 08 contours from deut2374.krn
+Extracted 05 contours from deut2375.krn
+Extracted 04 contours from deut2376.krn
+Extracted 04 contours from deut2377.krn
+Extracted 04 contours from deut2378.krn
+Extracted 07 contours from deut2379.krn
+Extracted 05 contours from deut2380.krn
+Extracted 07 contours from deut2381.krn
+Extracted 08 contours from deut2382.krn
+Extracted 08 contours from deut2383.krn
+Extracted 04 contours from deut2384.krn
+Extracted 03 contours from deut2385.krn
+Extracted 06 contours from deut2386.krn
+Extracted 08 contours from deut2387.krn
+Extracted 06 contours from deut2388.krn
+Extracted 04 contours from deut2389.krn
+Extracted 07 contours from deut2390.krn
+Extracted 07 contours from deut2391.krn
+Extracted 04 contours from deut2392.krn
+Extracted 04 contours from deut2393.krn
+Extracted 03 contours from deut2394.krn
+Extracted 08 contours from deut2395.krn
+Extracted 07 contours from deut2396.krn
+Extracted 06 contours from deut2397.krn
+Extracted 09 contours from deut2398.krn
+Extracted 06 contours from deut2399.krn
+Extracted 06 contours from deut2400.krn
+Extracted 08 contours from deut2401.krn
+Extracted 08 contours from deut2402.krn
+Extracted 07 contours from deut2403.krn
+Extracted 08 contours from deut2404.krn
+Extracted 07 contours from deut2405.krn
+Extracted 08 contours from deut2406.krn
+Extracted 08 contours from deut2407.krn
+Extracted 10 contours from deut2408.krn
+Extracted 04 contours from deut2409.krn
+Extracted 04 contours from deut2410.krn
+Extracted 04 contours from deut2411.krn
+Extracted 04 contours from deut2412.krn
+Extracted 05 contours from deut2413.krn
+Extracted 04 contours from deut2414.krn
+Extracted 05 contours from deut2415.krn
+Extracted 06 contours from deut2416.krn
+Extracted 10 contours from deut2417.krn
+Extracted 08 contours from deut2418.krn
+Extracted 12 contours from deut2419.krn
+Extracted 08 contours from deut2420.krn
+Extracted 10 contours from deut2421.krn
+Extracted 07 contours from deut2422.krn
+Extracted 05 contours from deut2423.krn
+Extracted 06 contours from deut2424.krn
+Extracted 12 contours from deut2425.krn
+Extracted 05 contours from deut2426.krn
+Extracted 08 contours from deut2427.krn
+Extracted 05 contours from deut2428.krn
+Extracted 08 contours from deut2429.krn
+Extracted 08 contours from deut2430.krn
+Extracted 05 contours from deut2431.krn
+Extracted 09 contours from deut2432.krn
+Extracted 12 contours from deut2433.krn
+Extracted 08 contours from deut2434.krn
+Extracted 06 contours from deut2435.krn
+Extracted 04 contours from deut2436.krn
+Extracted 04 contours from deut2437.krn
+Extracted 07 contours from deut2438.krn
+Extracted 06 contours from deut2439.krn
+Extracted 08 contours from deut2440.krn
+Extracted 04 contours from deut2441.krn
+Extracted 05 contours from deut2442.krn
+Extracted 06 contours from deut2443.krn
+Extracted 04 contours from deut2444.krn
+Extracted 05 contours from deut2445.krn
+Extracted 06 contours from deut2446.krn
+Extracted 06 contours from deut2447.krn
+Extracted 06 contours from deut2448.krn
+Extracted 07 contours from deut2449.krn
+Extracted 06 contours from deut2450.krn
+Extracted 04 contours from deut2451.krn
+Extracted 05 contours from deut2452.krn
+Extracted 04 contours from deut2453.krn
+Extracted 07 contours from deut2454.krn
+Extracted 04 contours from deut2455.krn
+Extracted 04 contours from deut2456.krn
+Extracted 04 contours from deut2457.krn
+Extracted 04 contours from deut2458.krn
+Extracted 04 contours from deut2459.krn
+Extracted 04 contours from deut2460.krn
+Extracted 08 contours from deut2461.krn
+Extracted 04 contours from deut2462.krn
+Extracted 04 contours from deut2463.krn
+Extracted 04 contours from deut2464.krn
+Extracted 06 contours from deut2465.krn
+Extracted 04 contours from deut2466.krn
+Extracted 06 contours from deut2467.krn
+Extracted 04 contours from deut2468.krn
+Extracted 08 contours from deut2469.krn
+Extracted 08 contours from deut2470.krn
+Extracted 04 contours from deut2471.krn
+Extracted 12 contours from deut2472.krn
+Extracted 06 contours from deut2473.krn
+Extracted 06 contours from deut2474.krn
+Extracted 04 contours from deut2475.krn
+Extracted 04 contours from deut2476.krn
+Extracted 04 contours from deut2477.krn
+Extracted 04 contours from deut2478.krn
+Extracted 08 contours from deut2479.krn
+Extracted 12 contours from deut2480.krn
+Extracted 06 contours from deut2481.krn
+Extracted 04 contours from deut2482.krn
+Extracted 08 contours from deut2483.krn
+Extracted 16 contours from deut2484.krn
+Extracted 06 contours from deut2485.krn
+Extracted 05 contours from deut2486.krn
+Extracted 08 contours from deut2487.krn
+Extracted 09 contours from deut2488.krn
+Extracted 04 contours from deut2489.krn
+Extracted 04 contours from deut2490.krn
+Extracted 04 contours from deut2491.krn
+Extracted 08 contours from deut2492.krn
+Extracted 04 contours from deut2493.krn
+Extracted 07 contours from deut2494.krn
+Extracted 06 contours from deut2495.krn
+Extracted 07 contours from deut2496.krn
+Extracted 09 contours from deut2497.krn
+Extracted 05 contours from deut2498.krn
+Extracted 04 contours from deut2499.krn
+Extracted 05 contours from deut2500.krn
+Extracted 07 contours from deut2501.krn
+Extracted 04 contours from deut2502.krn
+Extracted 08 contours from deut2503.krn
+Extracted 14 contours from deut2504.krn
+Extracted 07 contours from deut2505.krn
+Extracted 08 contours from deut2506.krn
+Extracted 06 contours from deut2507.krn
+Extracted 04 contours from deut2508.krn
+Extracted 04 contours from deut2509.krn
+Extracted 06 contours from deut2510.krn
+Extracted 08 contours from deut2511.krn
+Extracted 06 contours from deut2512.krn
+Extracted 06 contours from deut2513.krn
+Extracted 08 contours from deut2514.krn
+Extracted 04 contours from deut2515.krn
+Extracted 11 contours from deut2516.krn
+Extracted 06 contours from deut2517.krn
+Extracted 06 contours from deut2518.krn
+Extracted 12 contours from deut2519.krn
+Extracted 13 contours from deut2520.krn
+Extracted 12 contours from deut2521.krn
+Extracted 08 contours from deut2522.krn
+Extracted 08 contours from deut2523.krn
+Extracted 05 contours from deut2524.krn
+Extracted 04 contours from deut2525.krn
+Extracted 05 contours from deut2526.krn
+Extracted 08 contours from deut2527.krn
+Extracted 08 contours from deut2528.krn
+Extracted 05 contours from deut2529.krn
+Extracted 04 contours from deut2530.krn
+Extracted 04 contours from deut2531.krn
+Extracted 08 contours from deut2532.krn
+Extracted 05 contours from deut2533.krn
+Extracted 08 contours from deut2534.krn
+Extracted 05 contours from deut2535.krn
+Extracted 13 contours from deut2536.krn
+Extracted 08 contours from deut2537.krn
+Extracted 09 contours from deut2538.krn
+Extracted 08 contours from deut2539.krn
+Extracted 06 contours from deut2540.krn
+Extracted 12 contours from deut2541.krn
+Extracted 05 contours from deut2542.krn
+Extracted 10 contours from deut2543.krn
+Extracted 08 contours from deut2544.krn
+Extracted 07 contours from deut2545.krn
+Extracted 08 contours from deut2546.krn
+Extracted 04 contours from deut2547.krn
+Extracted 08 contours from deut2548.krn
+Extracted 08 contours from deut2549.krn
+Extracted 08 contours from deut2550.krn
+Extracted 05 contours from deut2551.krn
+Extracted 06 contours from deut2552.krn
+Extracted 05 contours from deut2553.krn
+Extracted 09 contours from deut2554.krn
+Extracted 09 contours from deut2555.krn
+Extracted 12 contours from deut2556.krn
+Extracted 08 contours from deut2557.krn
+Extracted 04 contours from deut2558.krn
+Extracted 10 contours from deut2559.krn
+Extracted 06 contours from deut2560.krn
+Extracted 12 contours from deut2561.krn
+Extracted 12 contours from deut2562.krn
+Extracted 08 contours from deut2563.krn
+Extracted 05 contours from deut2564.krn
+Extracted 10 contours from deut2565.krn
+Extracted 04 contours from deut2566.krn
+Extracted 06 contours from deut2567.krn
+Extracted 06 contours from deut2568.krn
+Extracted 08 contours from deut2569.krn
+Extracted 08 contours from deut2570.krn
+Extracted 08 contours from deut2571.krn
+Extracted 08 contours from deut2572.krn
+Extracted 07 contours from deut2573.krn
+Extracted 10 contours from deut2574.krn
+Extracted 08 contours from deut2575.krn
+Extracted 08 contours from deut2576.krn
+Extracted 06 contours from deut2577.krn
+Extracted 06 contours from deut2578.krn
+Extracted 08 contours from deut2579.krn
+Extracted 08 contours from deut2580.krn
+Extracted 08 contours from deut2581.krn
+Extracted 05 contours from deut2582.krn
+Extracted 07 contours from deut2583.krn
+Extracted 08 contours from deut2584.krn
+Extracted 08 contours from deut2585.krn
+Extracted 12 contours from deut2586.krn
+Extracted 03 contours from deut2587.krn
+Extracted 08 contours from deut2588.krn
+Extracted 04 contours from deut2589.krn
+Extracted 04 contours from deut2590.krn
+Extracted 07 contours from deut2591.krn
+Extracted 06 contours from deut2592.krn
+Extracted 08 contours from deut2593.krn
+Extracted 04 contours from deut2594.krn
+Extracted 05 contours from deut2595.krn
+Extracted 10 contours from deut2596.krn
+Extracted 07 contours from deut2597.krn
+Extracted 08 contours from deut2598.krn
+Extracted 08 contours from deut2599.krn
+Extracted 06 contours from deut2600.krn
+Extracted 03 contours from deut2601.krn
+Extracted 04 contours from deut2602.krn
+Extracted 08 contours from deut2603.krn
+Extracted 06 contours from deut2604.krn
+Extracted 06 contours from deut2605.krn
+Extracted 06 contours from deut2606.krn
+Extracted 06 contours from deut2607.krn
+Extracted 06 contours from deut2608.krn
+Extracted 06 contours from deut2609.krn
+Extracted 04 contours from deut2610.krn
+Extracted 04 contours from deut2611.krn
+Extracted 04 contours from deut2612.krn
+Extracted 06 contours from deut2613.krn
+Extracted 08 contours from deut2614.krn
+Extracted 08 contours from deut2615.krn
+Extracted 05 contours from deut2616.krn
+Extracted 04 contours from deut2617.krn
+Extracted 04 contours from deut2618.krn
+Extracted 06 contours from deut2619.krn
+Extracted 08 contours from deut2620.krn
+Extracted 07 contours from deut2621.krn
+Extracted 08 contours from deut2622.krn
+Extracted 06 contours from deut2623.krn
+Extracted 06 contours from deut2624.krn
+Extracted 06 contours from deut2625.krn
+Extracted 05 contours from deut2626.krn
+Extracted 07 contours from deut2627.krn
+Extracted 06 contours from deut2628.krn
+Extracted 08 contours from deut2629.krn
+Extracted 08 contours from deut2630.krn
+Extracted 08 contours from deut2631.krn
+Extracted 04 contours from deut2632.krn
+Extracted 06 contours from deut2633.krn
+Extracted 07 contours from deut2634.krn
+Extracted 04 contours from deut2635.krn
+Extracted 05 contours from deut2636.krn
+Extracted 04 contours from deut2637.krn
+Extracted 04 contours from deut2638.krn
+Extracted 09 contours from deut2639.krn
+Extracted 06 contours from deut2640.krn
+Extracted 08 contours from deut2641.krn
+Extracted 10 contours from deut2642.krn
+Extracted 04 contours from deut2643.krn
+Extracted 06 contours from deut2644.krn
+Extracted 06 contours from deut2645.krn
+Extracted 06 contours from deut2646.krn
+Extracted 08 contours from deut2647.krn
+Extracted 06 contours from deut2648.krn
+Extracted 06 contours from deut2649.krn
+Extracted 08 contours from deut2650.krn
+Extracted 07 contours from deut2651.krn
+Extracted 04 contours from deut2652.krn
+Extracted 08 contours from deut2653.krn
+Extracted 08 contours from deut2654.krn
+Extracted 10 contours from deut2655.krn
+Extracted 08 contours from deut2656.krn
+Extracted 08 contours from deut2657.krn
+Extracted 09 contours from deut2658.krn
+Extracted 06 contours from deut2659.krn
+Extracted 08 contours from deut2660.krn
+Extracted 08 contours from deut2661.krn
+Extracted 08 contours from deut2662.krn
+Extracted 08 contours from deut2663.krn
+Extracted 04 contours from deut2664.krn
+Extracted 04 contours from deut2665.krn
+Extracted 10 contours from deut2666.krn
+Extracted 04 contours from deut2667.krn
+Extracted 05 contours from deut2668.krn
+Extracted 04 contours from deut2669.krn
+Extracted 06 contours from deut2670.krn
+Extracted 06 contours from deut2671.krn
+Extracted 05 contours from deut2672.krn
+Extracted 06 contours from deut2673.krn
+Extracted 04 contours from deut2674.krn
+Extracted 10 contours from deut2675.krn
+Extracted 08 contours from deut2676.krn
+Extracted 08 contours from deut2677.krn
+Extracted 08 contours from deut2678.krn
+Extracted 06 contours from deut2679.krn
+Extracted 13 contours from deut2680.krn
+Extracted 04 contours from deut2681.krn
+Extracted 05 contours from deut2682.krn
+Extracted 06 contours from deut2683.krn
+Extracted 04 contours from deut2684.krn
+Extracted 05 contours from deut2685.krn
+Extracted 05 contours from deut2686.krn
+Extracted 08 contours from deut2687.krn
+Extracted 10 contours from deut2688.krn
+Extracted 09 contours from deut2689.krn
+Extracted 06 contours from deut2690.krn
+Extracted 04 contours from deut2691.krn
+Extracted 09 contours from deut2692.krn
+Extracted 09 contours from deut2693.krn
+Extracted 08 contours from deut2694.krn
+Extracted 05 contours from deut2695.krn
+Extracted 05 contours from deut2696.krn
+Extracted 07 contours from deut2697.krn
+Extracted 12 contours from deut2698.krn
+Extracted 09 contours from deut2699.krn
+Extracted 20 contours from deut2700.krn
+Extracted 04 contours from deut2701.krn
+Extracted 04 contours from deut2702.krn
+Extracted 06 contours from deut2703.krn
+Extracted 06 contours from deut2704.krn
+Extracted 08 contours from deut2705.krn
+Extracted 08 contours from deut2706.krn
+Extracted 04 contours from deut2707.krn
+Extracted 06 contours from deut2708.krn
+Extracted 08 contours from deut2709.krn
+Extracted 08 contours from deut2710.krn
+Extracted 09 contours from deut2711.krn
+Extracted 08 contours from deut2712.krn
+Extracted 04 contours from deut2713.krn
+Extracted 08 contours from deut2714.krn
+Extracted 04 contours from deut2715.krn
+Extracted 08 contours from deut2716.krn
+Extracted 08 contours from deut2717.krn
+Extracted 04 contours from deut2718.krn
+Extracted 10 contours from deut2719.krn
+Extracted 05 contours from deut2720.krn
+Extracted 05 contours from deut2721.krn
+Extracted 07 contours from deut2722.krn
+Extracted 07 contours from deut2723.krn
+Extracted 05 contours from deut2724.krn
+Extracted 06 contours from deut2725.krn
+Extracted 12 contours from deut2726.krn
+Extracted 08 contours from deut2727.krn
+Extracted 08 contours from deut2728.krn
+Extracted 07 contours from deut2729.krn
+Extracted 10 contours from deut2730.krn
+Extracted 10 contours from deut2731.krn
+Extracted 08 contours from deut2732.krn
+Extracted 10 contours from deut2733.krn
+Extracted 04 contours from deut2734.krn
+Extracted 06 contours from deut2735.krn
+Extracted 08 contours from deut2736.krn
+Extracted 08 contours from deut2737.krn
+Extracted 10 contours from deut2738.krn
+Extracted 08 contours from deut2739.krn
+Extracted 08 contours from deut2740.krn
+Extracted 08 contours from deut2741.krn
+Extracted 07 contours from deut2742.krn
+Extracted 12 contours from deut2743.krn
+Extracted 10 contours from deut2744.krn
+Extracted 06 contours from deut2745.krn
+Extracted 06 contours from deut2746.krn
+Extracted 04 contours from deut2747.krn
+Extracted 07 contours from deut2748.krn
+Extracted 08 contours from deut2749.krn
+Extracted 08 contours from deut2750.krn
+Extracted 06 contours from deut2751.krn
+Extracted 08 contours from deut2752.krn
+Extracted 08 contours from deut2753.krn
+Extracted 08 contours from deut2754.krn
+Extracted 10 contours from deut2755.krn
+Extracted 10 contours from deut2756.krn
+Extracted 08 contours from deut2757.krn
+Extracted 08 contours from deut2758.krn
+Extracted 09 contours from deut2759.krn
+Extracted 06 contours from deut2760.krn
+Extracted 10 contours from deut2761.krn
+Extracted 10 contours from deut2762.krn
+Extracted 08 contours from deut2763.krn
+Extracted 06 contours from deut2764.krn
+Extracted 09 contours from deut2765.krn
+Extracted 08 contours from deut2766.krn
+Extracted 09 contours from deut2767.krn
+Extracted 08 contours from deut2768.krn
+Extracted 04 contours from deut2769.krn
+Extracted 08 contours from deut2770.krn
+Extracted 08 contours from deut2771.krn
+Extracted 08 contours from deut2772.krn
+Extracted 07 contours from deut2773.krn
+Extracted 04 contours from deut2774.krn
+Extracted 09 contours from deut2775.krn
+Extracted 08 contours from deut2776.krn
+Extracted 05 contours from deut2777.krn
+Extracted 06 contours from deut2778.krn
+Extracted 12 contours from deut2779.krn
+Extracted 06 contours from deut2780.krn
+Extracted 08 contours from deut2781.krn
+Extracted 04 contours from deut2782.krn
+Extracted 09 contours from deut2783.krn
+Extracted 04 contours from deut2784.krn
+Extracted 08 contours from deut2785.krn
+Extracted 08 contours from deut2786.krn
+Extracted 10 contours from deut2787.krn
+Extracted 14 contours from deut2788.krn
+Extracted 06 contours from deut2789.krn
+Extracted 06 contours from deut2790.krn
+Extracted 07 contours from deut2791.krn
+Extracted 04 contours from deut2792.krn
+Extracted 06 contours from deut2793.krn
+Extracted 08 contours from deut2794.krn
+Extracted 10 contours from deut2795.krn
+Extracted 08 contours from deut2796.krn
+Extracted 14 contours from deut2797.krn
+Extracted 08 contours from deut2798.krn
+Extracted 05 contours from deut2799.krn
+Extracted 06 contours from deut2800.krn
+Extracted 05 contours from deut2801.krn
+Extracted 09 contours from deut2802.krn
+Extracted 04 contours from deut2803.krn
+Extracted 10 contours from deut2804.krn
+Extracted 04 contours from deut2805.krn
+Extracted 05 contours from deut2806.krn
+Extracted 04 contours from deut2807.krn
+Extracted 04 contours from deut2808.krn
+Extracted 08 contours from deut2809.krn
+Extracted 08 contours from deut2810.krn
+Extracted 08 contours from deut2811.krn
+Extracted 06 contours from deut2812.krn
+Extracted 06 contours from deut2813.krn
+Extracted 05 contours from deut2814.krn
+Extracted 08 contours from deut2815.krn
+Extracted 08 contours from deut2816.krn
+Extracted 06 contours from deut2817.krn
+Extracted 06 contours from deut2818.krn
+Extracted 04 contours from deut2819.krn
+Extracted 04 contours from deut2820.krn
+Extracted 08 contours from deut2821.krn
+Extracted 06 contours from deut2822.krn
+Extracted 06 contours from deut2823.krn
+Extracted 04 contours from deut2824.krn
+Extracted 06 contours from deut2825.krn
+Extracted 06 contours from deut2826.krn
+Extracted 06 contours from deut2827.krn
+Extracted 04 contours from deut2828.krn
+Extracted 04 contours from deut2829.krn
+Extracted 06 contours from deut2830.krn
+Extracted 06 contours from deut2831.krn
+Extracted 06 contours from deut2832.krn
+Extracted 06 contours from deut2833.krn
+Extracted 04 contours from deut2834.krn
+Extracted 04 contours from deut2835.krn
+Extracted 04 contours from deut2836.krn
+Extracted 04 contours from deut2837.krn
+Extracted 08 contours from deut2838.krn
+Extracted 06 contours from deut2839.krn
+Extracted 07 contours from deut2840.krn
+Extracted 08 contours from deut2841.krn
+Extracted 08 contours from deut2842.krn
+Extracted 04 contours from deut2843.krn
+Extracted 08 contours from deut2844.krn
+Extracted 09 contours from deut2845.krn
+Extracted 04 contours from deut2846.krn
+Extracted 08 contours from deut2847.krn
+Extracted 07 contours from deut2848.krn
+Extracted 06 contours from deut2849.krn
+Extracted 04 contours from deut2850.krn
+Extracted 04 contours from deut2851.krn
+Extracted 04 contours from deut2852.krn
+Extracted 04 contours from deut2853.krn
+Extracted 07 contours from deut2854.krn
+Extracted 04 contours from deut2855.krn
+Extracted 06 contours from deut2856.krn
+Extracted 04 contours from deut2857.krn
+Extracted 04 contours from deut2858.krn
+Extracted 05 contours from deut2859.krn
+Extracted 08 contours from deut2860.krn
+Extracted 04 contours from deut2861.krn
+Extracted 04 contours from deut2862.krn
+Extracted 08 contours from deut2863.krn
+Extracted 08 contours from deut2864.krn
+Extracted 05 contours from deut2865.krn
+Extracted 06 contours from deut2866.krn
+Extracted 09 contours from deut2867.krn
+Extracted 14 contours from deut2868.krn
+Extracted 12 contours from deut2869.krn
+Extracted 08 contours from deut2870.krn
+Extracted 09 contours from deut2871.krn
+Extracted 08 contours from deut2872.krn
+Extracted 09 contours from deut2873.krn
+Extracted 08 contours from deut2874.krn
+Extracted 08 contours from deut2875.krn
+Extracted 10 contours from deut2876.krn
+Extracted 05 contours from deut2877.krn
+Extracted 12 contours from deut2878.krn
+Extracted 04 contours from deut2879.krn
+Extracted 10 contours from deut2880.krn
+Extracted 16 contours from deut2881.krn
+Extracted 10 contours from deut2882.krn
+Extracted 05 contours from deut2883.krn
+Extracted 14 contours from deut2884.krn
+Extracted 04 contours from deut2885.krn
+Extracted 06 contours from deut2886.krn
+Extracted 05 contours from deut2887.krn
+Extracted 05 contours from deut2888.krn
+Extracted 08 contours from deut2889.krn
+Extracted 10 contours from deut2890.krn
+Extracted 08 contours from deut2891.krn
+Extracted 08 contours from deut2892.krn
+Extracted 08 contours from deut2893.krn
+Extracted 10 contours from deut2894.krn
+Extracted 10 contours from deut2895.krn
+Extracted 08 contours from deut2896.krn
+Extracted 05 contours from deut2897.krn
+Extracted 06 contours from deut2898.krn
+Extracted 07 contours from deut2899.krn
+Extracted 08 contours from deut2900.krn
+Extracted 14 contours from deut2901.krn
+Extracted 04 contours from deut2902.krn
+Extracted 08 contours from deut2903.krn
+Extracted 10 contours from deut2904.krn
+Extracted 09 contours from deut2905.krn
+Extracted 06 contours from deut2906.krn
+Extracted 06 contours from deut2907.krn
+Extracted 12 contours from deut2908.krn
+Extracted 08 contours from deut2909.krn
+Extracted 06 contours from deut2910.krn
+Extracted 06 contours from deut2911.krn
+Extracted 08 contours from deut2912.krn
+Extracted 08 contours from deut2913.krn
+Extracted 08 contours from deut2914.krn
+Extracted 08 contours from deut2915.krn
+Extracted 08 contours from deut2916.krn
+Extracted 11 contours from deut2917.krn
+Extracted 08 contours from deut2918.krn
+Extracted 08 contours from deut2919.krn
+Extracted 08 contours from deut2920.krn
+Extracted 06 contours from deut2921.krn
+Extracted 08 contours from deut2922.krn
+Extracted 04 contours from deut2923.krn
+Extracted 08 contours from deut2924.krn
+Extracted 12 contours from deut2925.krn
+Extracted 04 contours from deut2926.krn
+Extracted 07 contours from deut2927.krn
+Extracted 06 contours from deut2928.krn
+Extracted 06 contours from deut2929.krn
+Extracted 06 contours from deut2930.krn
+Extracted 09 contours from deut2931.krn
+Extracted 04 contours from deut2932.krn
+Extracted 06 contours from deut2933.krn
+Extracted 08 contours from deut2934.krn
+Extracted 08 contours from deut2935.krn
+Extracted 07 contours from deut2936.krn
+Extracted 04 contours from deut2937.krn
+Extracted 04 contours from deut2938.krn
+Extracted 06 contours from deut2939.krn
+Extracted 06 contours from deut2940.krn
+Extracted 06 contours from deut2941.krn
+Extracted 06 contours from deut2942.krn
+Extracted 08 contours from deut2943.krn
+Extracted 07 contours from deut2944.krn
+Extracted 06 contours from deut2945.krn
+Extracted 06 contours from deut2946.krn
+Extracted 04 contours from deut2947.krn
+Extracted 08 contours from deut2948.krn
+Extracted 06 contours from deut2949.krn
+Extracted 06 contours from deut2950.krn
+Extracted 04 contours from deut2951.krn
+Extracted 06 contours from deut2952.krn
+Extracted 04 contours from deut2953.krn
+Extracted 04 contours from deut2954.krn
+Extracted 08 contours from deut2955.krn
+Extracted 07 contours from deut2956.krn
+Extracted 07 contours from deut2957.krn
+Extracted 06 contours from deut2958.krn
+Extracted 10 contours from deut2959.krn
+Extracted 09 contours from deut2960.krn
+Extracted 04 contours from deut2961.krn
+Extracted 06 contours from deut2962.krn
+Extracted 06 contours from deut2963.krn
+Extracted 08 contours from deut2964.krn
+Extracted 06 contours from deut2965.krn
+Extracted 04 contours from deut2966.krn
+Extracted 06 contours from deut2967.krn
+Extracted 06 contours from deut2968.krn
+Extracted 07 contours from deut2969.krn
+Extracted 06 contours from deut2970.krn
+Extracted 08 contours from deut2971.krn
+Extracted 04 contours from deut2972.krn
+Extracted 08 contours from deut2973.krn
+Extracted 06 contours from deut2974.krn
+Extracted 06 contours from deut2975.krn
+Stored phrase contours to data/phrase-contours/boehme-phrase-contours.csv
+md5 checksum: 65b2331687e05003ee78612403d30808
+Extracting random contours with mean length lamb=8.34...
+Extracted 11 contours from deut2272.krn
+Extracted 09 contours from deut2273.krn
+Extracted 09 contours from deut2274.krn
+Extracted 06 contours from deut2275.krn
+Extracted 08 contours from deut2276.krn
+Extracted 04 contours from deut2277.krn
+Extracted 02 contours from deut2278.krn
+Extracted 03 contours from deut2279.krn
+Extracted 06 contours from deut2280.krn
+Extracted 04 contours from deut2281.krn
+Extracted 05 contours from deut2282.krn
+Extracted 03 contours from deut2283.krn
+Extracted 11 contours from deut2284.krn
+Extracted 04 contours from deut2285.krn
+Extracted 07 contours from deut2286.krn
+Extracted 04 contours from deut2287.krn
+Extracted 09 contours from deut2288.krn
+Extracted 12 contours from deut2289.krn
+Extracted 12 contours from deut2290.krn
+Extracted 08 contours from deut2291.krn
+Extracted 07 contours from deut2292.krn
+Extracted 06 contours from deut2293.krn
+Extracted 07 contours from deut2294.krn
+Extracted 10 contours from deut2295.krn
+Extracted 05 contours from deut2296.krn
+Extracted 05 contours from deut2297.krn
+Extracted 07 contours from deut2298.krn
+Extracted 02 contours from deut2299.krn
+Extracted 13 contours from deut2300.krn
+Extracted 10 contours from deut2301.krn
+Extracted 08 contours from deut2302.krn
+Extracted 09 contours from deut2303.krn
+Extracted 06 contours from deut2304.krn
+Extracted 06 contours from deut2305.krn
+Extracted 05 contours from deut2306.krn
+Extracted 06 contours from deut2307.krn
+Extracted 04 contours from deut2308.krn
+Extracted 07 contours from deut2309.krn
+Extracted 07 contours from deut2310.krn
+Extracted 09 contours from deut2311.krn
+Extracted 02 contours from deut2312.krn
+Extracted 07 contours from deut2313.krn
+Extracted 12 contours from deut2314.krn
+Extracted 07 contours from deut2315.krn
+Extracted 03 contours from deut2316.krn
+Extracted 04 contours from deut2317.krn
+Extracted 08 contours from deut2318.krn
+Extracted 03 contours from deut2319.krn
+Extracted 12 contours from deut2320.krn
+Extracted 11 contours from deut2321.krn
+Extracted 13 contours from deut2322.krn
+Extracted 05 contours from deut2323.krn
+Extracted 07 contours from deut2324.krn
+Extracted 07 contours from deut2325.krn
+Extracted 10 contours from deut2326.krn
+Extracted 07 contours from deut2327.krn
+Extracted 02 contours from deut2328.krn
+Extracted 04 contours from deut2329.krn
+Extracted 16 contours from deut2330.krn
+Extracted 06 contours from deut2331.krn
+Extracted 08 contours from deut2332.krn
+Extracted 05 contours from deut2333.krn
+Extracted 08 contours from deut2334.krn
+Extracted 06 contours from deut2335.krn
+Extracted 10 contours from deut2336.krn
+Extracted 06 contours from deut2337.krn
+Extracted 07 contours from deut2338.krn
+Extracted 08 contours from deut2339.krn
+Extracted 15 contours from deut2340.krn
+Extracted 11 contours from deut2341.krn
+Extracted 10 contours from deut2342.krn
+Skipping deut2343: ufunc 'nextafter' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
+Extracted 03 contours from deut2344.krn
+Extracted 01 contours from deut2345.krn
+Extracted 03 contours from deut2346.krn
+Extracted 04 contours from deut2347.krn
+Extracted 02 contours from deut2348.krn
+Extracted 05 contours from deut2349.krn
+Extracted 07 contours from deut2350.krn
+Skipping deut2351: A contour should have at least three pitches
+Extracted 05 contours from deut2352.krn
+Extracted 04 contours from deut2353.krn
+Extracted 05 contours from deut2354.krn
+Extracted 05 contours from deut2355.krn
+Extracted 05 contours from deut2356.krn
+Extracted 04 contours from deut2357.krn
+Extracted 06 contours from deut2358.krn
+Extracted 08 contours from deut2359.krn
+Extracted 09 contours from deut2360.krn
+Extracted 07 contours from deut2361.krn
+Extracted 08 contours from deut2362.krn
+Extracted 10 contours from deut2363.krn
+Extracted 05 contours from deut2364.krn
+Extracted 02 contours from deut2365.krn
+Extracted 03 contours from deut2366.krn
+Extracted 02 contours from deut2367.krn
+Extracted 03 contours from deut2368.krn
+Extracted 08 contours from deut2369.krn
+Extracted 03 contours from deut2370.krn
+Extracted 05 contours from deut2371.krn
+Extracted 04 contours from deut2372.krn
+Extracted 06 contours from deut2373.krn
+Extracted 06 contours from deut2374.krn
+Extracted 03 contours from deut2375.krn
+Extracted 03 contours from deut2376.krn
+Extracted 03 contours from deut2377.krn
+Extracted 04 contours from deut2378.krn
+Extracted 09 contours from deut2379.krn
+Extracted 04 contours from deut2380.krn
+Extracted 07 contours from deut2381.krn
+Extracted 09 contours from deut2382.krn
+Extracted 08 contours from deut2383.krn
+Extracted 03 contours from deut2384.krn
+Extracted 03 contours from deut2385.krn
+Extracted 08 contours from deut2386.krn
+Extracted 07 contours from deut2387.krn
+Extracted 06 contours from deut2388.krn
+Extracted 03 contours from deut2389.krn
+Extracted 05 contours from deut2390.krn
+Extracted 06 contours from deut2391.krn
+Extracted 04 contours from deut2392.krn
+Extracted 02 contours from deut2393.krn
+Extracted 04 contours from deut2394.krn
+Extracted 07 contours from deut2395.krn
+Extracted 07 contours from deut2396.krn
+Extracted 05 contours from deut2397.krn
+Extracted 07 contours from deut2398.krn
+Extracted 07 contours from deut2399.krn
+Extracted 06 contours from deut2400.krn
+Extracted 08 contours from deut2401.krn
+Extracted 06 contours from deut2402.krn
+Extracted 05 contours from deut2403.krn
+Extracted 06 contours from deut2404.krn
+Extracted 09 contours from deut2405.krn
+Extracted 05 contours from deut2406.krn
+Extracted 08 contours from deut2407.krn
+Extracted 08 contours from deut2408.krn
+Extracted 05 contours from deut2409.krn
+Extracted 05 contours from deut2410.krn
+Extracted 05 contours from deut2411.krn
+Extracted 02 contours from deut2412.krn
+Extracted 04 contours from deut2413.krn
+Extracted 03 contours from deut2414.krn
+Extracted 03 contours from deut2415.krn
+Extracted 04 contours from deut2416.krn
+Extracted 05 contours from deut2417.krn
+Extracted 05 contours from deut2418.krn
+Extracted 08 contours from deut2419.krn
+Extracted 05 contours from deut2420.krn
+Extracted 10 contours from deut2421.krn
+Extracted 06 contours from deut2422.krn
+Extracted 04 contours from deut2423.krn
+Extracted 06 contours from deut2424.krn
+Extracted 12 contours from deut2425.krn
+Extracted 04 contours from deut2426.krn
+Extracted 05 contours from deut2427.krn
+Extracted 04 contours from deut2428.krn
+Extracted 05 contours from deut2429.krn
+Extracted 06 contours from deut2430.krn
+Extracted 04 contours from deut2431.krn
+Extracted 08 contours from deut2432.krn
+Extracted 07 contours from deut2433.krn
+Extracted 06 contours from deut2434.krn
+Extracted 04 contours from deut2435.krn
+Extracted 03 contours from deut2436.krn
+Extracted 02 contours from deut2437.krn
+Extracted 05 contours from deut2438.krn
+Extracted 04 contours from deut2439.krn
+Extracted 04 contours from deut2440.krn
+Extracted 03 contours from deut2441.krn
+Extracted 04 contours from deut2442.krn
+Extracted 07 contours from deut2443.krn
+Extracted 04 contours from deut2444.krn
+Extracted 05 contours from deut2445.krn
+Extracted 06 contours from deut2446.krn
+Extracted 04 contours from deut2447.krn
+Extracted 05 contours from deut2448.krn
+Extracted 05 contours from deut2449.krn
+Extracted 04 contours from deut2450.krn
+Extracted 02 contours from deut2451.krn
+Extracted 04 contours from deut2452.krn
+Extracted 03 contours from deut2453.krn
+Extracted 06 contours from deut2454.krn
+Extracted 02 contours from deut2455.krn
+Extracted 03 contours from deut2456.krn
+Extracted 03 contours from deut2457.krn
+Extracted 03 contours from deut2458.krn
+Extracted 02 contours from deut2459.krn
+Extracted 04 contours from deut2460.krn
+Extracted 07 contours from deut2461.krn
+Extracted 03 contours from deut2462.krn
+Extracted 04 contours from deut2463.krn
+Extracted 02 contours from deut2464.krn
+Extracted 04 contours from deut2465.krn
+Extracted 02 contours from deut2466.krn
+Extracted 04 contours from deut2467.krn
+Extracted 01 contours from deut2468.krn
+Extracted 08 contours from deut2469.krn
+Extracted 07 contours from deut2470.krn
+Extracted 02 contours from deut2471.krn
+Skipping deut2472: ufunc 'nextafter' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
+Extracted 03 contours from deut2473.krn
+Extracted 05 contours from deut2474.krn
+Extracted 03 contours from deut2475.krn
+Extracted 04 contours from deut2476.krn
+Extracted 02 contours from deut2477.krn
+Extracted 02 contours from deut2478.krn
+Extracted 10 contours from deut2479.krn
+Extracted 09 contours from deut2480.krn
+Extracted 04 contours from deut2481.krn
+Extracted 04 contours from deut2482.krn
+Extracted 10 contours from deut2483.krn
+Extracted 09 contours from deut2484.krn
+Extracted 06 contours from deut2485.krn
+Extracted 05 contours from deut2486.krn
+Extracted 08 contours from deut2487.krn
+Extracted 12 contours from deut2488.krn
+Extracted 03 contours from deut2489.krn
+Extracted 03 contours from deut2490.krn
+Extracted 02 contours from deut2491.krn
+Skipping deut2492: ufunc 'nextafter' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
+Extracted 03 contours from deut2493.krn
+Extracted 06 contours from deut2494.krn
+Extracted 07 contours from deut2495.krn
+Extracted 05 contours from deut2496.krn
+Extracted 13 contours from deut2497.krn
+Extracted 04 contours from deut2498.krn
+Extracted 04 contours from deut2499.krn
+Extracted 06 contours from deut2500.krn
+Extracted 10 contours from deut2501.krn
+Extracted 04 contours from deut2502.krn
+Extracted 08 contours from deut2503.krn
+Extracted 09 contours from deut2504.krn
+Extracted 09 contours from deut2505.krn
+Extracted 05 contours from deut2506.krn
+Extracted 05 contours from deut2507.krn
+Extracted 03 contours from deut2508.krn
+Extracted 03 contours from deut2509.krn
+Extracted 05 contours from deut2510.krn
+Extracted 04 contours from deut2511.krn
+Extracted 04 contours from deut2512.krn
+Extracted 03 contours from deut2513.krn
+Extracted 06 contours from deut2514.krn
+Extracted 03 contours from deut2515.krn
+Extracted 12 contours from deut2516.krn
+Extracted 04 contours from deut2517.krn
+Extracted 04 contours from deut2518.krn
+Extracted 10 contours from deut2519.krn
+Extracted 16 contours from deut2520.krn
+Extracted 08 contours from deut2521.krn
+Extracted 04 contours from deut2522.krn
+Extracted 06 contours from deut2523.krn
+Extracted 07 contours from deut2524.krn
+Extracted 05 contours from deut2525.krn
+Extracted 05 contours from deut2526.krn
+Extracted 07 contours from deut2527.krn
+Extracted 05 contours from deut2528.krn
+Extracted 04 contours from deut2529.krn
+Extracted 04 contours from deut2530.krn
+Extracted 03 contours from deut2531.krn
+Extracted 09 contours from deut2532.krn
+Extracted 04 contours from deut2533.krn
+Extracted 06 contours from deut2534.krn
+Extracted 06 contours from deut2535.krn
+Extracted 14 contours from deut2536.krn
+Extracted 10 contours from deut2537.krn
+Extracted 08 contours from deut2538.krn
+Extracted 09 contours from deut2539.krn
+Extracted 04 contours from deut2540.krn
+Extracted 09 contours from deut2541.krn
+Skipping deut2542: A contour should have at least three pitches
+Extracted 07 contours from deut2543.krn
+Extracted 06 contours from deut2544.krn
+Extracted 05 contours from deut2545.krn
+Extracted 07 contours from deut2546.krn
+Extracted 03 contours from deut2547.krn
+Extracted 06 contours from deut2548.krn
+Extracted 06 contours from deut2549.krn
+Extracted 07 contours from deut2550.krn
+Extracted 04 contours from deut2551.krn
+Extracted 07 contours from deut2552.krn
+Extracted 06 contours from deut2553.krn
+Extracted 06 contours from deut2554.krn
+Extracted 10 contours from deut2555.krn
+Extracted 09 contours from deut2556.krn
+Extracted 08 contours from deut2557.krn
+Extracted 02 contours from deut2558.krn
+Extracted 11 contours from deut2559.krn
+Extracted 05 contours from deut2560.krn
+Extracted 07 contours from deut2561.krn
+Extracted 13 contours from deut2562.krn
+Extracted 09 contours from deut2563.krn
+Extracted 04 contours from deut2564.krn
+Extracted 10 contours from deut2565.krn
+Extracted 02 contours from deut2566.krn
+Extracted 07 contours from deut2567.krn
+Extracted 06 contours from deut2568.krn
+Extracted 04 contours from deut2569.krn
+Skipping deut2570: ufunc 'nextafter' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
+Extracted 08 contours from deut2571.krn
+Extracted 07 contours from deut2572.krn
+Extracted 07 contours from deut2573.krn
+Extracted 05 contours from deut2574.krn
+Extracted 11 contours from deut2575.krn
+Extracted 04 contours from deut2576.krn
+Extracted 04 contours from deut2577.krn
+Extracted 04 contours from deut2578.krn
+Extracted 05 contours from deut2579.krn
+Extracted 03 contours from deut2580.krn
+Extracted 05 contours from deut2581.krn
+Extracted 06 contours from deut2582.krn
+Extracted 05 contours from deut2583.krn
+Extracted 06 contours from deut2584.krn
+Extracted 06 contours from deut2585.krn
+Extracted 06 contours from deut2586.krn
+Extracted 02 contours from deut2587.krn
+Extracted 07 contours from deut2588.krn
+Extracted 03 contours from deut2589.krn
+Extracted 02 contours from deut2590.krn
+Extracted 09 contours from deut2591.krn
+Extracted 05 contours from deut2592.krn
+Extracted 06 contours from deut2593.krn
+Extracted 03 contours from deut2594.krn
+Extracted 03 contours from deut2595.krn
+Extracted 08 contours from deut2596.krn
+Extracted 03 contours from deut2597.krn
+Extracted 05 contours from deut2598.krn
+Extracted 08 contours from deut2599.krn
+Extracted 02 contours from deut2600.krn
+Extracted 01 contours from deut2601.krn
+Extracted 05 contours from deut2602.krn
+Extracted 08 contours from deut2603.krn
+Skipping deut2604: ufunc 'nextafter' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
+Extracted 03 contours from deut2605.krn
+Extracted 06 contours from deut2606.krn
+Extracted 06 contours from deut2607.krn
+Extracted 07 contours from deut2608.krn
+Extracted 10 contours from deut2609.krn
+Extracted 03 contours from deut2610.krn
+Extracted 03 contours from deut2611.krn
+Extracted 04 contours from deut2612.krn
+Extracted 06 contours from deut2613.krn
+Extracted 05 contours from deut2614.krn
+Extracted 06 contours from deut2615.krn
+Extracted 03 contours from deut2616.krn
+Extracted 03 contours from deut2617.krn
+Extracted 03 contours from deut2618.krn
+Extracted 08 contours from deut2619.krn
+Extracted 07 contours from deut2620.krn
+Extracted 09 contours from deut2621.krn
+Extracted 07 contours from deut2622.krn
+Extracted 06 contours from deut2623.krn
+Extracted 07 contours from deut2624.krn
+Extracted 05 contours from deut2625.krn
+Extracted 04 contours from deut2626.krn
+Extracted 04 contours from deut2627.krn
+Extracted 06 contours from deut2628.krn
+Extracted 09 contours from deut2629.krn
+Extracted 08 contours from deut2630.krn
+Extracted 08 contours from deut2631.krn
+Extracted 03 contours from deut2632.krn
+Extracted 06 contours from deut2633.krn
+Extracted 06 contours from deut2634.krn
+Extracted 02 contours from deut2635.krn
+Extracted 03 contours from deut2636.krn
+Extracted 01 contours from deut2637.krn
+Extracted 02 contours from deut2638.krn
+Extracted 09 contours from deut2639.krn
+Extracted 06 contours from deut2640.krn
+Extracted 13 contours from deut2641.krn
+Extracted 14 contours from deut2642.krn
+Extracted 04 contours from deut2643.krn
+Extracted 04 contours from deut2644.krn
+Extracted 05 contours from deut2645.krn
+Extracted 08 contours from deut2646.krn
+Extracted 06 contours from deut2647.krn
+Extracted 06 contours from deut2648.krn
+Extracted 06 contours from deut2649.krn
+Extracted 09 contours from deut2650.krn
+Extracted 10 contours from deut2651.krn
+Extracted 01 contours from deut2652.krn
+Extracted 06 contours from deut2653.krn
+Extracted 04 contours from deut2654.krn
+Extracted 07 contours from deut2655.krn
+Extracted 08 contours from deut2656.krn
+Extracted 07 contours from deut2657.krn
+Extracted 05 contours from deut2658.krn
+Extracted 05 contours from deut2659.krn
+Skipping deut2660: A contour should have at least three pitches
+Extracted 09 contours from deut2661.krn
+Extracted 09 contours from deut2662.krn
+Extracted 10 contours from deut2663.krn
+Extracted 03 contours from deut2664.krn
+Extracted 03 contours from deut2665.krn
+Extracted 12 contours from deut2666.krn
+Extracted 05 contours from deut2667.krn
+Extracted 02 contours from deut2668.krn
+Extracted 04 contours from deut2669.krn
+Extracted 05 contours from deut2670.krn
+Extracted 07 contours from deut2671.krn
+Extracted 05 contours from deut2672.krn
+Extracted 05 contours from deut2673.krn
+Extracted 01 contours from deut2674.krn
+Extracted 07 contours from deut2675.krn
+Extracted 09 contours from deut2676.krn
+Extracted 08 contours from deut2677.krn
+Extracted 06 contours from deut2678.krn
+Extracted 05 contours from deut2679.krn
+Extracted 08 contours from deut2680.krn
+Extracted 02 contours from deut2681.krn
+Extracted 03 contours from deut2682.krn
+Extracted 05 contours from deut2683.krn
+Extracted 03 contours from deut2684.krn
+Extracted 06 contours from deut2685.krn
+Extracted 04 contours from deut2686.krn
+Extracted 09 contours from deut2687.krn
+Extracted 13 contours from deut2688.krn
+Extracted 08 contours from deut2689.krn
+Extracted 06 contours from deut2690.krn
+Extracted 04 contours from deut2691.krn
+Extracted 08 contours from deut2692.krn
+Extracted 10 contours from deut2693.krn
+Extracted 06 contours from deut2694.krn
+Extracted 04 contours from deut2695.krn
+Extracted 03 contours from deut2696.krn
+Extracted 06 contours from deut2697.krn
+Extracted 12 contours from deut2698.krn
+Extracted 09 contours from deut2699.krn
+Extracted 18 contours from deut2700.krn
+Extracted 03 contours from deut2701.krn
+Extracted 03 contours from deut2702.krn
+Extracted 07 contours from deut2703.krn
+Extracted 05 contours from deut2704.krn
+Extracted 08 contours from deut2705.krn
+Extracted 05 contours from deut2706.krn
+Extracted 01 contours from deut2707.krn
+Extracted 04 contours from deut2708.krn
+Extracted 06 contours from deut2709.krn
+Extracted 06 contours from deut2710.krn
+Extracted 07 contours from deut2711.krn
+Extracted 08 contours from deut2712.krn
+Extracted 03 contours from deut2713.krn
+Extracted 06 contours from deut2714.krn
+Extracted 02 contours from deut2715.krn
+Extracted 05 contours from deut2716.krn
+Extracted 06 contours from deut2717.krn
+Extracted 03 contours from deut2718.krn
+Extracted 07 contours from deut2719.krn
+Extracted 04 contours from deut2720.krn
+Extracted 03 contours from deut2721.krn
+Skipping deut2722: ufunc 'nextafter' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
+Extracted 09 contours from deut2723.krn
+Extracted 03 contours from deut2724.krn
+Extracted 04 contours from deut2725.krn
+Extracted 11 contours from deut2726.krn
+Extracted 05 contours from deut2727.krn
+Extracted 04 contours from deut2728.krn
+Extracted 07 contours from deut2729.krn
+Extracted 07 contours from deut2730.krn
+Extracted 08 contours from deut2731.krn
+Extracted 07 contours from deut2732.krn
+Skipping deut2733: ufunc 'nextafter' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
+Extracted 03 contours from deut2734.krn
+Extracted 07 contours from deut2735.krn
+Extracted 06 contours from deut2736.krn
+Extracted 04 contours from deut2737.krn
+Extracted 11 contours from deut2738.krn
+Extracted 10 contours from deut2739.krn
+Extracted 07 contours from deut2740.krn
+Extracted 11 contours from deut2741.krn
+Extracted 03 contours from deut2742.krn
+Extracted 07 contours from deut2743.krn
+Extracted 11 contours from deut2744.krn
+Extracted 05 contours from deut2745.krn
+Extracted 06 contours from deut2746.krn
+Extracted 02 contours from deut2747.krn
+Extracted 05 contours from deut2748.krn
+Extracted 08 contours from deut2749.krn
+Extracted 07 contours from deut2750.krn
+Extracted 04 contours from deut2751.krn
+Extracted 09 contours from deut2752.krn
+Extracted 06 contours from deut2753.krn
+Extracted 08 contours from deut2754.krn
+Extracted 06 contours from deut2755.krn
+Extracted 07 contours from deut2756.krn
+Extracted 08 contours from deut2757.krn
+Extracted 07 contours from deut2758.krn
+Extracted 08 contours from deut2759.krn
+Extracted 06 contours from deut2760.krn
+Extracted 10 contours from deut2761.krn
+Extracted 08 contours from deut2762.krn
+Extracted 08 contours from deut2763.krn
+Extracted 04 contours from deut2764.krn
+Extracted 09 contours from deut2765.krn
+Extracted 07 contours from deut2766.krn
+Extracted 10 contours from deut2767.krn
+Extracted 07 contours from deut2768.krn
+Extracted 03 contours from deut2769.krn
+Extracted 09 contours from deut2770.krn
+Skipping deut2771: ufunc 'nextafter' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
+Extracted 08 contours from deut2772.krn
+Extracted 06 contours from deut2773.krn
+Extracted 02 contours from deut2774.krn
+Extracted 09 contours from deut2775.krn
+Extracted 08 contours from deut2776.krn
+Extracted 04 contours from deut2777.krn
+Extracted 05 contours from deut2778.krn
+Extracted 13 contours from deut2779.krn
+Extracted 04 contours from deut2780.krn
+Extracted 07 contours from deut2781.krn
+Extracted 04 contours from deut2782.krn
+Extracted 10 contours from deut2783.krn
+Extracted 02 contours from deut2784.krn
+Extracted 05 contours from deut2785.krn
+Extracted 06 contours from deut2786.krn
+Extracted 09 contours from deut2787.krn
+Extracted 16 contours from deut2788.krn
+Extracted 03 contours from deut2789.krn
+Extracted 05 contours from deut2790.krn
+Extracted 07 contours from deut2791.krn
+Extracted 04 contours from deut2792.krn
+Extracted 04 contours from deut2793.krn
+Extracted 11 contours from deut2794.krn
+Extracted 06 contours from deut2795.krn
+Extracted 06 contours from deut2796.krn
+Extracted 09 contours from deut2797.krn
+Extracted 05 contours from deut2798.krn
+Extracted 02 contours from deut2799.krn
+Extracted 04 contours from deut2800.krn
+Extracted 03 contours from deut2801.krn
+Extracted 06 contours from deut2802.krn
+Extracted 02 contours from deut2803.krn
+Extracted 08 contours from deut2804.krn
+Extracted 02 contours from deut2805.krn
+Extracted 01 contours from deut2806.krn
+Extracted 05 contours from deut2807.krn
+Extracted 03 contours from deut2808.krn
+Extracted 06 contours from deut2809.krn
+Extracted 06 contours from deut2810.krn
+Extracted 07 contours from deut2811.krn
+Extracted 04 contours from deut2812.krn
+Extracted 02 contours from deut2813.krn
+Extracted 02 contours from deut2814.krn
+Extracted 05 contours from deut2815.krn
+Extracted 06 contours from deut2816.krn
+Extracted 03 contours from deut2817.krn
+Extracted 04 contours from deut2818.krn
+Extracted 01 contours from deut2819.krn
+Extracted 03 contours from deut2820.krn
+Extracted 10 contours from deut2821.krn
+Extracted 02 contours from deut2822.krn
+Extracted 03 contours from deut2823.krn
+Extracted 01 contours from deut2824.krn
+Extracted 02 contours from deut2825.krn
+Extracted 05 contours from deut2826.krn
+Extracted 04 contours from deut2827.krn
+Extracted 03 contours from deut2828.krn
+Extracted 01 contours from deut2829.krn
+Extracted 04 contours from deut2830.krn
+Extracted 05 contours from deut2831.krn
+Extracted 04 contours from deut2832.krn
+Extracted 06 contours from deut2833.krn
+Extracted 02 contours from deut2834.krn
+Extracted 02 contours from deut2835.krn
+Extracted 03 contours from deut2836.krn
+Extracted 03 contours from deut2837.krn
+Extracted 06 contours from deut2838.krn
+Extracted 08 contours from deut2839.krn
+Extracted 07 contours from deut2840.krn
+Extracted 05 contours from deut2841.krn
+Extracted 09 contours from deut2842.krn
+Extracted 02 contours from deut2843.krn
+Extracted 07 contours from deut2844.krn
+Extracted 11 contours from deut2845.krn
+Extracted 03 contours from deut2846.krn
+Extracted 09 contours from deut2847.krn
+Extracted 08 contours from deut2848.krn
+Extracted 03 contours from deut2849.krn
+Extracted 02 contours from deut2850.krn
+Extracted 02 contours from deut2851.krn
+Extracted 06 contours from deut2852.krn
+Extracted 05 contours from deut2853.krn
+Extracted 07 contours from deut2854.krn
+Extracted 03 contours from deut2855.krn
+Extracted 03 contours from deut2856.krn
+Extracted 05 contours from deut2857.krn
+Extracted 03 contours from deut2858.krn
+Extracted 03 contours from deut2859.krn
+Extracted 07 contours from deut2860.krn
+Extracted 04 contours from deut2861.krn
+Extracted 04 contours from deut2862.krn
+Extracted 07 contours from deut2863.krn
+Extracted 08 contours from deut2864.krn
+Extracted 03 contours from deut2865.krn
+Extracted 07 contours from deut2866.krn
+Extracted 06 contours from deut2867.krn
+Extracted 10 contours from deut2868.krn
+Extracted 09 contours from deut2869.krn
+Extracted 06 contours from deut2870.krn
+Extracted 07 contours from deut2871.krn
+Extracted 06 contours from deut2872.krn
+Extracted 07 contours from deut2873.krn
+Extracted 05 contours from deut2874.krn
+Extracted 07 contours from deut2875.krn
+Extracted 10 contours from deut2876.krn
+Extracted 03 contours from deut2877.krn
+Extracted 07 contours from deut2878.krn
+Extracted 01 contours from deut2879.krn
+Extracted 11 contours from deut2880.krn
+Extracted 12 contours from deut2881.krn
+Extracted 09 contours from deut2882.krn
+Extracted 05 contours from deut2883.krn
+Extracted 09 contours from deut2884.krn
+Extracted 04 contours from deut2885.krn
+Extracted 05 contours from deut2886.krn
+Extracted 06 contours from deut2887.krn
+Extracted 04 contours from deut2888.krn
+Extracted 06 contours from deut2889.krn
+Extracted 04 contours from deut2890.krn
+Extracted 09 contours from deut2891.krn
+Skipping deut2892: A contour should have at least three pitches
+Extracted 05 contours from deut2893.krn
+Extracted 05 contours from deut2894.krn
+Extracted 07 contours from deut2895.krn
+Extracted 05 contours from deut2896.krn
+Extracted 02 contours from deut2897.krn
+Extracted 08 contours from deut2898.krn
+Extracted 06 contours from deut2899.krn
+Extracted 09 contours from deut2900.krn
+Extracted 09 contours from deut2901.krn
+Extracted 03 contours from deut2902.krn
+Extracted 06 contours from deut2903.krn
+Extracted 13 contours from deut2904.krn
+Extracted 11 contours from deut2905.krn
+Extracted 06 contours from deut2906.krn
+Extracted 04 contours from deut2907.krn
+Extracted 07 contours from deut2908.krn
+Extracted 06 contours from deut2909.krn
+Extracted 06 contours from deut2910.krn
+Extracted 04 contours from deut2911.krn
+Extracted 05 contours from deut2912.krn
+Extracted 05 contours from deut2913.krn
+Extracted 08 contours from deut2914.krn
+Extracted 08 contours from deut2915.krn
+Extracted 10 contours from deut2916.krn
+Extracted 08 contours from deut2917.krn
+Extracted 09 contours from deut2918.krn
+Extracted 06 contours from deut2919.krn
+Extracted 06 contours from deut2920.krn
+Extracted 05 contours from deut2921.krn
+Extracted 06 contours from deut2922.krn
+Extracted 06 contours from deut2923.krn
+Extracted 05 contours from deut2924.krn
+Extracted 13 contours from deut2925.krn
+Extracted 05 contours from deut2926.krn
+Extracted 07 contours from deut2927.krn
+Extracted 05 contours from deut2928.krn
+Extracted 05 contours from deut2929.krn
+Extracted 05 contours from deut2930.krn
+Extracted 07 contours from deut2931.krn
+Extracted 02 contours from deut2932.krn
+Extracted 06 contours from deut2933.krn
+Extracted 06 contours from deut2934.krn
+Extracted 04 contours from deut2935.krn
+Extracted 07 contours from deut2936.krn
+Extracted 03 contours from deut2937.krn
+Extracted 03 contours from deut2938.krn
+Extracted 05 contours from deut2939.krn
+Extracted 03 contours from deut2940.krn
+Extracted 05 contours from deut2941.krn
+Extracted 04 contours from deut2942.krn
+Extracted 05 contours from deut2943.krn
+Extracted 04 contours from deut2944.krn
+Extracted 05 contours from deut2945.krn
+Extracted 06 contours from deut2946.krn
+Extracted 02 contours from deut2947.krn
+Extracted 06 contours from deut2948.krn
+Extracted 03 contours from deut2949.krn
+Extracted 06 contours from deut2950.krn
+Extracted 02 contours from deut2951.krn
+Extracted 06 contours from deut2952.krn
+Extracted 02 contours from deut2953.krn
+Extracted 03 contours from deut2954.krn
+Extracted 06 contours from deut2955.krn
+Extracted 05 contours from deut2956.krn
+Extracted 05 contours from deut2957.krn
+Extracted 03 contours from deut2958.krn
+Extracted 08 contours from deut2959.krn
+Extracted 08 contours from deut2960.krn
+Extracted 04 contours from deut2961.krn
+Extracted 08 contours from deut2962.krn
+Extracted 04 contours from deut2963.krn
+Extracted 05 contours from deut2964.krn
+Extracted 06 contours from deut2965.krn
+Extracted 03 contours from deut2966.krn
+Extracted 04 contours from deut2967.krn
+Extracted 04 contours from deut2968.krn
+Extracted 06 contours from deut2969.krn
+Extracted 07 contours from deut2970.krn
+Extracted 05 contours from deut2971.krn
+Extracted 02 contours from deut2972.krn
+Extracted 07 contours from deut2973.krn
+Extracted 05 contours from deut2974.krn
+Extracted 05 contours from deut2975.krn
+Mean length of random phrases: 7.66...
+Stored random contours to data/phrase-contours/boehme-random-contours.csv
+md5 checksum: 43461ac14530387e235b223ee39c35e8
